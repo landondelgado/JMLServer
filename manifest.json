@@ -1,6 +1,6 @@
 {
   "PackName": "Landon SMP",
-  "Version": "2026.07.18.190837",
+  "Version": "2026.07.18.194921",
   "MinecraftVersion": "26.2",
   "ModLoader": "fabric",
   "FabricLoaderVersion": "",
@@ -46,6 +46,34 @@
       "Title": "Continuity",
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/1IjD5062/icon.png",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported"
+    },
+    {
+      "Path": "shaderpacks/ComplementaryReimagined_r5.8.1.zip",
+      "Url": "https://cdn.modrinth.com/data/HVnmMxH1/versions/yCCduG44/ComplementaryReimagined_r5.8.1.zip",
+      "Sha256": "3f1cd389e717b2e62f58edff222059b9c60de71b14bb49b517eb58318ce35b15",
+      "Size": 546925,
+      "Side": "client",
+      "ProjectId": "HVnmMxH1",
+      "VersionId": "yCCduG44",
+      "Title": "Complementary Shaders - Reimagined",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/HVnmMxH1/79cb7c8123bbc54945305b2ebad6b8881efdf5f8_96.webp",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported"
+    },
+    {
+      "Path": "resourcepacks/xali\u0027s Enhanced Vanilla -1.11.2b-rev.54d51d4.zip",
+      "Url": "https://cdn.modrinth.com/data/Srw5RQ6k/versions/dEGWry22/xali%27s%20Enhanced%20Vanilla%20-1.11.2b-rev.54d51d4.zip",
+      "Sha256": "ae69dcb419174a645a42eb3655da96cc51da9db19d3c5edbcd332071ed8561df",
+      "Size": 807859,
+      "Side": "client",
+      "ProjectId": "Srw5RQ6k",
+      "VersionId": "dEGWry22",
+      "Title": "xali\u0027s Enhanced Vanilla",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/Srw5RQ6k/icon.png",
       "ClientSupport": "required",
       "ServerSupport": "unsupported"
     }
