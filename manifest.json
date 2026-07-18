@@ -1,8 +1,8 @@
 {
   "PackName": "Landon SMP",
-  "Version": "2026.07.17.225715",
+  "Version": "2026.07.18.152104",
   "MinecraftVersion": "26.2",
   "NeoForgeVersion": "",
-  "JavaVersion": 21,
+  "JavaVersion": 25,
   "Files": []
 }
