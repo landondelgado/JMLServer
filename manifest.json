@@ -1,9 +1,9 @@
 {
   "PackName": "Landon SMP",
-  "Version": "2026.07.18.195800",
+  "Version": "2026.07.18.200615",
   "MinecraftVersion": "26.2",
   "ModLoader": "fabric",
-  "FabricLoaderVersion": "",
+  "FabricLoaderVersion": "0.19.3",
   "NeoForgeVersion": "",
   "JavaVersion": 25,
   "Files": [
