@@ -1,8 +1,8 @@
 {
   "PackName": "Landon SMP",
-  "Version": "2026.07.18.152158",
+  "Version": "2026.07.18.153017",
   "MinecraftVersion": "26.2",
-  "NeoForgeVersion": "",
+  "NeoForgeVersion": "26.2.0.25-beta",
   "JavaVersion": 25,
   "Files": [
     {
@@ -10,7 +10,7 @@
       "Url": "https://cdn.modrinth.com/data/AANobbMI/versions/KHPycol7/sodium-neoforge-0.9.1%2Bmc26.2.jar",
       "Sha256": "99211fc2a1d91c9beaa569044d191c08c68a1dbf5eb9bf1f5ee8296b9f768c81",
       "Size": 1128681,
-      "Side": "both",
+      "Side": "client",
       "ProjectId": "AANobbMI",
       "VersionId": "KHPycol7"
     }
