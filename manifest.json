@@ -1,6 +1,6 @@
 {
   "PackName": "Landon SMP",
-  "Version": "2026.07.18.172359",
+  "Version": "2026.07.18.172529",
   "MinecraftVersion": "26.2",
   "NeoForgeVersion": "26.2.0.25-beta",
   "JavaVersion": 25,
@@ -13,11 +13,11 @@
       "Side": "client",
       "ProjectId": "AANobbMI",
       "VersionId": "KHPycol7",
-      "Title": null,
+      "Title": "Sodium",
       "Author": null,
-      "IconUrl": null,
-      "ClientSupport": "unknown",
-      "ServerSupport": "unknown"
+      "IconUrl": "https://cdn.modrinth.com/data/AANobbMI/295862f4724dc3f78df3447ad6072b2dcd3ef0c9_96.webp",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported"
     }
   ]
 }
