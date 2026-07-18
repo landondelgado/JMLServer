@@ -1,26 +1,12 @@
 {
   "PackName": "Landon SMP",
-  "Version": "2026.07.18.194921",
+  "Version": "2026.07.18.195800",
   "MinecraftVersion": "26.2",
   "ModLoader": "fabric",
   "FabricLoaderVersion": "",
   "NeoForgeVersion": "",
   "JavaVersion": 25,
   "Files": [
-    {
-      "Path": "mods/sodium-fabric-0.9.0-beta.3\u002Bmc26.2r1.jar",
-      "Url": "https://cdn.modrinth.com/data/AANobbMI/versions/pBzGpoaN/sodium-fabric-0.9.0-beta.3%2Bmc26.2r1.jar",
-      "Sha256": "ec44dabdb61f0427e57ebb1e4367a0f90fe7d14198030ff19a49fffa6a24756d",
-      "Size": 1833233,
-      "Side": "client",
-      "ProjectId": "AANobbMI",
-      "VersionId": "pBzGpoaN",
-      "Title": "Sodium",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/AANobbMI/295862f4724dc3f78df3447ad6072b2dcd3ef0c9_96.webp",
-      "ClientSupport": "required",
-      "ServerSupport": "unsupported"
-    },
     {
       "Path": "mods/fabric-api-0.155.2\u002B26.2.jar",
       "Url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/lVXlbH4w/fabric-api-0.155.2%2B26.2.jar",
@@ -74,6 +60,34 @@
       "Title": "xali\u0027s Enhanced Vanilla",
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/Srw5RQ6k/icon.png",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported"
+    },
+    {
+      "Path": "mods/sodium-fabric-0.9.0-beta.3\u002Bmc26.2r1.jar",
+      "Url": "https://cdn.modrinth.com/data/AANobbMI/versions/pBzGpoaN/sodium-fabric-0.9.0-beta.3%2Bmc26.2r1.jar",
+      "Sha256": "ec44dabdb61f0427e57ebb1e4367a0f90fe7d14198030ff19a49fffa6a24756d",
+      "Size": 1833233,
+      "Side": "client",
+      "ProjectId": "AANobbMI",
+      "VersionId": "pBzGpoaN",
+      "Title": "Sodium",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/AANobbMI/295862f4724dc3f78df3447ad6072b2dcd3ef0c9_96.webp",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported"
+    },
+    {
+      "Path": "mods/iris-fabric-1.11.2\u002Bmc26.2.jar",
+      "Url": "https://cdn.modrinth.com/data/YL57xq9U/versions/oaD6KQls/iris-fabric-1.11.2%2Bmc26.2.jar",
+      "Sha256": "df0e2ccddaea17b191eda32b21c979e131bc9d4ef4f831113b50b461fc4a3804",
+      "Size": 2820763,
+      "Side": "client",
+      "ProjectId": "YL57xq9U",
+      "VersionId": "oaD6KQls",
+      "Title": "Iris Shaders",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/YL57xq9U/18d0e7f076d3d6ed5bedd472b853909aac5da202_96.webp",
       "ClientSupport": "required",
       "ServerSupport": "unsupported"
     }
