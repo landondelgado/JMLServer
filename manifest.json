@@ -1,6 +1,6 @@
 {
   "PackName": "Landon SMP",
-  "Version": "2026.07.18.153017",
+  "Version": "2026.07.18.172359",
   "MinecraftVersion": "26.2",
   "NeoForgeVersion": "26.2.0.25-beta",
   "JavaVersion": 25,
@@ -12,7 +12,12 @@
       "Size": 1128681,
       "Side": "client",
       "ProjectId": "AANobbMI",
-      "VersionId": "KHPycol7"
+      "VersionId": "KHPycol7",
+      "Title": null,
+      "Author": null,
+      "IconUrl": null,
+      "ClientSupport": "unknown",
+      "ServerSupport": "unknown"
     }
   ]
 }
