@@ -1,6 +1,6 @@
 {
   "PackName": "Landon SMP",
-  "Version": "2026.07.19.204516",
+  "Version": "2026.07.19.210442",
   "MinecraftVersion": "26.2",
   "ModLoader": "fabric",
   "FabricLoaderVersion": "",
@@ -230,6 +230,20 @@
       "IconUrl": "https://cdn.modrinth.com/data/uCdwusMi/e716cda9bb568b5373ff76e363fb4c6d7278fba6_96.webp",
       "ClientSupport": "optional",
       "ServerSupport": "optional"
+    },
+    {
+      "Path": "mods/Radiance-0.1.5-alpha-fabric-1.21.4-windows.jar",
+      "Url": "https://cdn.modrinth.com/data/9S0sc0Ex/versions/Nbyczdf4/Radiance-0.1.5-alpha-fabric-1.21.4-windows.jar",
+      "Sha256": "fc4f36919809c584f922704f29150da68202c7e6b4df9e3d35274552c668c86e",
+      "Size": 110646161,
+      "Side": "client",
+      "ProjectId": "9S0sc0Ex",
+      "VersionId": "Nbyczdf4",
+      "Title": "Radiance (Windows)",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/9S0sc0Ex/0e82cfd754a53bb7190789ec856de36c21726972_96.webp",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported"
     }
   ]
 }
