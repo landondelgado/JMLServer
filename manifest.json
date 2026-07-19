@@ -1,6 +1,6 @@
 {
   "PackName": "Landon SMP",
-  "Version": "2026.07.18.203209",
+  "Version": "2026.07.19.020308",
   "MinecraftVersion": "26.2",
   "ModLoader": "fabric",
   "FabricLoaderVersion": "",
@@ -158,6 +158,34 @@
       "Title": "xali\u0027s Enhanced Biome River \u0026 Pond",
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/b5INGWOv/fa282ab57e8d12a06d7323cda00b06f3d1010875.png",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported"
+    },
+    {
+      "Path": "mods/malilib-fabric-26.2-0.29.3.jar",
+      "Url": "https://cdn.modrinth.com/data/GcWjdA9I/versions/xKxhjDJ2/malilib-fabric-26.2-0.29.3.jar",
+      "Sha256": "5b95edce341d74351e656e35bdb51e9716596b86575d3d3d3cbf60b0940c207e",
+      "Size": 1959220,
+      "Side": "client",
+      "ProjectId": "GcWjdA9I",
+      "VersionId": "xKxhjDJ2",
+      "Title": "MaLiLib",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/GcWjdA9I/a530ae55df5e0c405f5cf1b3e4fd6163a398bdc3.png",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported"
+    },
+    {
+      "Path": "mods/litematica-fabric-26.2-0.28.4.jar",
+      "Url": "https://cdn.modrinth.com/data/bEpr0Arc/versions/jzraAo7b/litematica-fabric-26.2-0.28.4.jar",
+      "Sha256": "268fa149cc493ac997d7c8ec3dc3a232d90797d5251dbe19909e7a54cd529ee3",
+      "Size": 1873068,
+      "Side": "client",
+      "ProjectId": "bEpr0Arc",
+      "VersionId": "jzraAo7b",
+      "Title": "Litematica",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/bEpr0Arc/25b5529d7a3b030ac136a6ce879d8ed2a1aa4a8d.png",
       "ClientSupport": "required",
       "ServerSupport": "unsupported"
     }
