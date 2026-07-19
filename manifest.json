@@ -1,6 +1,6 @@
 {
   "PackName": "Landon SMP",
-  "Version": "2026.07.19.020308",
+  "Version": "2026.07.19.204516",
   "MinecraftVersion": "26.2",
   "ModLoader": "fabric",
   "FabricLoaderVersion": "",
@@ -188,6 +188,48 @@
       "IconUrl": "https://cdn.modrinth.com/data/bEpr0Arc/25b5529d7a3b030ac136a6ce879d8ed2a1aa4a8d.png",
       "ClientSupport": "required",
       "ServerSupport": "unsupported"
+    },
+    {
+      "Path": "mods/worldedit-mod-7.4.4.jar",
+      "Url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/j2w3GmPv/worldedit-mod-7.4.4.jar",
+      "Sha256": "5f257ffcaebf055d16171952cce5c2fea9d653a5c3b4f97f8139826068dd019b",
+      "Size": 5107529,
+      "Side": "server",
+      "ProjectId": "1u6JkXh5",
+      "VersionId": "j2w3GmPv",
+      "Title": "WorldEdit",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/1u6JkXh5/30698991048ced77e60c4e8284007d3782f2e6a3_96.webp",
+      "ClientSupport": "unsupported",
+      "ServerSupport": "required"
+    },
+    {
+      "Path": "mods/servux-fabric-26.2-0.11.2.jar",
+      "Url": "https://cdn.modrinth.com/data/zQhsx8KF/versions/qMld6z1t/servux-fabric-26.2-0.11.2.jar",
+      "Sha256": "cbe26334c0b5fe48d0989e7fa864d915ec6555c34a16889ee21e0d7ab37ec600",
+      "Size": 855179,
+      "Side": "server",
+      "ProjectId": "zQhsx8KF",
+      "VersionId": "qMld6z1t",
+      "Title": "Servux",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/zQhsx8KF/57cebce8838ddc7b27b46eb98abd7f2fb0b87105_96.webp",
+      "ClientSupport": "unsupported",
+      "ServerSupport": "required"
+    },
+    {
+      "Path": "mods/DistantHorizons-3.2.0-b-26.2-fabric-neoforge.jar",
+      "Url": "https://cdn.modrinth.com/data/uCdwusMi/versions/gBf0SaV1/DistantHorizons-3.2.0-b-26.2-fabric-neoforge.jar",
+      "Sha256": "fb7a60fa06775d208ff47ce4b98c668cdc527449c37da4a8068695794456349f",
+      "Size": 29705395,
+      "Side": "both",
+      "ProjectId": "uCdwusMi",
+      "VersionId": "gBf0SaV1",
+      "Title": "Distant Horizons",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/uCdwusMi/e716cda9bb568b5373ff76e363fb4c6d7278fba6_96.webp",
+      "ClientSupport": "optional",
+      "ServerSupport": "optional"
     }
   ]
 }
