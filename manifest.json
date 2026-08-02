@@ -1,6 +1,6 @@
 {
   "PackName": "Landon SMP",
-  "Version": "2026.08.02.052448",
+  "Version": "2026.08.02.052547",
   "MinecraftVersion": "26.2",
   "ModLoader": "fabric",
   "FabricLoaderVersion": "",
@@ -592,20 +592,6 @@
       "Title": "Particle Core",
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/RSeLon5O/147110a6a4457b2f287f68fc626771f0f8ef2cde_96.webp",
-      "ClientSupport": "required",
-      "ServerSupport": "unsupported"
-    },
-    {
-      "Path": "mods/bettersmoke-0.1.2\u002B1.21.9-1.21.11.jar",
-      "Url": "https://cdn.modrinth.com/data/Effrh3ze/versions/5L5AGmzz/bettersmoke-0.1.2%2B1.21.9-1.21.11.jar",
-      "Sha256": "069de135956991f2c58aeaa0373700f99c868b4f0977c67933b2ea27aac8ed02",
-      "Size": 237396,
-      "Side": "client",
-      "ProjectId": "Effrh3ze",
-      "VersionId": "5L5AGmzz",
-      "Title": "Better Smoke",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/Effrh3ze/274739fa3b82cb862dc571f83513c753e45fd0d1_96.webp",
       "ClientSupport": "required",
       "ServerSupport": "unsupported"
     }
