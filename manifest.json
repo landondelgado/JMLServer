@@ -1,6 +1,6 @@
 {
   "PackName": "Landon SMP",
-  "Version": "2026.08.02.183756",
+  "Version": "2026.08.02.184026",
   "MinecraftVersion": "26.2",
   "ModLoader": "fabric",
   "FabricLoaderVersion": "",
@@ -662,6 +662,34 @@
       "Title": "Interactive Foliage",
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/ba5MV2CF/fef912048183d2710eb9f6cd3d44d5452e509662_96.webp",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported"
+    },
+    {
+      "Path": "resourcepacks/rainbows-foliage-polytone-edition-v1.9.zip",
+      "Url": "https://cdn.modrinth.com/data/bY2CaVIh/versions/cUAhK5QP/rainbows-foliage-polytone-edition-v1.9.zip",
+      "Sha256": "435799b1f04dec4197d6c234661264da391a93442ff032a5f7b952b460d29f9b",
+      "Size": 1926208,
+      "Side": "client",
+      "ProjectId": "bY2CaVIh",
+      "VersionId": "cUAhK5QP",
+      "Title": "rainbow\u0027s foliage: polytone",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/bY2CaVIh/4640c82c26d72e6b2883f66a9c9bfe527545a69e_96.webp",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported"
+    },
+    {
+      "Path": "mods/polytone-fabric-26.2-5.10.2.jar",
+      "Url": "https://cdn.modrinth.com/data/3qAYkBMB/versions/YKRCWbYF/polytone-fabric-26.2-5.10.2.jar",
+      "Sha256": "c4eb13b8ca22d1bdbe040f3a11d4e75543d0009f1f5baa58c136ad82ad6765f2",
+      "Size": 1881039,
+      "Side": "client",
+      "ProjectId": "3qAYkBMB",
+      "VersionId": "YKRCWbYF",
+      "Title": "Polytone",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/3qAYkBMB/828636188cd2427eb1158dd1e0bddd42d318ccbf_96.webp",
       "ClientSupport": "required",
       "ServerSupport": "unsupported"
     }
