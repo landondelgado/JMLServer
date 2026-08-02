@@ -1,6 +1,6 @@
 {
   "PackName": "Landon SMP",
-  "Version": "2026.08.02.190213",
+  "Version": "2026.08.02.190758",
   "MinecraftVersion": "26.2",
   "ModLoader": "fabric",
   "FabricLoaderVersion": "",
@@ -550,20 +550,6 @@
       "Title": "Fresh Animations",
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/50dA9Sha/3132c10e9e3c73fde9799720fd3da5561071708c_96.webp",
-      "ClientSupport": "required",
-      "ServerSupport": "unsupported"
-    },
-    {
-      "Path": "resourcepacks/FA\u002BAll_Extensions-v1.9.2.zip",
-      "Url": "https://cdn.modrinth.com/data/YAVTU8mK/versions/R5ZGSF8A/FA%2BAll_Extensions-v1.9.2.zip",
-      "Sha256": "027acba5f64c9d1bf5ccb8daecb7fc756961bfeee866434a0ee5f7809a48d326",
-      "Size": 380622,
-      "Side": "client",
-      "ProjectId": "YAVTU8mK",
-      "VersionId": "R5ZGSF8A",
-      "Title": "Fresh Animations: Extensions",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/YAVTU8mK/2e83da75469cdec6d4558023cba611443b105c9e_96.webp",
       "ClientSupport": "required",
       "ServerSupport": "unsupported"
     },
