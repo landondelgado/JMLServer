@@ -1,6 +1,6 @@
 {
   "PackName": "Landon SMP",
-  "Version": "2026.08.02.190114",
+  "Version": "2026.08.02.190213",
   "MinecraftVersion": "26.2",
   "ModLoader": "fabric",
   "FabricLoaderVersion": "",
@@ -676,6 +676,20 @@
       "Title": "Os\u0027 Colorful Grasses",
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/O2zhH8n8/a502bfe9117c4f2b14dfdb8ee6f0e265375fbabf_96.webp",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported"
+    },
+    {
+      "Path": "resourcepacks/MickeyJoesFlowersV5.zip",
+      "Url": "https://cdn.modrinth.com/data/JfivfXs9/versions/YQ6AbYW7/MickeyJoesFlowersV5.zip",
+      "Sha256": "d3fd1acf30f0ba0a6eab588c9d7328b273d3b3d9204b86b566b561cf656d70a6",
+      "Size": 479932,
+      "Side": "client",
+      "ProjectId": "JfivfXs9",
+      "VersionId": "YQ6AbYW7",
+      "Title": "Mickey Joe\u0027s Flowers!",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/JfivfXs9/fb3afaad3c0230f80db13971b47cefe7cac3fc0e_96.webp",
       "ClientSupport": "required",
       "ServerSupport": "unsupported"
     }
