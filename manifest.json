@@ -1,6 +1,6 @@
 {
   "PackName": "Landon SMP",
-  "Version": "2026.08.02.220439",
+  "Version": "2026.08.02.220620",
   "MinecraftVersion": "26.2",
   "ModLoader": "fabric",
   "FabricLoaderVersion": "",
@@ -844,6 +844,20 @@
       "Title": "FastQuit",
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/x1hIzbuY/930154d1ed3e855079c5f6ee63faeb9bcbe87cfd_96.webp",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported"
+    },
+    {
+      "Path": "resourcepacks/\u00A7dnotandvm\u0027s\u00A70-\u00A7bsculk\u00A70-\u00A7bemissives!.zip",
+      "Url": "https://cdn.modrinth.com/data/d4Vebidc/versions/iXEF8tkR/%C2%A7dnotandvm%27s%C2%A70-%C2%A7bsculk%C2%A70-%C2%A7bemissives%21.zip",
+      "Sha256": "b56819013f304f3f193235bffaa54485b26868ade49c3c75ee75a23a4f80dec0",
+      "Size": 73647,
+      "Side": "client",
+      "ProjectId": "d4Vebidc",
+      "VersionId": "iXEF8tkR",
+      "Title": "notandvm\u0027s emissive sculk!",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/d4Vebidc/8ad123e763d5beaac7946fad24cf370586f0c34a_96.webp",
       "ClientSupport": "required",
       "ServerSupport": "unsupported"
     }
