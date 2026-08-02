@@ -1,6 +1,6 @@
 {
   "PackName": "Landon SMP",
-  "Version": "2026.08.02.180142",
+  "Version": "2026.08.02.180916",
   "MinecraftVersion": "26.2",
   "ModLoader": "fabric",
   "FabricLoaderVersion": "",
@@ -512,20 +512,6 @@
       "ServerSupport": "unsupported"
     },
     {
-      "Path": "resourcepacks/FA\u002BAll_Extensions-v1.9.2.zip",
-      "Url": "https://cdn.modrinth.com/data/YAVTU8mK/versions/R5ZGSF8A/FA%2BAll_Extensions-v1.9.2.zip",
-      "Sha256": "027acba5f64c9d1bf5ccb8daecb7fc756961bfeee866434a0ee5f7809a48d326",
-      "Size": 380622,
-      "Side": "client",
-      "ProjectId": "YAVTU8mK",
-      "VersionId": "R5ZGSF8A",
-      "Title": "Fresh Animations: Extensions",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/YAVTU8mK/2e83da75469cdec6d4558023cba611443b105c9e_96.webp",
-      "ClientSupport": "required",
-      "ServerSupport": "unsupported"
-    },
-    {
       "Path": "mods/PresenceFootsteps-1.13.3\u002B26.2.jar",
       "Url": "https://cdn.modrinth.com/data/rcTfTZr3/versions/8TkGmrgl/PresenceFootsteps-1.13.3%2B26.2.jar",
       "Sha256": "f1f7e37ffc5a56cf7cc9833d8c6b48680340554d72498160df021c6fc354af13",
@@ -564,6 +550,34 @@
       "Title": "Eating Animation Fork",
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/6Z8trFQe/3728bc0dd14ce1ec84599f9dad43aa5fbcfbef2a.gif",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported"
+    },
+    {
+      "Path": "resourcepacks/FreshAnimations_v1.10.5.zip",
+      "Url": "https://cdn.modrinth.com/data/50dA9Sha/versions/RGIzA5em/FreshAnimations_v1.10.5.zip",
+      "Sha256": "cf9f17a2977e171b33cb0b598bc4357dd0383e09c10d5f768ff17c12d0a028ee",
+      "Size": 645816,
+      "Side": "client",
+      "ProjectId": "50dA9Sha",
+      "VersionId": "RGIzA5em",
+      "Title": "Fresh Animations",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/50dA9Sha/3132c10e9e3c73fde9799720fd3da5561071708c_96.webp",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported"
+    },
+    {
+      "Path": "resourcepacks/FA\u002BAll_Extensions-v1.9.2.zip",
+      "Url": "https://cdn.modrinth.com/data/YAVTU8mK/versions/R5ZGSF8A/FA%2BAll_Extensions-v1.9.2.zip",
+      "Sha256": "027acba5f64c9d1bf5ccb8daecb7fc756961bfeee866434a0ee5f7809a48d326",
+      "Size": 380622,
+      "Side": "client",
+      "ProjectId": "YAVTU8mK",
+      "VersionId": "R5ZGSF8A",
+      "Title": "Fresh Animations: Extensions",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/YAVTU8mK/2e83da75469cdec6d4558023cba611443b105c9e_96.webp",
       "ClientSupport": "required",
       "ServerSupport": "unsupported"
     }
