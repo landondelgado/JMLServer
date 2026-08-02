@@ -1,6 +1,6 @@
 {
   "PackName": "Landon SMP",
-  "Version": "2026.08.02.185951",
+  "Version": "2026.08.02.190114",
   "MinecraftVersion": "26.2",
   "ModLoader": "fabric",
   "FabricLoaderVersion": "",
@@ -662,6 +662,20 @@
       "Title": "Polytone",
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/3qAYkBMB/828636188cd2427eb1158dd1e0bddd42d318ccbf_96.webp",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported"
+    },
+    {
+      "Path": "resourcepacks/Os\u0027 Colorful Grasses (Short and Fluffy).zip",
+      "Url": "https://cdn.modrinth.com/data/O2zhH8n8/versions/6y5oHV7t/Os%27%20Colorful%20Grasses%20%28Short%20and%20Fluffy%29.zip",
+      "Sha256": "f352b92a22e893d13bad898fc2ff7998cb714090cb139df139beec6343e4e296",
+      "Size": 185115,
+      "Side": "client",
+      "ProjectId": "O2zhH8n8",
+      "VersionId": "6y5oHV7t",
+      "Title": "Os\u0027 Colorful Grasses",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/O2zhH8n8/a502bfe9117c4f2b14dfdb8ee6f0e265375fbabf_96.webp",
       "ClientSupport": "required",
       "ServerSupport": "unsupported"
     }
