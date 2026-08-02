@@ -1,6 +1,6 @@
 {
   "PackName": "Landon SMP",
-  "Version": "2026.08.02.051401",
+  "Version": "2026.08.02.052448",
   "MinecraftVersion": "26.2",
   "ModLoader": "fabric",
   "FabricLoaderVersion": "",
@@ -302,34 +302,6 @@
       "ServerSupport": "unsupported"
     },
     {
-      "Path": "mods/fabric-language-kotlin-1.13.13\u002Bkotlin.2.4.10.jar",
-      "Url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/bdhiINYC/fabric-language-kotlin-1.13.13%2Bkotlin.2.4.10.jar",
-      "Sha256": "34ccdacf13bb9351fe43ce61912c2e09b72364e43e787d36ba3d2d04dec75a52",
-      "Size": 8076363,
-      "Side": "client",
-      "ProjectId": "Ha28R6CL",
-      "VersionId": "bdhiINYC",
-      "Title": "Fabric Language Kotlin",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/Ha28R6CL/72c3d74aeb665e45aea93a945a01474cbce3b7da_96.webp",
-      "ClientSupport": "optional",
-      "ServerSupport": "optional"
-    },
-    {
-      "Path": "mods/fzzy_config-0.7.6\u002B26.2.jar",
-      "Url": "https://cdn.modrinth.com/data/hYykXjDp/versions/EQSFgLYw/fzzy_config-0.7.6%2B26.2.jar",
-      "Sha256": "bbd4bbab6f381e123db5031ed051a9ad2d1a5ad4fb6ccf64d983ba416745e551",
-      "Size": 2373321,
-      "Side": "client",
-      "ProjectId": "hYykXjDp",
-      "VersionId": "EQSFgLYw",
-      "Title": "Fzzy Config",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/hYykXjDp/11f469b1bf1f201a95c2e3ddc09ca47d85c3ed53.png",
-      "ClientSupport": "required",
-      "ServerSupport": "required"
-    },
-    {
       "Path": "mods/SubtleEffects-fabric-26.2-1.14.3.jar",
       "Url": "https://cdn.modrinth.com/data/4q8UOK1d/versions/1uvLyKlq/SubtleEffects-fabric-26.2-1.14.3.jar",
       "Sha256": "c132d9138670c6c7821f233064db8e3a17c21f5b381fd31f723b1b3c9108f83a",
@@ -512,20 +484,6 @@
       "ServerSupport": "unsupported"
     },
     {
-      "Path": "mods/fabric-api-0.156.0\u002B26.2.jar",
-      "Url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/3gT0I5vt/fabric-api-0.156.0%2B26.2.jar",
-      "Sha256": "8de18d9f6a8a2a5b2120ef9e8bffb79cc9b75989c0c022c39c9dfc1bc3a29a99",
-      "Size": 2531175,
-      "Side": "client",
-      "ProjectId": "P7dR8mSH",
-      "VersionId": "3gT0I5vt",
-      "Title": "Fabric API",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/P7dR8mSH/icon.png",
-      "ClientSupport": "optional",
-      "ServerSupport": "optional"
-    },
-    {
       "Path": "mods/entityculling-fabric-1.10.5-mc26.2.jar",
       "Url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/iiF6U3Ne/entityculling-fabric-1.10.5-mc26.2.jar",
       "Sha256": "05a36decbb1bbb0f785d974068c0d9c191975e0d8d637e1eb1f2f6bb84eab05a",
@@ -580,6 +538,76 @@
       "IconUrl": "https://cdn.modrinth.com/data/VSNURh3q/3c2ce471054466712a44c8758a03e03bb868f93b_96.webp",
       "ClientSupport": "optional",
       "ServerSupport": "required"
+    },
+    {
+      "Path": "mods/fabric-language-kotlin-1.13.13\u002Bkotlin.2.4.10.jar",
+      "Url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/bdhiINYC/fabric-language-kotlin-1.13.13%2Bkotlin.2.4.10.jar",
+      "Sha256": "34ccdacf13bb9351fe43ce61912c2e09b72364e43e787d36ba3d2d04dec75a52",
+      "Size": 8076363,
+      "Side": "client",
+      "ProjectId": "Ha28R6CL",
+      "VersionId": "bdhiINYC",
+      "Title": "Fabric Language Kotlin",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/Ha28R6CL/72c3d74aeb665e45aea93a945a01474cbce3b7da_96.webp",
+      "ClientSupport": "optional",
+      "ServerSupport": "optional"
+    },
+    {
+      "Path": "mods/fabric-api-0.156.0\u002B26.2.jar",
+      "Url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/3gT0I5vt/fabric-api-0.156.0%2B26.2.jar",
+      "Sha256": "8de18d9f6a8a2a5b2120ef9e8bffb79cc9b75989c0c022c39c9dfc1bc3a29a99",
+      "Size": 2531175,
+      "Side": "client",
+      "ProjectId": "P7dR8mSH",
+      "VersionId": "3gT0I5vt",
+      "Title": "Fabric API",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/P7dR8mSH/icon.png",
+      "ClientSupport": "optional",
+      "ServerSupport": "optional"
+    },
+    {
+      "Path": "mods/fzzy_config-0.7.6\u002B26.2.jar",
+      "Url": "https://cdn.modrinth.com/data/hYykXjDp/versions/EQSFgLYw/fzzy_config-0.7.6%2B26.2.jar",
+      "Sha256": "bbd4bbab6f381e123db5031ed051a9ad2d1a5ad4fb6ccf64d983ba416745e551",
+      "Size": 2373321,
+      "Side": "client",
+      "ProjectId": "hYykXjDp",
+      "VersionId": "EQSFgLYw",
+      "Title": "Fzzy Config",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/hYykXjDp/11f469b1bf1f201a95c2e3ddc09ca47d85c3ed53.png",
+      "ClientSupport": "required",
+      "ServerSupport": "required"
+    },
+    {
+      "Path": "mods/particle_core-0.3.3\u002B26.2.jar",
+      "Url": "https://cdn.modrinth.com/data/RSeLon5O/versions/VFv6uQKM/particle_core-0.3.3%2B26.2.jar",
+      "Sha256": "1f07d37347e1e9b8a54e65c5aea90c358b567ac34bed0624d66c401e2b736ef8",
+      "Size": 141246,
+      "Side": "client",
+      "ProjectId": "RSeLon5O",
+      "VersionId": "VFv6uQKM",
+      "Title": "Particle Core",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/RSeLon5O/147110a6a4457b2f287f68fc626771f0f8ef2cde_96.webp",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported"
+    },
+    {
+      "Path": "mods/bettersmoke-0.1.2\u002B1.21.9-1.21.11.jar",
+      "Url": "https://cdn.modrinth.com/data/Effrh3ze/versions/5L5AGmzz/bettersmoke-0.1.2%2B1.21.9-1.21.11.jar",
+      "Sha256": "069de135956991f2c58aeaa0373700f99c868b4f0977c67933b2ea27aac8ed02",
+      "Size": 237396,
+      "Side": "client",
+      "ProjectId": "Effrh3ze",
+      "VersionId": "5L5AGmzz",
+      "Title": "Better Smoke",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/Effrh3ze/274739fa3b82cb862dc571f83513c753e45fd0d1_96.webp",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported"
     }
   ]
 }
