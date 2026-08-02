@@ -1,6 +1,6 @@
 {
   "PackName": "Landon SMP",
-  "Version": "2026.08.02.190758",
+  "Version": "2026.08.02.191153",
   "MinecraftVersion": "26.2",
   "ModLoader": "fabric",
   "FabricLoaderVersion": "",
@@ -46,20 +46,6 @@
       "Title": "Iris Shaders",
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/YL57xq9U/18d0e7f076d3d6ed5bedd472b853909aac5da202_96.webp",
-      "ClientSupport": "required",
-      "ServerSupport": "unsupported"
-    },
-    {
-      "Path": "mods/sodium-fabric-0.9.1\u002Bmc26.2.jar",
-      "Url": "https://cdn.modrinth.com/data/AANobbMI/versions/2Yom1N68/sodium-fabric-0.9.1%2Bmc26.2.jar",
-      "Sha256": "de406c7a0ca5e748dfbe44740278400882a44e3109e2584b243ec02d4003344b",
-      "Size": 1834384,
-      "Side": "client",
-      "ProjectId": "AANobbMI",
-      "VersionId": "2Yom1N68",
-      "Title": "Sodium",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/AANobbMI/295862f4724dc3f78df3447ad6072b2dcd3ef0c9_96.webp",
       "ClientSupport": "required",
       "ServerSupport": "unsupported"
     },
@@ -676,6 +662,20 @@
       "Title": "Mickey Joe\u0027s Flowers!",
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/JfivfXs9/fb3afaad3c0230f80db13971b47cefe7cac3fc0e_96.webp",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported"
+    },
+    {
+      "Path": "mods/sodium-fabric-0.9.1\u002Bmc26.2.jar",
+      "Url": "https://cdn.modrinth.com/data/AANobbMI/versions/2Yom1N68/sodium-fabric-0.9.1%2Bmc26.2.jar",
+      "Sha256": "de406c7a0ca5e748dfbe44740278400882a44e3109e2584b243ec02d4003344b",
+      "Size": 1834384,
+      "Side": "client",
+      "ProjectId": "AANobbMI",
+      "VersionId": "2Yom1N68",
+      "Title": "Sodium",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/AANobbMI/295862f4724dc3f78df3447ad6072b2dcd3ef0c9_96.webp",
       "ClientSupport": "required",
       "ServerSupport": "unsupported"
     }
