@@ -1,6 +1,6 @@
 {
   "PackName": "Landon SMP",
-  "Version": "2026.08.02.052547",
+  "Version": "2026.08.02.174846",
   "MinecraftVersion": "26.2",
   "ModLoader": "fabric",
   "FabricLoaderVersion": "",
@@ -412,20 +412,6 @@
       "IconUrl": "https://cdn.modrinth.com/data/1eAoo2KR/08c0cd32515e260f4bb20bbc0696510041523f9a_96.webp",
       "ClientSupport": "optional",
       "ServerSupport": "optional"
-    },
-    {
-      "Path": "mods/better-clouds-1.14.2\u002B26.2-fabric.jar",
-      "Url": "https://cdn.modrinth.com/data/5srFLIaK/versions/7Kyzv7Wt/better-clouds-1.14.2%2B26.2-fabric.jar",
-      "Sha256": "dab65ca1d6d9ce2bc4600adc2bf3f0dbf294dc1d85bbe9e450b8b43e652decec",
-      "Size": 1450365,
-      "Side": "client",
-      "ProjectId": "5srFLIaK",
-      "VersionId": "7Kyzv7Wt",
-      "Title": "Better Clouds",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/5srFLIaK/68edb3cf18c96196450b84f467e7870f29a29554_96.webp",
-      "ClientSupport": "required",
-      "ServerSupport": "unsupported"
     },
     {
       "Path": "mods/placeholder-api-3.1.0-beta.1\u002B26.2.jar",
