@@ -1,6 +1,6 @@
 {
   "PackName": "Landon SMP",
-  "Version": "2026.08.02.180916",
+  "Version": "2026.08.02.181303",
   "MinecraftVersion": "26.2",
   "ModLoader": "fabric",
   "FabricLoaderVersion": "",
@@ -578,6 +578,34 @@
       "Title": "Fresh Animations: Extensions",
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/YAVTU8mK/2e83da75469cdec6d4558023cba611443b105c9e_96.webp",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported"
+    },
+    {
+      "Path": "mods/entity_model_features-3.2.6-26.2-fabric.jar",
+      "Url": "https://cdn.modrinth.com/data/4I1XuqiY/versions/xQeW3qQB/entity_model_features-3.2.6-26.2-fabric.jar",
+      "Sha256": "876a3e4ffda021a6266df87208f2d9980322cf86223d4fe1e313ca996631f115",
+      "Size": 587342,
+      "Side": "client",
+      "ProjectId": "4I1XuqiY",
+      "VersionId": "xQeW3qQB",
+      "Title": "[EMF] Entity Model Features",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/4I1XuqiY/6e5bbd0d06b1741bfdab6c0cfab6de8fdaf0064c_96.webp",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported"
+    },
+    {
+      "Path": "mods/entity_texture_features-7.1.1-26.2-fabric.jar",
+      "Url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/HLCBKYFD/entity_texture_features-7.1.1-26.2-fabric.jar",
+      "Sha256": "f469bc914302a13a5c767296623df60fb0cc3d4e4a02a77c56541a733ad36e3a",
+      "Size": 762131,
+      "Side": "client",
+      "ProjectId": "BVzZfTc1",
+      "VersionId": "HLCBKYFD",
+      "Title": "[ETF] Entity Texture Features",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/BVzZfTc1/af683d206d50b05258d865b0d6e4aa2f2cee12f2_96.webp",
       "ClientSupport": "required",
       "ServerSupport": "unsupported"
     }
