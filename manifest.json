@@ -1,6 +1,6 @@
 {
   "PackName": "Landon SMP",
-  "Version": "2026.08.02.181303",
+  "Version": "2026.08.02.182119",
   "MinecraftVersion": "26.2",
   "ModLoader": "fabric",
   "FabricLoaderVersion": "",
@@ -606,6 +606,20 @@
       "Title": "[ETF] Entity Texture Features",
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/BVzZfTc1/af683d206d50b05258d865b0d6e4aa2f2cee12f2_96.webp",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported"
+    },
+    {
+      "Path": "resourcepacks/\u002B1.21.3 Fresh Moves v3.1.1 (With Animated Eyes).zip",
+      "Url": "https://cdn.modrinth.com/data/slufHzC2/versions/BX6pU42f/%2B1.21.3%20Fresh%20Moves%20v3.1.1%20%28With%20Animated%20Eyes%29.zip",
+      "Sha256": "9100888b1153418ccb41b5af053d41e01f297ecd2da2d0ed031819177017638b",
+      "Size": 273002,
+      "Side": "client",
+      "ProjectId": "slufHzC2",
+      "VersionId": "BX6pU42f",
+      "Title": "Fresh Moves",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/slufHzC2/02b78db6655ad8dd6cfd847f99c76f7552c053ec_96.webp",
       "ClientSupport": "required",
       "ServerSupport": "unsupported"
     }
