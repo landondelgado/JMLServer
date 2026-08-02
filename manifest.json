@@ -1,6 +1,6 @@
 {
   "PackName": "Landon SMP",
-  "Version": "2026.08.02.191153",
+  "Version": "2026.08.02.191203",
   "MinecraftVersion": "26.2",
   "ModLoader": "fabric",
   "FabricLoaderVersion": "",
@@ -596,20 +596,6 @@
       "ServerSupport": "unsupported"
     },
     {
-      "Path": "mods/fabric-api-0.156.0\u002B26.2.jar",
-      "Url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/3gT0I5vt/fabric-api-0.156.0%2B26.2.jar",
-      "Sha256": "8de18d9f6a8a2a5b2120ef9e8bffb79cc9b75989c0c022c39c9dfc1bc3a29a99",
-      "Size": 2531175,
-      "Side": "client",
-      "ProjectId": "P7dR8mSH",
-      "VersionId": "3gT0I5vt",
-      "Title": "Fabric API",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/P7dR8mSH/icon.png",
-      "ClientSupport": "optional",
-      "ServerSupport": "optional"
-    },
-    {
       "Path": "resourcepacks/rainbows-foliage-polytone-edition-v1.9.zip",
       "Url": "https://cdn.modrinth.com/data/bY2CaVIh/versions/cUAhK5QP/rainbows-foliage-polytone-edition-v1.9.zip",
       "Sha256": "435799b1f04dec4197d6c234661264da391a93442ff032a5f7b952b460d29f9b",
@@ -676,6 +662,34 @@
       "Title": "Sodium",
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/AANobbMI/295862f4724dc3f78df3447ad6072b2dcd3ef0c9_96.webp",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported"
+    },
+    {
+      "Path": "mods/fabric-api-0.156.0\u002B26.2.jar",
+      "Url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/3gT0I5vt/fabric-api-0.156.0%2B26.2.jar",
+      "Sha256": "8de18d9f6a8a2a5b2120ef9e8bffb79cc9b75989c0c022c39c9dfc1bc3a29a99",
+      "Size": 2531175,
+      "Side": "client",
+      "ProjectId": "P7dR8mSH",
+      "VersionId": "3gT0I5vt",
+      "Title": "Fabric API",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/P7dR8mSH/icon.png",
+      "ClientSupport": "optional",
+      "ServerSupport": "optional"
+    },
+    {
+      "Path": "mods/dense-flowers-0.3.0\u002Bmc26.2.jar",
+      "Url": "https://cdn.modrinth.com/data/Ud3A1Fat/versions/cp04JPSY/dense-flowers-0.3.0%2Bmc26.2.jar",
+      "Sha256": "25c7767cb272788e4edd8af90a1bdab2849a810cd9e701380cfe39fb98cfbe08",
+      "Size": 366227,
+      "Side": "client",
+      "ProjectId": "Ud3A1Fat",
+      "VersionId": "cp04JPSY",
+      "Title": "Dense Flowers",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/Ud3A1Fat/0665c89b0ac3cd47d9ac5be80484afaafb743cba_96.webp",
       "ClientSupport": "required",
       "ServerSupport": "unsupported"
     }
