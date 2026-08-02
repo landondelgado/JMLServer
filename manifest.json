@@ -1,6 +1,6 @@
 {
   "PackName": "Landon SMP",
-  "Version": "2026.08.02.212938",
+  "Version": "2026.08.02.213717",
   "MinecraftVersion": "26.2",
   "ModLoader": "fabric",
   "FabricLoaderVersion": "",
@@ -816,20 +816,6 @@
       "Title": "Particle Effects",
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/PLAGcSFJ/a1c206381f51a0fb2bf5e5e38bb850392b31141b_96.webp",
-      "ClientSupport": "required",
-      "ServerSupport": "unsupported"
-    },
-    {
-      "Path": "mods/swinginglanterns-fabric-26.2-1.5.2.jar",
-      "Url": "https://cdn.modrinth.com/data/3IOcW74j/versions/FlSRZkBz/swinginglanterns-fabric-26.2-1.5.2.jar",
-      "Sha256": "4bbb253ebada5939bdee4d1377569e2f4aac0263514b625a224dacf6bc04aec9",
-      "Size": 466962,
-      "Side": "client",
-      "ProjectId": "3IOcW74j",
-      "VersionId": "FlSRZkBz",
-      "Title": "Swinging Lanterns",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/3IOcW74j/7a7acb86b4ee971558d8ad65aac6426b1eed5953_96.webp",
       "ClientSupport": "required",
       "ServerSupport": "unsupported"
     }
