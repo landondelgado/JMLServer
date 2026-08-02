@@ -1,6 +1,6 @@
 {
   "PackName": "Landon SMP",
-  "Version": "2026.08.02.182119",
+  "Version": "2026.08.02.183247",
   "MinecraftVersion": "26.2",
   "ModLoader": "fabric",
   "FabricLoaderVersion": "",
@@ -620,6 +620,20 @@
       "Title": "Fresh Moves",
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/slufHzC2/02b78db6655ad8dd6cfd847f99c76f7552c053ec_96.webp",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported"
+    },
+    {
+      "Path": "mods/EuphoriaPatcher-1.9.3-r5.8.1-fabric.jar",
+      "Url": "https://cdn.modrinth.com/data/4H6sumDB/versions/7GNWrkGL/EuphoriaPatcher-1.9.3-r5.8.1-fabric.jar",
+      "Sha256": "b42bd00c7ab6e044d21f845dedc58a4524e45643f3685bf1c2343098e74d662e",
+      "Size": 4296552,
+      "Side": "client",
+      "ProjectId": "4H6sumDB",
+      "VersionId": "7GNWrkGL",
+      "Title": "Euphoria Patches",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/4H6sumDB/437130f3f10997f720ff0b788cb24cde3b3b8541.png",
       "ClientSupport": "required",
       "ServerSupport": "unsupported"
     }
