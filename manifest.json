@@ -1,6 +1,6 @@
 {
   "PackName": "Landon SMP",
-  "Version": "2026.08.02.210742",
+  "Version": "2026.08.02.212938",
   "MinecraftVersion": "26.2",
   "ModLoader": "fabric",
   "FabricLoaderVersion": "",
@@ -708,20 +708,6 @@
       "ServerSupport": "optional"
     },
     {
-      "Path": "mods/fabric-api-0.156.0\u002B26.2.jar",
-      "Url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/3gT0I5vt/fabric-api-0.156.0%2B26.2.jar",
-      "Sha256": "8de18d9f6a8a2a5b2120ef9e8bffb79cc9b75989c0c022c39c9dfc1bc3a29a99",
-      "Size": 2531175,
-      "Side": "client",
-      "ProjectId": "P7dR8mSH",
-      "VersionId": "3gT0I5vt",
-      "Title": "Fabric API",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/P7dR8mSH/icon.png",
-      "ClientSupport": "optional",
-      "ServerSupport": "optional"
-    },
-    {
       "Path": "mods/atmosfera-2.7.2\u002Bmc26.2.jar",
       "Url": "https://cdn.modrinth.com/data/28G1xpgF/versions/tQCwekds/atmosfera-2.7.2%2Bmc26.2.jar",
       "Sha256": "d9619275dc838bc4cd7ec26dd5204fba0cd9ade5dcad685617be09730bcb5fac",
@@ -788,6 +774,62 @@
       "Title": "Connected Paths",
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/Nyfj98b5/95e484f46c21dfa112bd9801cba99cf73d64d0c0.gif",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported"
+    },
+    {
+      "Path": "mods/eg_particle_interactions-0.10.1\u002B26.2-fabric.jar",
+      "Url": "https://cdn.modrinth.com/data/xFCYuAs8/versions/klUU9ITa/eg_particle_interactions-0.10.1%2B26.2-fabric.jar",
+      "Sha256": "8bb034e5ad70f9f680f88e76ae7ab483c6f9eb895079f4019d5684372e7037ab",
+      "Size": 946083,
+      "Side": "client",
+      "ProjectId": "xFCYuAs8",
+      "VersionId": "klUU9ITa",
+      "Title": "Particle Interactions",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/xFCYuAs8/e2e36e1660365d4405c2268f3800f6500b8350cf_96.webp",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported"
+    },
+    {
+      "Path": "mods/fabric-api-0.156.0\u002B26.2.jar",
+      "Url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/3gT0I5vt/fabric-api-0.156.0%2B26.2.jar",
+      "Sha256": "8de18d9f6a8a2a5b2120ef9e8bffb79cc9b75989c0c022c39c9dfc1bc3a29a99",
+      "Size": 2531175,
+      "Side": "client",
+      "ProjectId": "P7dR8mSH",
+      "VersionId": "3gT0I5vt",
+      "Title": "Fabric API",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/P7dR8mSH/icon.png",
+      "ClientSupport": "optional",
+      "ServerSupport": "optional"
+    },
+    {
+      "Path": "mods/ParticleEffects-1.5.0\u002B26.2\u002Bfabric.jar",
+      "Url": "https://cdn.modrinth.com/data/PLAGcSFJ/versions/PuwJAxCv/ParticleEffects-1.5.0%2B26.2%2Bfabric.jar",
+      "Sha256": "499d2b25275a56bc901e72c92c0f6796270a9566c81676de03939e2d93fcf833",
+      "Size": 318481,
+      "Side": "client",
+      "ProjectId": "PLAGcSFJ",
+      "VersionId": "PuwJAxCv",
+      "Title": "Particle Effects",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/PLAGcSFJ/a1c206381f51a0fb2bf5e5e38bb850392b31141b_96.webp",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported"
+    },
+    {
+      "Path": "mods/swinginglanterns-fabric-26.2-1.5.2.jar",
+      "Url": "https://cdn.modrinth.com/data/3IOcW74j/versions/FlSRZkBz/swinginglanterns-fabric-26.2-1.5.2.jar",
+      "Sha256": "4bbb253ebada5939bdee4d1377569e2f4aac0263514b625a224dacf6bc04aec9",
+      "Size": 466962,
+      "Side": "client",
+      "ProjectId": "3IOcW74j",
+      "VersionId": "FlSRZkBz",
+      "Title": "Swinging Lanterns",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/3IOcW74j/7a7acb86b4ee971558d8ad65aac6426b1eed5953_96.webp",
       "ClientSupport": "required",
       "ServerSupport": "unsupported"
     }
