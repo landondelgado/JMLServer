@@ -1,6 +1,6 @@
 {
   "PackName": "Landon SMP",
-  "Version": "2026.08.02.174846",
+  "Version": "2026.08.02.175655",
   "MinecraftVersion": "26.2",
   "ModLoader": "fabric",
   "FabricLoaderVersion": "",
@@ -32,20 +32,6 @@
       "Title": "Complementary Shaders - Reimagined",
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/HVnmMxH1/79cb7c8123bbc54945305b2ebad6b8881efdf5f8_96.webp",
-      "ClientSupport": "required",
-      "ServerSupport": "unsupported"
-    },
-    {
-      "Path": "resourcepacks/xali\u0027s Enhanced Vanilla -1.11.2b-rev.54d51d4.zip",
-      "Url": "https://cdn.modrinth.com/data/Srw5RQ6k/versions/dEGWry22/xali%27s%20Enhanced%20Vanilla%20-1.11.2b-rev.54d51d4.zip",
-      "Sha256": "ae69dcb419174a645a42eb3655da96cc51da9db19d3c5edbcd332071ed8561df",
-      "Size": 807859,
-      "Side": "client",
-      "ProjectId": "Srw5RQ6k",
-      "VersionId": "dEGWry22",
-      "Title": "xali\u0027s Enhanced Vanilla",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/Srw5RQ6k/icon.png",
       "ClientSupport": "required",
       "ServerSupport": "unsupported"
     },
@@ -88,20 +74,6 @@
       "Title": "Complementary Shaders - Unbound",
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/R6NEzAwj/c85ce4049aac76360d2cd24fd9a7003de01ef312_96.webp",
-      "ClientSupport": "required",
-      "ServerSupport": "unsupported"
-    },
-    {
-      "Path": "resourcepacks/xali\u0027s Bushy Leaves v3.5.0.zip",
-      "Url": "https://cdn.modrinth.com/data/ff4JOkSA/versions/ZslQczG8/xali%27s%20Bushy%20Leaves%20v3.5.0.zip",
-      "Sha256": "3e787ade31f08d66728e7dd7726a5e63a97ea28b078dc811245143379d090a0c",
-      "Size": 368186,
-      "Side": "client",
-      "ProjectId": "ff4JOkSA",
-      "VersionId": "ZslQczG8",
-      "Title": "xali\u0027s Bushy Leaves",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/ff4JOkSA/c788a000649d2e22d5bd12fd877457f8346c9a81.png",
       "ClientSupport": "required",
       "ServerSupport": "unsupported"
     },
@@ -316,20 +288,6 @@
       "ServerSupport": "optional"
     },
     {
-      "Path": "resourcepacks/Nature X Resource Pack - 15.0 [1.21.11].zip",
-      "Url": "https://cdn.modrinth.com/data/8d8M3Qoz/versions/m9D9UunT/Nature%20X%20Resource%20Pack%20-%2015.0%20%5B1.21.11%5D.zip",
-      "Sha256": "1116df0ab1519b3bf9a7df1a24d1aa5ea78473686caccdde53a0cba1f00e4d5a",
-      "Size": 3345056,
-      "Side": "client",
-      "ProjectId": "8d8M3Qoz",
-      "VersionId": "m9D9UunT",
-      "Title": "Nature X",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/8d8M3Qoz/5fb7d8a0f902c7f00f18ac57543991d35f344327_96.webp",
-      "ClientSupport": "required",
-      "ServerSupport": "unsupported"
-    },
-    {
       "Path": "mods/wakes-0.7.0\u002B26.2.jar",
       "Url": "https://cdn.modrinth.com/data/dlNu0RQY/versions/l9JOi1Td/wakes-0.7.0%2B26.2.jar",
       "Sha256": "b7ba98a6c7e1d2b8ef8c4beeb44a1c891d9b8ed7347f478103c10c850ea28b34",
@@ -382,20 +340,6 @@
       "Title": "Rethinking Voxels",
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/kmwfVOoi/fc89eadad417dd376b14c3b31e1a2b87acaca034_96.webp",
-      "ClientSupport": "required",
-      "ServerSupport": "unsupported"
-    },
-    {
-      "Path": "resourcepacks/Story Mode Clouds.zip",
-      "Url": "https://cdn.modrinth.com/data/cIbVOeXJ/versions/ShzxIBqk/Story%20Mode%20Clouds.zip",
-      "Sha256": "f7770b4caed9c65ec9a7765af14fcede6aa878b71c44ac67b9706080f8c80bec",
-      "Size": 132430,
-      "Side": "client",
-      "ProjectId": "cIbVOeXJ",
-      "VersionId": "ShzxIBqk",
-      "Title": "Story Mode Clouds",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/cIbVOeXJ/f5a0f5ecb20ec225d29a639ea58fa84bdea9af00_96.webp",
       "ClientSupport": "required",
       "ServerSupport": "unsupported"
     },
