@@ -1,6 +1,6 @@
 {
   "PackName": "Landon SMP",
-  "Version": "2026.08.02.213717",
+  "Version": "2026.08.02.220439",
   "MinecraftVersion": "26.2",
   "ModLoader": "fabric",
   "FabricLoaderVersion": "",
@@ -328,20 +328,6 @@
       "IconUrl": "https://cdn.modrinth.com/data/kmwfVOoi/fc89eadad417dd376b14c3b31e1a2b87acaca034_96.webp",
       "ClientSupport": "required",
       "ServerSupport": "unsupported"
-    },
-    {
-      "Path": "mods/yet_another_config_lib_v3-3.9.6\u002B26.2-fabric.jar",
-      "Url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/cnfPzuFU/yet_another_config_lib_v3-3.9.6%2B26.2-fabric.jar",
-      "Sha256": "829396c3b3e7d1801ae0e9e2921d0454c5a3078afdb6c6dda6b3d1819dfa0e3f",
-      "Size": 1121529,
-      "Side": "client",
-      "ProjectId": "1eAoo2KR",
-      "VersionId": "cnfPzuFU",
-      "Title": "YetAnotherConfigLib (YACL)",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/1eAoo2KR/08c0cd32515e260f4bb20bbc0696510041523f9a_96.webp",
-      "ClientSupport": "optional",
-      "ServerSupport": "optional"
     },
     {
       "Path": "mods/placeholder-api-3.1.0-beta.1\u002B26.2.jar",
@@ -694,20 +680,6 @@
       "ServerSupport": "unsupported"
     },
     {
-      "Path": "mods/cloth-config-26.2.155.jar",
-      "Url": "https://cdn.modrinth.com/data/9s6osm5g/versions/Nv3xnWXd/cloth-config-26.2.155.jar",
-      "Sha256": "def4be7639cd66704f7e304d658ea0f6bf490fb4a6eaa2dbf18ec2c3999d6349",
-      "Size": 1135186,
-      "Side": "client",
-      "ProjectId": "9s6osm5g",
-      "VersionId": "Nv3xnWXd",
-      "Title": "Cloth Config API",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/9s6osm5g/ed8a2316cbb6f4fc5f510e8e13a59a85cbbbff4d_96.webp",
-      "ClientSupport": "optional",
-      "ServerSupport": "optional"
-    },
-    {
       "Path": "mods/atmosfera-2.7.2\u002Bmc26.2.jar",
       "Url": "https://cdn.modrinth.com/data/28G1xpgF/versions/tQCwekds/atmosfera-2.7.2%2Bmc26.2.jar",
       "Sha256": "d9619275dc838bc4cd7ec26dd5204fba0cd9ade5dcad685617be09730bcb5fac",
@@ -792,6 +764,48 @@
       "ServerSupport": "unsupported"
     },
     {
+      "Path": "mods/ParticleEffects-1.5.0\u002B26.2\u002Bfabric.jar",
+      "Url": "https://cdn.modrinth.com/data/PLAGcSFJ/versions/PuwJAxCv/ParticleEffects-1.5.0%2B26.2%2Bfabric.jar",
+      "Sha256": "499d2b25275a56bc901e72c92c0f6796270a9566c81676de03939e2d93fcf833",
+      "Size": 318481,
+      "Side": "client",
+      "ProjectId": "PLAGcSFJ",
+      "VersionId": "PuwJAxCv",
+      "Title": "Particle Effects",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/PLAGcSFJ/a1c206381f51a0fb2bf5e5e38bb850392b31141b_96.webp",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported"
+    },
+    {
+      "Path": "mods/yet_another_config_lib_v3-3.9.6\u002B26.2-fabric.jar",
+      "Url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/cnfPzuFU/yet_another_config_lib_v3-3.9.6%2B26.2-fabric.jar",
+      "Sha256": "829396c3b3e7d1801ae0e9e2921d0454c5a3078afdb6c6dda6b3d1819dfa0e3f",
+      "Size": 1121529,
+      "Side": "client",
+      "ProjectId": "1eAoo2KR",
+      "VersionId": "cnfPzuFU",
+      "Title": "YetAnotherConfigLib (YACL)",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/1eAoo2KR/08c0cd32515e260f4bb20bbc0696510041523f9a_96.webp",
+      "ClientSupport": "optional",
+      "ServerSupport": "optional"
+    },
+    {
+      "Path": "mods/immersive-hotbar-1.1.2-26.2.jar",
+      "Url": "https://cdn.modrinth.com/data/hsPB5xMD/versions/iYkItip9/immersive-hotbar-1.1.2-26.2.jar",
+      "Sha256": "0d743efc885d845954589424d0eab96d35b6abb5a8d162998040222354675816",
+      "Size": 89883,
+      "Side": "client",
+      "ProjectId": "hsPB5xMD",
+      "VersionId": "iYkItip9",
+      "Title": "Immersive Hotbar",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/hsPB5xMD/49a1d507980ca08381ae2742db4d674d1e6238c9_96.webp",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported"
+    },
+    {
       "Path": "mods/fabric-api-0.156.0\u002B26.2.jar",
       "Url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/3gT0I5vt/fabric-api-0.156.0%2B26.2.jar",
       "Sha256": "8de18d9f6a8a2a5b2120ef9e8bffb79cc9b75989c0c022c39c9dfc1bc3a29a99",
@@ -806,16 +820,30 @@
       "ServerSupport": "optional"
     },
     {
-      "Path": "mods/ParticleEffects-1.5.0\u002B26.2\u002Bfabric.jar",
-      "Url": "https://cdn.modrinth.com/data/PLAGcSFJ/versions/PuwJAxCv/ParticleEffects-1.5.0%2B26.2%2Bfabric.jar",
-      "Sha256": "499d2b25275a56bc901e72c92c0f6796270a9566c81676de03939e2d93fcf833",
-      "Size": 318481,
+      "Path": "mods/cloth-config-26.2.155.jar",
+      "Url": "https://cdn.modrinth.com/data/9s6osm5g/versions/Nv3xnWXd/cloth-config-26.2.155.jar",
+      "Sha256": "def4be7639cd66704f7e304d658ea0f6bf490fb4a6eaa2dbf18ec2c3999d6349",
+      "Size": 1135186,
       "Side": "client",
-      "ProjectId": "PLAGcSFJ",
-      "VersionId": "PuwJAxCv",
-      "Title": "Particle Effects",
+      "ProjectId": "9s6osm5g",
+      "VersionId": "Nv3xnWXd",
+      "Title": "Cloth Config API",
       "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/PLAGcSFJ/a1c206381f51a0fb2bf5e5e38bb850392b31141b_96.webp",
+      "IconUrl": "https://cdn.modrinth.com/data/9s6osm5g/ed8a2316cbb6f4fc5f510e8e13a59a85cbbbff4d_96.webp",
+      "ClientSupport": "optional",
+      "ServerSupport": "optional"
+    },
+    {
+      "Path": "mods/fastquit-3.1.5\u002Bmc26.2.jar",
+      "Url": "https://cdn.modrinth.com/data/x1hIzbuY/versions/ZZ5dfboC/fastquit-3.1.5%2Bmc26.2.jar",
+      "Sha256": "f18490dfd6c52f9abf4cbf06e0228269425acb42a8b75dd29cd26c574aac47a4",
+      "Size": 63310,
+      "Side": "client",
+      "ProjectId": "x1hIzbuY",
+      "VersionId": "ZZ5dfboC",
+      "Title": "FastQuit",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/x1hIzbuY/930154d1ed3e855079c5f6ee63faeb9bcbe87cfd_96.webp",
       "ClientSupport": "required",
       "ServerSupport": "unsupported"
     }
