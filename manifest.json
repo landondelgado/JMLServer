@@ -1,6 +1,6 @@
 {
   "PackName": "Landon SMP",
-  "Version": "2026.07.19.210545",
+  "Version": "2026.08.02.025023",
   "MinecraftVersion": "26.2",
   "ModLoader": "fabric",
   "FabricLoaderVersion": "",
@@ -230,6 +230,90 @@
       "IconUrl": "https://cdn.modrinth.com/data/uCdwusMi/e716cda9bb568b5373ff76e363fb4c6d7278fba6_96.webp",
       "ClientSupport": "optional",
       "ServerSupport": "optional"
+    },
+    {
+      "Path": "mods/punchy-2.6.2-fabric-26.2.jar",
+      "Url": "https://cdn.modrinth.com/data/8aoMKplv/versions/eaggJ0OG/punchy-2.6.2-fabric-26.2.jar",
+      "Sha256": "aa6b213eb21ff050ba567bfca421cf102777dabde3fffe79fc973987a197d4a3",
+      "Size": 1972363,
+      "Side": "client",
+      "ProjectId": "8aoMKplv",
+      "VersionId": "eaggJ0OG",
+      "Title": "Punchy!",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/8aoMKplv/a9171ec026d659ccad5c3dff6fdfc80259d63e09.gif",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported"
+    },
+    {
+      "Path": "mods/atmospherics-2.6.6-mc-26.2.jar",
+      "Url": "https://cdn.modrinth.com/data/ft2cYBpB/versions/dKZiIjXj/atmospherics-2.6.6-mc-26.2.jar",
+      "Sha256": "778054e43290a2c40bb7743b4f7cc2c5a737df240117a4862df9cbaa429c3172",
+      "Size": 4088769,
+      "Side": "client",
+      "ProjectId": "ft2cYBpB",
+      "VersionId": "dKZiIjXj",
+      "Title": "ATMOSPHERICS",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/ft2cYBpB/167f7cb559efaa1c16102a4675a6a08b9bd709b5_96.webp",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported"
+    },
+    {
+      "Path": "mods/afk-cinematics-1.0.5\u002B26.2.jar",
+      "Url": "https://cdn.modrinth.com/data/MjVuY1gY/versions/ggKNg45G/afk-cinematics-1.0.5%2B26.2.jar",
+      "Sha256": "2b137af4fd25c1cdd1d9d6513679bd315eb8d01e087d7b8ac2e6f121340824a6",
+      "Size": 70831,
+      "Side": "client",
+      "ProjectId": "MjVuY1gY",
+      "VersionId": "ggKNg45G",
+      "Title": "AFK Cinematics",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/MjVuY1gY/ff90d330e1a307883a1df8e600232352c4c1b4e4_96.webp",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported"
+    },
+    {
+      "Path": "resourcepacks/Enchantment Outlines.zip",
+      "Url": "https://cdn.modrinth.com/data/A32gwfe8/versions/qX4zagvp/Enchantment%20Outlines.zip",
+      "Sha256": "b17576441b438ba9ff219f4b6ef544f464b7a8ef224a74add5d954116d034002",
+      "Size": 1105545,
+      "Side": "client",
+      "ProjectId": "A32gwfe8",
+      "VersionId": "qX4zagvp",
+      "Title": "Enchantment Outlines",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/A32gwfe8/9f4bd3edfdb3df167c64757f66b828eba664a616_96.webp",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported"
+    },
+    {
+      "Path": "resourcepacks/Fresh Buckets.zip",
+      "Url": "https://cdn.modrinth.com/data/Sb5mtr2w/versions/MoIGtCs1/Fresh%20Buckets.zip",
+      "Sha256": "4f16701db52d4a07be96361380de7e017510aeb2a026103890ae9b09135c9349",
+      "Size": 516183,
+      "Side": "client",
+      "ProjectId": "Sb5mtr2w",
+      "VersionId": "MoIGtCs1",
+      "Title": "Fresh Buckets",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/Sb5mtr2w/f0a55a3be5fc766b249ffff78bccdfa2fd90e42b.gif",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported"
+    },
+    {
+      "Path": "resourcepacks/\u00A77Better\u00A7bOres\u00A793D \u00A7f- 26.2\u00A70.zip",
+      "Url": "https://cdn.modrinth.com/data/9D4BBjDX/versions/AE4ECGoO/%C2%A77Better%C2%A7bOres%C2%A793D%20%C2%A7f-%2026.2%C2%A70.zip",
+      "Sha256": "9409c43db14fb927b65351c72d8902ffb35e68f172226e36208695f4bb9276df",
+      "Size": 660614,
+      "Side": "client",
+      "ProjectId": "9D4BBjDX",
+      "VersionId": "AE4ECGoO",
+      "Title": "Better Ores 3D",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/9D4BBjDX/43e04a731f054f3d48f6c09e8848939e09377b06_96.webp",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported"
     }
   ]
 }
