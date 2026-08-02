@@ -1,6 +1,6 @@
 {
   "PackName": "Landon SMP",
-  "Version": "2026.08.02.192314",
+  "Version": "2026.08.02.192803",
   "MinecraftVersion": "26.2",
   "ModLoader": "fabric",
   "FabricLoaderVersion": "",
@@ -372,20 +372,6 @@
       "ServerSupport": "unsupported"
     },
     {
-      "Path": "mods/cloth-config-26.2.155.jar",
-      "Url": "https://cdn.modrinth.com/data/9s6osm5g/versions/Nv3xnWXd/cloth-config-26.2.155.jar",
-      "Sha256": "def4be7639cd66704f7e304d658ea0f6bf490fb4a6eaa2dbf18ec2c3999d6349",
-      "Size": 1135186,
-      "Side": "client",
-      "ProjectId": "9s6osm5g",
-      "VersionId": "Nv3xnWXd",
-      "Title": "Cloth Config API",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/9s6osm5g/ed8a2316cbb6f4fc5f510e8e13a59a85cbbbff4d_96.webp",
-      "ClientSupport": "optional",
-      "ServerSupport": "optional"
-    },
-    {
       "Path": "mods/ImmediatelyFast-Fabric-1.16.2\u002B26.2.jar",
       "Url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/uJHxuQxy/ImmediatelyFast-Fabric-1.16.2%2B26.2.jar",
       "Sha256": "40da44194cd1dabdc5399c8e3c46253b6a568c2f4f9e2363a3b3a0069531d770",
@@ -666,20 +652,6 @@
       "ServerSupport": "unsupported"
     },
     {
-      "Path": "mods/fabric-api-0.156.0\u002B26.2.jar",
-      "Url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/3gT0I5vt/fabric-api-0.156.0%2B26.2.jar",
-      "Sha256": "8de18d9f6a8a2a5b2120ef9e8bffb79cc9b75989c0c022c39c9dfc1bc3a29a99",
-      "Size": 2531175,
-      "Side": "client",
-      "ProjectId": "P7dR8mSH",
-      "VersionId": "3gT0I5vt",
-      "Title": "Fabric API",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/P7dR8mSH/icon.png",
-      "ClientSupport": "optional",
-      "ServerSupport": "optional"
-    },
-    {
       "Path": "mods/dense-flowers-0.3.0\u002Bmc26.2.jar",
       "Url": "https://cdn.modrinth.com/data/Ud3A1Fat/versions/cp04JPSY/dense-flowers-0.3.0%2Bmc26.2.jar",
       "Sha256": "25c7767cb272788e4edd8af90a1bdab2849a810cd9e701380cfe39fb98cfbe08",
@@ -718,6 +690,48 @@
       "Title": "(Bee\u0027s) Fancy Crops",
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/UGEVQ6t9/5c1e966b2b67c21750875d8517c994d975a729de_96.webp",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported"
+    },
+    {
+      "Path": "mods/cloth-config-26.2.155.jar",
+      "Url": "https://cdn.modrinth.com/data/9s6osm5g/versions/Nv3xnWXd/cloth-config-26.2.155.jar",
+      "Sha256": "def4be7639cd66704f7e304d658ea0f6bf490fb4a6eaa2dbf18ec2c3999d6349",
+      "Size": 1135186,
+      "Side": "client",
+      "ProjectId": "9s6osm5g",
+      "VersionId": "Nv3xnWXd",
+      "Title": "Cloth Config API",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/9s6osm5g/ed8a2316cbb6f4fc5f510e8e13a59a85cbbbff4d_96.webp",
+      "ClientSupport": "optional",
+      "ServerSupport": "optional"
+    },
+    {
+      "Path": "mods/fabric-api-0.156.0\u002B26.2.jar",
+      "Url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/3gT0I5vt/fabric-api-0.156.0%2B26.2.jar",
+      "Sha256": "8de18d9f6a8a2a5b2120ef9e8bffb79cc9b75989c0c022c39c9dfc1bc3a29a99",
+      "Size": 2531175,
+      "Side": "client",
+      "ProjectId": "P7dR8mSH",
+      "VersionId": "3gT0I5vt",
+      "Title": "Fabric API",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/P7dR8mSH/icon.png",
+      "ClientSupport": "optional",
+      "ServerSupport": "optional"
+    },
+    {
+      "Path": "mods/atmosfera-2.7.2\u002Bmc26.2.jar",
+      "Url": "https://cdn.modrinth.com/data/28G1xpgF/versions/tQCwekds/atmosfera-2.7.2%2Bmc26.2.jar",
+      "Sha256": "d9619275dc838bc4cd7ec26dd5204fba0cd9ade5dcad685617be09730bcb5fac",
+      "Size": 64187327,
+      "Side": "client",
+      "ProjectId": "28G1xpgF",
+      "VersionId": "tQCwekds",
+      "Title": "Atmosfera",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/28G1xpgF/960d74bc4b8c720751ea754631b593feee13e63c.png",
       "ClientSupport": "required",
       "ServerSupport": "unsupported"
     }
