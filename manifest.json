@@ -1,6 +1,6 @@
 {
   "PackName": "Landon SMP",
-  "Version": "2026.08.04.000755",
+  "Version": "2026.08.04.001828",
   "MinecraftVersion": "26.2",
   "ModLoader": "fabric",
   "FabricLoaderVersion": "",
@@ -848,20 +848,6 @@
       "ServerSupport": "unsupported"
     },
     {
-      "Path": "mods/Voxy World Gen V2-fabric-26.2-2.4.3.jar",
-      "Url": "https://cdn.modrinth.com/data/xT0lnNE9/versions/fZooaCeC/Voxy%20World%20Gen%20V2-fabric-26.2-2.4.3.jar",
-      "Sha256": "b6ef773fb90af6394d332e6a40b91854dedddbcf0bf3e15d6f357bdac690b1ab",
-      "Size": 252075,
-      "Side": "both",
-      "ProjectId": "xT0lnNE9",
-      "VersionId": "fZooaCeC",
-      "Title": "Voxy WorldGen",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/xT0lnNE9/4ae60567dd5687b503ed55227817c433959d5601_96.webp",
-      "ClientSupport": "required",
-      "ServerSupport": "required"
-    },
-    {
       "Path": "mods/fabric-api-0.156.0\u002B26.2.jar",
       "Url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/3gT0I5vt/fabric-api-0.156.0%2B26.2.jar",
       "Sha256": "8de18d9f6a8a2a5b2120ef9e8bffb79cc9b75989c0c022c39c9dfc1bc3a29a99",
@@ -874,6 +860,20 @@
       "IconUrl": "https://cdn.modrinth.com/data/P7dR8mSH/icon.png",
       "ClientSupport": "optional",
       "ServerSupport": "optional"
+    },
+    {
+      "Path": "mods/VoxyServer-1.2.4-26.2.jar",
+      "Url": "https://cdn.modrinth.com/data/fNtGd1cx/versions/EsIPjK0A/VoxyServer-1.2.4-26.2.jar",
+      "Sha256": "2bb4997e07eff40ada9f9d7c69ced2b95ea00a077b49ad767ddfbbf66a2f8318",
+      "Size": 1684958,
+      "Side": "both",
+      "ProjectId": "fNtGd1cx",
+      "VersionId": "EsIPjK0A",
+      "Title": "Voxy Server",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/fNtGd1cx/93fb864b5e98bc72e5392899525f33c0395b4c67_96.webp",
+      "ClientSupport": "required",
+      "ServerSupport": "required"
     }
   ]
 }
