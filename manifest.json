@@ -1,6 +1,6 @@
 {
   "PackName": "Landon SMP",
-  "Version": "2026.08.04.002608",
+  "Version": "2026.08.04.002856",
   "MinecraftVersion": "26.2",
   "ModLoader": "fabric",
   "FabricLoaderVersion": "",
@@ -848,18 +848,32 @@
       "ServerSupport": "optional"
     },
     {
-      "Path": "mods/DistantHorizons-3.2.0-b-26.2-fabric-neoforge.jar",
-      "Url": "https://cdn.modrinth.com/data/uCdwusMi/versions/gBf0SaV1/DistantHorizons-3.2.0-b-26.2-fabric-neoforge.jar",
-      "Sha256": "fb7a60fa06775d208ff47ce4b98c668cdc527449c37da4a8068695794456349f",
-      "Size": 29705395,
-      "Side": "both",
-      "ProjectId": "uCdwusMi",
-      "VersionId": "gBf0SaV1",
-      "Title": "Distant Horizons",
+      "Path": "mods/voxy-0.2.18-beta.jar",
+      "Url": "https://cdn.modrinth.com/data/fxxUqruK/versions/zZX86mbc/voxy-0.2.18-beta.jar",
+      "Sha256": "dd9e10d2110879f07c1ce9bdf1945f3470b32e83977f094005ee8c642e8128d5",
+      "Size": 12657845,
+      "Side": "client",
+      "ProjectId": "fxxUqruK",
+      "VersionId": "zZX86mbc",
+      "Title": "voxy",
       "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/uCdwusMi/e716cda9bb568b5373ff76e363fb4c6d7278fba6_96.webp",
-      "ClientSupport": "optional",
-      "ServerSupport": "optional"
+      "IconUrl": "https://cdn.modrinth.com/data/fxxUqruK/2a4159b1ff6ecba43bf895d6abee6f724a0e03c0_96.webp",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported"
+    },
+    {
+      "Path": "mods/VoxyServer-1.2.4-26.2.jar",
+      "Url": "https://cdn.modrinth.com/data/fNtGd1cx/versions/EsIPjK0A/VoxyServer-1.2.4-26.2.jar",
+      "Sha256": "2bb4997e07eff40ada9f9d7c69ced2b95ea00a077b49ad767ddfbbf66a2f8318",
+      "Size": 1684958,
+      "Side": "both",
+      "ProjectId": "fNtGd1cx",
+      "VersionId": "EsIPjK0A",
+      "Title": "Voxy Server",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/fNtGd1cx/93fb864b5e98bc72e5392899525f33c0395b4c67_96.webp",
+      "ClientSupport": "required",
+      "ServerSupport": "required"
     }
   ]
 }
