@@ -1,6 +1,6 @@
 {
   "PackName": "Landon SMP",
-  "Version": "2026.08.09.200301",
+  "Version": "2026.08.09.200641",
   "MinecraftVersion": "26.2",
   "ModLoader": "fabric",
   "FabricLoaderVersion": "",
@@ -834,20 +834,6 @@
       "ServerSupport": "required"
     },
     {
-      "Path": "resourcepacks/FA\u002BPlayer_Expressions-v1.2.zip",
-      "Url": "https://cdn.modrinth.com/data/E6UMWeLX/versions/4nucOSHc/FA%2BPlayer_Expressions-v1.2.zip",
-      "Sha256": "d77ae93dc23c870a4ce718aa4220fbd711887d38e78e9d8c5983c9e69fe45266",
-      "Size": 148923,
-      "Side": "client",
-      "ProjectId": "E6UMWeLX",
-      "VersionId": "4nucOSHc",
-      "Title": "Fresh Animations: Player Extension \u002B Just Expressions",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/E6UMWeLX/8dbc6e66b592ef898ac62b49eaa8fedac3a62b14_96.webp",
-      "ClientSupport": "required",
-      "ServerSupport": "unsupported"
-    },
-    {
       "Path": "resourcepacks/Fresh Food.zip",
       "Url": "https://cdn.modrinth.com/data/UoLAbzII/versions/kQYADnq4/Fresh%20Food.zip",
       "Sha256": "587d4f0801f7eef594764ed2b155fb6607d3a8b4602dc1a0ff8aef9369851bad",
@@ -914,6 +900,20 @@
       "Title": "Door Tweaks",
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/hYTZC3GD/c69e87e77f54c982d078d5b9072aa7d0e98005e4_96.webp",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported"
+    },
+    {
+      "Path": "resourcepacks/FA\u002BPlayer-v1.1.zip",
+      "Url": "https://cdn.modrinth.com/data/TAIMVZCL/versions/Wj7NeGjP/FA%2BPlayer-v1.1.zip",
+      "Sha256": "9ee3ae5b2fe5cd980e4041429dc66d88243f5f2420e2814e5361c746ad937f33",
+      "Size": 110203,
+      "Side": "client",
+      "ProjectId": "TAIMVZCL",
+      "VersionId": "Wj7NeGjP",
+      "Title": "Fresh Animations: Player Extension",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/TAIMVZCL/b3918b1dcedad8987cac3715ec95d00aaadc3a49_96.webp",
       "ClientSupport": "required",
       "ServerSupport": "unsupported"
     }
