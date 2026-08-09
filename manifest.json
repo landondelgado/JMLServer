@@ -1,6 +1,6 @@
 {
   "PackName": "Landon SMP",
-  "Version": "2026.08.04.002856",
+  "Version": "2026.08.09.200301",
   "MinecraftVersion": "26.2",
   "ModLoader": "fabric",
   "FabricLoaderVersion": "",
@@ -526,20 +526,6 @@
       "ServerSupport": "unsupported"
     },
     {
-      "Path": "resourcepacks/\u002B1.21.3 Fresh Moves v3.1.1 (With Animated Eyes).zip",
-      "Url": "https://cdn.modrinth.com/data/slufHzC2/versions/BX6pU42f/%2B1.21.3%20Fresh%20Moves%20v3.1.1%20%28With%20Animated%20Eyes%29.zip",
-      "Sha256": "9100888b1153418ccb41b5af053d41e01f297ecd2da2d0ed031819177017638b",
-      "Size": 273002,
-      "Side": "client",
-      "ProjectId": "slufHzC2",
-      "VersionId": "BX6pU42f",
-      "Title": "Fresh Moves",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/slufHzC2/02b78db6655ad8dd6cfd847f99c76f7552c053ec_96.webp",
-      "ClientSupport": "required",
-      "ServerSupport": "unsupported"
-    },
-    {
       "Path": "mods/EuphoriaPatcher-1.9.3-r5.8.1-fabric.jar",
       "Url": "https://cdn.modrinth.com/data/4H6sumDB/versions/7GNWrkGL/EuphoriaPatcher-1.9.3-r5.8.1-fabric.jar",
       "Sha256": "b42bd00c7ab6e044d21f845dedc58a4524e45643f3685bf1c2343098e74d662e",
@@ -620,20 +606,6 @@
       "Title": "Dense Flowers",
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/Ud3A1Fat/0665c89b0ac3cd47d9ac5be80484afaafb743cba_96.webp",
-      "ClientSupport": "required",
-      "ServerSupport": "unsupported"
-    },
-    {
-      "Path": "resourcepacks/crops-3d(2).zip",
-      "Url": "https://cdn.modrinth.com/data/PgpTtNoI/versions/iKYRZwnm/crops-3d%282%29.zip",
-      "Sha256": "d63df002bd227c00ee11b8b5f64b751b152b3e0f883a135c2496564703bf67c5",
-      "Size": 483678,
-      "Side": "client",
-      "ProjectId": "PgpTtNoI",
-      "VersionId": "iKYRZwnm",
-      "Title": "3D crops Revamped",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/PgpTtNoI/335dc6f3a177c15b6baa06b8e8211705b1d32a50_96.webp",
       "ClientSupport": "required",
       "ServerSupport": "unsupported"
     },
@@ -792,20 +764,6 @@
       "ServerSupport": "unsupported"
     },
     {
-      "Path": "resourcepacks/\u00A7dnotandvm\u0027s\u00A70-\u00A7bsculk\u00A70-\u00A7bemissives!.zip",
-      "Url": "https://cdn.modrinth.com/data/d4Vebidc/versions/iXEF8tkR/%C2%A7dnotandvm%27s%C2%A70-%C2%A7bsculk%C2%A70-%C2%A7bemissives%21.zip",
-      "Sha256": "b56819013f304f3f193235bffaa54485b26868ade49c3c75ee75a23a4f80dec0",
-      "Size": 73647,
-      "Side": "client",
-      "ProjectId": "d4Vebidc",
-      "VersionId": "iXEF8tkR",
-      "Title": "notandvm\u0027s emissive sculk!",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/d4Vebidc/8ad123e763d5beaac7946fad24cf370586f0c34a_96.webp",
-      "ClientSupport": "required",
-      "ServerSupport": "unsupported"
-    },
-    {
       "Path": "mods/cloth-config-26.2.155.jar",
       "Url": "https://cdn.modrinth.com/data/9s6osm5g/versions/Nv3xnWXd/cloth-config-26.2.155.jar",
       "Sha256": "def4be7639cd66704f7e304d658ea0f6bf490fb4a6eaa2dbf18ec2c3999d6349",
@@ -874,6 +832,90 @@
       "IconUrl": "https://cdn.modrinth.com/data/fNtGd1cx/93fb864b5e98bc72e5392899525f33c0395b4c67_96.webp",
       "ClientSupport": "required",
       "ServerSupport": "required"
+    },
+    {
+      "Path": "resourcepacks/FA\u002BPlayer_Expressions-v1.2.zip",
+      "Url": "https://cdn.modrinth.com/data/E6UMWeLX/versions/4nucOSHc/FA%2BPlayer_Expressions-v1.2.zip",
+      "Sha256": "d77ae93dc23c870a4ce718aa4220fbd711887d38e78e9d8c5983c9e69fe45266",
+      "Size": 148923,
+      "Side": "client",
+      "ProjectId": "E6UMWeLX",
+      "VersionId": "4nucOSHc",
+      "Title": "Fresh Animations: Player Extension \u002B Just Expressions",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/E6UMWeLX/8dbc6e66b592ef898ac62b49eaa8fedac3a62b14_96.webp",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported"
+    },
+    {
+      "Path": "resourcepacks/Fresh Food.zip",
+      "Url": "https://cdn.modrinth.com/data/UoLAbzII/versions/kQYADnq4/Fresh%20Food.zip",
+      "Sha256": "587d4f0801f7eef594764ed2b155fb6607d3a8b4602dc1a0ff8aef9369851bad",
+      "Size": 1428718,
+      "Side": "client",
+      "ProjectId": "UoLAbzII",
+      "VersionId": "kQYADnq4",
+      "Title": "Fresh Food",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/UoLAbzII/9917a8356dd28fb8fc95fcb05528ef22f73169c5.gif",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported"
+    },
+    {
+      "Path": "resourcepacks/RAYs_3D_Rails_v3.1.zip",
+      "Url": "https://cdn.modrinth.com/data/jKa9Ievs/versions/2DlvUHem/RAYs_3D_Rails_v3.1.zip",
+      "Sha256": "af76c85c7d8f2ec4ebb0aa968a7920eb312ad1ac999438f1fa9730088f3f2557",
+      "Size": 1499984,
+      "Side": "client",
+      "ProjectId": "jKa9Ievs",
+      "VersionId": "2DlvUHem",
+      "Title": "RAY\u0027s 3D Rails",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/jKa9Ievs/efc724e211d38ebf641226b9d1c64c276f76467e_96.webp",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported"
+    },
+    {
+      "Path": "resourcepacks/RAYs_3D_Ladders_v2.0.zip",
+      "Url": "https://cdn.modrinth.com/data/Uupo7yGf/versions/KEPsTS4k/RAYs_3D_Ladders_v2.0.zip",
+      "Sha256": "764fc2cbea0bce5b77b17b64e25c680138cdccf4900617c7e36d72903bcc8fa4",
+      "Size": 491160,
+      "Side": "client",
+      "ProjectId": "Uupo7yGf",
+      "VersionId": "KEPsTS4k",
+      "Title": "RAY\u0027s 3D Ladders",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/Uupo7yGf/d6adb3b11a9c5946bfe88b84f70237b1c702dd60_96.webp",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported"
+    },
+    {
+      "Path": "resourcepacks/Better Lanterns v1.3.2 - 26.2.zip",
+      "Url": "https://cdn.modrinth.com/data/PGGrfcvL/versions/7jOhk8jT/Better%20Lanterns%20v1.3.2%20-%2026.2.zip",
+      "Sha256": "09d06aa067f9fb00eb76f5d1be05fc7fe26199c05f6c3e25f126a5faca86ad76",
+      "Size": 72622,
+      "Side": "client",
+      "ProjectId": "PGGrfcvL",
+      "VersionId": "7jOhk8jT",
+      "Title": "Better Lanterns",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/PGGrfcvL/4ebbf6b953f8589cb27665a21d1f3c4e6d3fe1ca_96.webp",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported"
+    },
+    {
+      "Path": "resourcepacks/DoorTweaks-v3.5.zip",
+      "Url": "https://cdn.modrinth.com/data/hYTZC3GD/versions/3StD2S4N/DoorTweaks-v3.5.zip",
+      "Sha256": "8b4b8ff19454ef7b95502c71c313cdb6f583fafb2f51bdb805f8c9b3db7fd1d7",
+      "Size": 494839,
+      "Side": "client",
+      "ProjectId": "hYTZC3GD",
+      "VersionId": "3StD2S4N",
+      "Title": "Door Tweaks",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/hYTZC3GD/c69e87e77f54c982d078d5b9072aa7d0e98005e4_96.webp",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported"
     }
   ]
 }
