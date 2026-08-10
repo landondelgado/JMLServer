@@ -1,6 +1,6 @@
 {
   "PackName": "Landon SMP",
-  "Version": "2026.08.10.042637",
+  "Version": "2026.08.10.042939",
   "MinecraftVersion": "26.2",
   "ModLoader": "fabric",
   "FabricLoaderVersion": "",
@@ -19,7 +19,8 @@
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/1IjD5062/icon.png",
       "ClientSupport": "required",
-      "ServerSupport": "unsupported"
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": []
     },
     {
       "Path": "shaderpacks/ComplementaryReimagined_r5.8.1.zip",
@@ -33,7 +34,8 @@
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/HVnmMxH1/79cb7c8123bbc54945305b2ebad6b8881efdf5f8_96.webp",
       "ClientSupport": "required",
-      "ServerSupport": "unsupported"
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": []
     },
     {
       "Path": "mods/iris-fabric-1.11.2\u002Bmc26.2.jar",
@@ -47,7 +49,8 @@
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/YL57xq9U/18d0e7f076d3d6ed5bedd472b853909aac5da202_96.webp",
       "ClientSupport": "required",
-      "ServerSupport": "unsupported"
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": []
     },
     {
       "Path": "shaderpacks/ComplementaryUnbound_r5.8.1.zip",
@@ -61,7 +64,8 @@
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/R6NEzAwj/c85ce4049aac76360d2cd24fd9a7003de01ef312_96.webp",
       "ClientSupport": "required",
-      "ServerSupport": "unsupported"
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": []
     },
     {
       "Path": "resourcepacks/xali\u0027s enchanted book v1.0.0.zip",
@@ -75,7 +79,8 @@
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/ZpBKASR2/6c2d9ce61b9356e67ec6decdad8e828e77718132.png",
       "ClientSupport": "required",
-      "ServerSupport": "unsupported"
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": []
     },
     {
       "Path": "resourcepacks/xali\u0027s potion v1.2.0.zip",
@@ -89,7 +94,8 @@
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/yFn9hTiq/029f821072a85f4d71e8f9271e7615a1efaa0a75.png",
       "ClientSupport": "required",
-      "ServerSupport": "unsupported"
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": []
     },
     {
       "Path": "mods/malilib-fabric-26.2-0.29.3.jar",
@@ -103,7 +109,8 @@
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/GcWjdA9I/a530ae55df5e0c405f5cf1b3e4fd6163a398bdc3.png",
       "ClientSupport": "required",
-      "ServerSupport": "unsupported"
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": []
     },
     {
       "Path": "mods/litematica-fabric-26.2-0.28.4.jar",
@@ -117,7 +124,8 @@
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/bEpr0Arc/25b5529d7a3b030ac136a6ce879d8ed2a1aa4a8d.png",
       "ClientSupport": "required",
-      "ServerSupport": "unsupported"
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": []
     },
     {
       "Path": "mods/worldedit-mod-7.4.4.jar",
@@ -131,7 +139,8 @@
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/1u6JkXh5/30698991048ced77e60c4e8284007d3782f2e6a3_96.webp",
       "ClientSupport": "unsupported",
-      "ServerSupport": "required"
+      "ServerSupport": "required",
+      "RequiredProjectIds": []
     },
     {
       "Path": "mods/servux-fabric-26.2-0.11.2.jar",
@@ -145,7 +154,8 @@
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/zQhsx8KF/57cebce8838ddc7b27b46eb98abd7f2fb0b87105_96.webp",
       "ClientSupport": "unsupported",
-      "ServerSupport": "required"
+      "ServerSupport": "required",
+      "RequiredProjectIds": []
     },
     {
       "Path": "mods/punchy-2.6.2-fabric-26.2.jar",
@@ -159,7 +169,8 @@
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/8aoMKplv/a9171ec026d659ccad5c3dff6fdfc80259d63e09.gif",
       "ClientSupport": "required",
-      "ServerSupport": "unsupported"
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": []
     },
     {
       "Path": "mods/atmospherics-2.6.6-mc-26.2.jar",
@@ -173,7 +184,8 @@
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/ft2cYBpB/167f7cb559efaa1c16102a4675a6a08b9bd709b5_96.webp",
       "ClientSupport": "required",
-      "ServerSupport": "unsupported"
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": []
     },
     {
       "Path": "mods/afk-cinematics-1.0.5\u002B26.2.jar",
@@ -187,7 +199,8 @@
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/MjVuY1gY/ff90d330e1a307883a1df8e600232352c4c1b4e4_96.webp",
       "ClientSupport": "required",
-      "ServerSupport": "unsupported"
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": []
     },
     {
       "Path": "resourcepacks/Enchantment Outlines.zip",
@@ -201,7 +214,8 @@
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/A32gwfe8/9f4bd3edfdb3df167c64757f66b828eba664a616_96.webp",
       "ClientSupport": "required",
-      "ServerSupport": "unsupported"
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": []
     },
     {
       "Path": "resourcepacks/Fresh Buckets.zip",
@@ -215,7 +229,8 @@
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/Sb5mtr2w/f0a55a3be5fc766b249ffff78bccdfa2fd90e42b.gif",
       "ClientSupport": "required",
-      "ServerSupport": "unsupported"
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": []
     },
     {
       "Path": "resourcepacks/\u00A77Better\u00A7bOres\u00A793D \u00A7f- 26.2\u00A70.zip",
@@ -229,7 +244,8 @@
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/9D4BBjDX/43e04a731f054f3d48f6c09e8848939e09377b06_96.webp",
       "ClientSupport": "required",
-      "ServerSupport": "unsupported"
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": []
     },
     {
       "Path": "mods/SubtleEffects-fabric-26.2-1.14.3.jar",
@@ -243,7 +259,8 @@
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/4q8UOK1d/8a5d3febe9a9badba435a3f66a49668d04ada01f_96.webp",
       "ClientSupport": "required",
-      "ServerSupport": "optional"
+      "ServerSupport": "optional",
+      "RequiredProjectIds": []
     },
     {
       "Path": "mods/wakes-0.7.0\u002B26.2.jar",
@@ -257,7 +274,8 @@
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/dlNu0RQY/46be95a28f27da8a98e9721b6695703fcec2d7d8_96.webp",
       "ClientSupport": "required",
-      "ServerSupport": "unsupported"
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": []
     },
     {
       "Path": "shaderpacks/photon_v1.3b.zip",
@@ -271,7 +289,8 @@
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/lLqFfGNs/39cb5f12e7dcc68d6cb666f225fcb2b801dd70fb_96.webp",
       "ClientSupport": "required",
-      "ServerSupport": "unsupported"
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": []
     },
     {
       "Path": "shaderpacks/\u00A7r\u00A7lAstra\u00A74\u00A7lLex\u00A7r\u00A7l_By_LexBoosT_\u00A74\u00A7lV93.0\u00A7r\u00A7l.zip",
@@ -285,7 +304,8 @@
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/RphJSnEs/3e25ea407447bf2ff8ffa8926cd2db295307cf68_96.webp",
       "ClientSupport": "required",
-      "ServerSupport": "unsupported"
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": []
     },
     {
       "Path": "shaderpacks/rethinking-voxels_r0.1-beta9.zip",
@@ -299,7 +319,8 @@
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/kmwfVOoi/fc89eadad417dd376b14c3b31e1a2b87acaca034_96.webp",
       "ClientSupport": "required",
-      "ServerSupport": "unsupported"
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": []
     },
     {
       "Path": "mods/placeholder-api-3.1.0-beta.1\u002B26.2.jar",
@@ -313,7 +334,8 @@
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/eXts2L7r/e9c9990896e6422bffc5f73d2c41b8f077348f83.png",
       "ClientSupport": "optional",
-      "ServerSupport": "optional"
+      "ServerSupport": "optional",
+      "RequiredProjectIds": []
     },
     {
       "Path": "mods/modmenu-20.0.1.jar",
@@ -327,7 +349,8 @@
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/mOgUt4GM/5a20ed1450a0e1e79a1fe04e61bb4e5878bf1d20.png",
       "ClientSupport": "required",
-      "ServerSupport": "unsupported"
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": []
     },
     {
       "Path": "mods/ImmediatelyFast-Fabric-1.16.2\u002B26.2.jar",
@@ -341,7 +364,8 @@
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/5ZwdcRci/e57b6b451425692ac17ad322d5e14bea686a383a_96.webp",
       "ClientSupport": "required",
-      "ServerSupport": "unsupported"
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": []
     },
     {
       "Path": "mods/entityculling-fabric-1.10.5-mc26.2.jar",
@@ -355,7 +379,8 @@
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/NNAgCjsB/7873452d6cede4daed12da3d7d8c193ab88b4fd6_96.webp",
       "ClientSupport": "required",
-      "ServerSupport": "unsupported"
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": []
     },
     {
       "Path": "mods/lithium-fabric-0.25.3\u002Bmc26.2.jar",
@@ -369,7 +394,8 @@
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/gvQqBUqZ/bcc8686c13af0143adf4285d741256af824f70b7_96.webp",
       "ClientSupport": "optional",
-      "ServerSupport": "optional"
+      "ServerSupport": "optional",
+      "RequiredProjectIds": []
     },
     {
       "Path": "mods/ferritecore-9.0.0-fabric.jar",
@@ -383,7 +409,8 @@
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/uXXizFIs/222a126f26f8f9ae1eb339f3b767677f18bff31f_96.webp",
       "ClientSupport": "optional",
-      "ServerSupport": "optional"
+      "ServerSupport": "optional",
+      "RequiredProjectIds": []
     },
     {
       "Path": "mods/c2me-fabric-mc26.2-0.4.2-alpha.0.34.jar",
@@ -397,7 +424,8 @@
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/VSNURh3q/3c2ce471054466712a44c8758a03e03bb868f93b_96.webp",
       "ClientSupport": "optional",
-      "ServerSupport": "required"
+      "ServerSupport": "required",
+      "RequiredProjectIds": []
     },
     {
       "Path": "mods/fabric-language-kotlin-1.13.13\u002Bkotlin.2.4.10.jar",
@@ -411,7 +439,8 @@
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/Ha28R6CL/72c3d74aeb665e45aea93a945a01474cbce3b7da_96.webp",
       "ClientSupport": "optional",
-      "ServerSupport": "optional"
+      "ServerSupport": "optional",
+      "RequiredProjectIds": []
     },
     {
       "Path": "mods/fzzy_config-0.7.6\u002B26.2.jar",
@@ -425,7 +454,8 @@
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/hYykXjDp/11f469b1bf1f201a95c2e3ddc09ca47d85c3ed53.png",
       "ClientSupport": "required",
-      "ServerSupport": "required"
+      "ServerSupport": "required",
+      "RequiredProjectIds": []
     },
     {
       "Path": "mods/particle_core-0.3.3\u002B26.2.jar",
@@ -439,7 +469,8 @@
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/RSeLon5O/147110a6a4457b2f287f68fc626771f0f8ef2cde_96.webp",
       "ClientSupport": "required",
-      "ServerSupport": "unsupported"
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": []
     },
     {
       "Path": "mods/PresenceFootsteps-1.13.3\u002B26.2.jar",
@@ -453,7 +484,8 @@
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/rcTfTZr3/c08dc581f0bf3b729f86e962fa800463af86e9a2_96.webp",
       "ClientSupport": "required",
-      "ServerSupport": "unsupported"
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": []
     },
     {
       "Path": "mods/eating-animation-fork-26.2\u002B3.0.0.jar",
@@ -467,7 +499,8 @@
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/6Z8trFQe/3728bc0dd14ce1ec84599f9dad43aa5fbcfbef2a.gif",
       "ClientSupport": "required",
-      "ServerSupport": "unsupported"
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": []
     },
     {
       "Path": "resourcepacks/FreshAnimations_v1.10.5.zip",
@@ -481,7 +514,8 @@
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/50dA9Sha/3132c10e9e3c73fde9799720fd3da5561071708c_96.webp",
       "ClientSupport": "required",
-      "ServerSupport": "unsupported"
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": []
     },
     {
       "Path": "mods/entity_model_features-3.2.6-26.2-fabric.jar",
@@ -495,7 +529,8 @@
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/4I1XuqiY/6e5bbd0d06b1741bfdab6c0cfab6de8fdaf0064c_96.webp",
       "ClientSupport": "required",
-      "ServerSupport": "unsupported"
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": []
     },
     {
       "Path": "mods/entity_texture_features-7.1.1-26.2-fabric.jar",
@@ -509,7 +544,8 @@
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/BVzZfTc1/af683d206d50b05258d865b0d6e4aa2f2cee12f2_96.webp",
       "ClientSupport": "required",
-      "ServerSupport": "unsupported"
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": []
     },
     {
       "Path": "mods/EuphoriaPatcher-1.9.3-r5.8.1-fabric.jar",
@@ -523,7 +559,8 @@
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/4H6sumDB/437130f3f10997f720ff0b788cb24cde3b3b8541.png",
       "ClientSupport": "required",
-      "ServerSupport": "unsupported"
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": []
     },
     {
       "Path": "resourcepacks/rainbows-foliage-polytone-edition-v1.9.zip",
@@ -537,7 +574,8 @@
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/bY2CaVIh/4640c82c26d72e6b2883f66a9c9bfe527545a69e_96.webp",
       "ClientSupport": "required",
-      "ServerSupport": "unsupported"
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": []
     },
     {
       "Path": "mods/polytone-fabric-26.2-5.10.2.jar",
@@ -551,7 +589,8 @@
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/3qAYkBMB/828636188cd2427eb1158dd1e0bddd42d318ccbf_96.webp",
       "ClientSupport": "required",
-      "ServerSupport": "unsupported"
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": []
     },
     {
       "Path": "resourcepacks/Os\u0027 Colorful Grasses (Short and Fluffy).zip",
@@ -565,7 +604,8 @@
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/O2zhH8n8/a502bfe9117c4f2b14dfdb8ee6f0e265375fbabf_96.webp",
       "ClientSupport": "required",
-      "ServerSupport": "unsupported"
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": []
     },
     {
       "Path": "resourcepacks/MickeyJoesFlowersV5.zip",
@@ -579,7 +619,8 @@
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/JfivfXs9/fb3afaad3c0230f80db13971b47cefe7cac3fc0e_96.webp",
       "ClientSupport": "required",
-      "ServerSupport": "unsupported"
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": []
     },
     {
       "Path": "mods/dense-flowers-0.3.0\u002Bmc26.2.jar",
@@ -593,7 +634,8 @@
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/Ud3A1Fat/0665c89b0ac3cd47d9ac5be80484afaafb743cba_96.webp",
       "ClientSupport": "required",
-      "ServerSupport": "unsupported"
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": []
     },
     {
       "Path": "resourcepacks/Fancy Crops v1.3.zip",
@@ -607,7 +649,8 @@
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/UGEVQ6t9/5c1e966b2b67c21750875d8517c994d975a729de_96.webp",
       "ClientSupport": "required",
-      "ServerSupport": "unsupported"
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": []
     },
     {
       "Path": "mods/atmosfera-2.7.2\u002Bmc26.2.jar",
@@ -621,7 +664,8 @@
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/28G1xpgF/960d74bc4b8c720751ea754631b593feee13e63c.png",
       "ClientSupport": "required",
-      "ServerSupport": "unsupported"
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": []
     },
     {
       "Path": "mods/coolrain-1.4.0-26.2.jar",
@@ -635,7 +679,8 @@
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/iDyqnQLT/a252e26685c30f1ae82a47b087b01fa6b968a6f1_96.webp",
       "ClientSupport": "required",
-      "ServerSupport": "optional"
+      "ServerSupport": "optional",
+      "RequiredProjectIds": []
     },
     {
       "Path": "resourcepacks/Connected-Bricks 1.21.9\u002B v1.0.zip",
@@ -649,7 +694,8 @@
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/mnKF5Qd2/d983fc6a0e5388c7cce378168a80274f4860b3d7.gif",
       "ClientSupport": "required",
-      "ServerSupport": "unsupported"
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": []
     },
     {
       "Path": "resourcepacks/Connected-Rocks 1.21.9\u002B v1.1.1.zip",
@@ -663,7 +709,8 @@
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/IE9kFeq9/39a549cf0c73d334d047726cc69c7e46220b979b.gif",
       "ClientSupport": "required",
-      "ServerSupport": "unsupported"
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": []
     },
     {
       "Path": "resourcepacks/Connected-Paths 26.1 \u2013 26.1.2 v2.1.1.zip",
@@ -677,7 +724,8 @@
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/Nyfj98b5/95e484f46c21dfa112bd9801cba99cf73d64d0c0.gif",
       "ClientSupport": "required",
-      "ServerSupport": "unsupported"
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": []
     },
     {
       "Path": "mods/eg_particle_interactions-0.10.1\u002B26.2-fabric.jar",
@@ -691,7 +739,8 @@
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/xFCYuAs8/e2e36e1660365d4405c2268f3800f6500b8350cf_96.webp",
       "ClientSupport": "required",
-      "ServerSupport": "unsupported"
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": []
     },
     {
       "Path": "mods/ParticleEffects-1.5.0\u002B26.2\u002Bfabric.jar",
@@ -705,7 +754,8 @@
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/PLAGcSFJ/a1c206381f51a0fb2bf5e5e38bb850392b31141b_96.webp",
       "ClientSupport": "required",
-      "ServerSupport": "unsupported"
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": []
     },
     {
       "Path": "mods/yet_another_config_lib_v3-3.9.6\u002B26.2-fabric.jar",
@@ -719,7 +769,8 @@
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/1eAoo2KR/08c0cd32515e260f4bb20bbc0696510041523f9a_96.webp",
       "ClientSupport": "optional",
-      "ServerSupport": "optional"
+      "ServerSupport": "optional",
+      "RequiredProjectIds": []
     },
     {
       "Path": "mods/fastquit-3.1.5\u002Bmc26.2.jar",
@@ -733,7 +784,8 @@
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/x1hIzbuY/930154d1ed3e855079c5f6ee63faeb9bcbe87cfd_96.webp",
       "ClientSupport": "required",
-      "ServerSupport": "unsupported"
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": []
     },
     {
       "Path": "mods/cloth-config-26.2.155.jar",
@@ -747,7 +799,8 @@
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/9s6osm5g/ed8a2316cbb6f4fc5f510e8e13a59a85cbbbff4d_96.webp",
       "ClientSupport": "optional",
-      "ServerSupport": "optional"
+      "ServerSupport": "optional",
+      "RequiredProjectIds": []
     },
     {
       "Path": "mods/sodium-fabric-0.9.1\u002Bmc26.2.jar",
@@ -761,7 +814,8 @@
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/AANobbMI/295862f4724dc3f78df3447ad6072b2dcd3ef0c9_96.webp",
       "ClientSupport": "required",
-      "ServerSupport": "unsupported"
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": []
     },
     {
       "Path": "mods/voxy-0.2.18-beta.jar",
@@ -775,7 +829,8 @@
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/fxxUqruK/2a4159b1ff6ecba43bf895d6abee6f724a0e03c0_96.webp",
       "ClientSupport": "required",
-      "ServerSupport": "unsupported"
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": []
     },
     {
       "Path": "mods/VoxyServer-1.2.4-26.2.jar",
@@ -789,7 +844,8 @@
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/fNtGd1cx/93fb864b5e98bc72e5392899525f33c0395b4c67_96.webp",
       "ClientSupport": "required",
-      "ServerSupport": "required"
+      "ServerSupport": "required",
+      "RequiredProjectIds": []
     },
     {
       "Path": "resourcepacks/Fresh Food.zip",
@@ -803,7 +859,8 @@
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/UoLAbzII/9917a8356dd28fb8fc95fcb05528ef22f73169c5.gif",
       "ClientSupport": "required",
-      "ServerSupport": "unsupported"
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": []
     },
     {
       "Path": "resourcepacks/RAYs_3D_Rails_v3.1.zip",
@@ -817,7 +874,8 @@
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/jKa9Ievs/efc724e211d38ebf641226b9d1c64c276f76467e_96.webp",
       "ClientSupport": "required",
-      "ServerSupport": "unsupported"
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": []
     },
     {
       "Path": "resourcepacks/RAYs_3D_Ladders_v2.0.zip",
@@ -831,7 +889,8 @@
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/Uupo7yGf/d6adb3b11a9c5946bfe88b84f70237b1c702dd60_96.webp",
       "ClientSupport": "required",
-      "ServerSupport": "unsupported"
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": []
     },
     {
       "Path": "resourcepacks/Better Lanterns v1.3.2 - 26.2.zip",
@@ -845,7 +904,8 @@
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/PGGrfcvL/4ebbf6b953f8589cb27665a21d1f3c4e6d3fe1ca_96.webp",
       "ClientSupport": "required",
-      "ServerSupport": "unsupported"
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": []
     },
     {
       "Path": "resourcepacks/DoorTweaks-v3.5.zip",
@@ -859,7 +919,8 @@
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/hYTZC3GD/c69e87e77f54c982d078d5b9072aa7d0e98005e4_96.webp",
       "ClientSupport": "required",
-      "ServerSupport": "unsupported"
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": []
     },
     {
       "Path": "resourcepacks/FA\u002BPlayer-v1.1.zip",
@@ -873,7 +934,8 @@
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/TAIMVZCL/b3918b1dcedad8987cac3715ec95d00aaadc3a49_96.webp",
       "ClientSupport": "required",
-      "ServerSupport": "unsupported"
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": []
     },
     {
       "Path": "mods/shulkerboxtooltip-fabric-5.4.0\u002B26.2.jar",
@@ -887,7 +949,8 @@
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/2M01OLQq/bb490716cf2590cf84100a495931c3d4743bce43_96.webp",
       "ClientSupport": "required",
-      "ServerSupport": "optional"
+      "ServerSupport": "optional",
+      "RequiredProjectIds": []
     },
     {
       "Path": "mods/jamlib-fabric-2.3.1\u002B26.2.x.jar",
@@ -901,7 +964,8 @@
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/IYY9Siz8/7585f4d35b18467c2d0d9c496e3b7cd4919c413a_96.webp",
       "ClientSupport": "required",
-      "ServerSupport": "required"
+      "ServerSupport": "required",
+      "RequiredProjectIds": []
     },
     {
       "Path": "mods/rightclickharvest-fabric-4.6.2\u002B26.2.x.jar",
@@ -915,7 +979,8 @@
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/Cnejf5xM/b6e535989217836c2adc49b06f4b3c8f429afda3_96.webp",
       "ClientSupport": "unsupported",
-      "ServerSupport": "required"
+      "ServerSupport": "required",
+      "RequiredProjectIds": []
     },
     {
       "Path": "mods/ForgeConfigAPIPort-v26.2.1-mc26.2.x-Fabric.jar",
@@ -929,7 +994,8 @@
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/ohNO6lps/cb3b942cc18a66a0f35f802e004713f134e46cc2_96.webp",
       "ClientSupport": "optional",
-      "ServerSupport": "optional"
+      "ServerSupport": "optional",
+      "RequiredProjectIds": []
     },
     {
       "Path": "mods/PuzzlesLib-v26.2.3-mc26.2.x-Fabric.jar",
@@ -943,7 +1009,8 @@
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/QAGBst4M/c78216c61f65b6ce82593e4e92e9c358402bb524_96.webp",
       "ClientSupport": "optional",
-      "ServerSupport": "optional"
+      "ServerSupport": "optional",
+      "RequiredProjectIds": []
     },
     {
       "Path": "mods/PickUpNotifier-v26.2.0-mc26.2.x-Fabric.jar",
@@ -957,7 +1024,8 @@
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/ZX66K16c/769d7c843339981c1f8e5eec5ff983294a3671fb_96.webp",
       "ClientSupport": "required",
-      "ServerSupport": "optional"
+      "ServerSupport": "optional",
+      "RequiredProjectIds": []
     },
     {
       "Path": "mods/MouseTweaks-fabric-mc26.2-2.31.jar",
@@ -971,7 +1039,8 @@
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/aC3cM3Vq/6c0eaa4e60a9c87f4766f222ff63286f09da32c0_96.webp",
       "ClientSupport": "required",
-      "ServerSupport": "unsupported"
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": []
     },
     {
       "Path": "mods/fabric-api-0.156.0\u002B26.2.jar",
@@ -985,7 +1054,8 @@
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/P7dR8mSH/icon.png",
       "ClientSupport": "optional",
-      "ServerSupport": "optional"
+      "ServerSupport": "optional",
+      "RequiredProjectIds": []
     },
     {
       "Path": "mods/mru-1.0.31\u002B26.2-fabric.jar",
@@ -999,7 +1069,8 @@
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/SNVQ2c0g/82339bfc8a0a3a6a3c376f5c29555a378379cfa0_96.webp",
       "ClientSupport": "optional",
-      "ServerSupport": "optional"
+      "ServerSupport": "optional",
+      "RequiredProjectIds": []
     },
     {
       "Path": "mods/sounds-2.5.1\u002Bedge\u002B26.2-fabric.jar",
@@ -1013,7 +1084,8 @@
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/ZouiUX7t/b6ae84ea14654245f58856722473afeddf72360c_96.webp",
       "ClientSupport": "required",
-      "ServerSupport": "unsupported"
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": []
     },
     {
       "Path": "mods/sound-physics-remastered-fabric-1.5.1\u002B26.2.jar",
@@ -1027,7 +1099,8 @@
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/qyVF9oeo/798fbfae58ec95ad51f3e1d522b43227306c326c.png",
       "ClientSupport": "required",
-      "ServerSupport": "optional"
+      "ServerSupport": "optional",
+      "RequiredProjectIds": []
     }
   ]
 }
