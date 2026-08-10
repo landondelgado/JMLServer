@@ -1,6 +1,6 @@
 {
   "PackName": "Landon SMP",
-  "Version": "2026.08.10.044528",
+  "Version": "2026.08.10.044936",
   "MinecraftVersion": "26.2",
   "ModLoader": "fabric",
   "FabricLoaderVersion": "",
@@ -1057,24 +1057,6 @@
       "ServerSupport": "optional",
       "RequiredProjectIds": [
         "P7dR8mSH"
-      ]
-    },
-    {
-      "Path": "mods/immersive-hotbar-1.1.2-26.2.jar",
-      "Url": "https://cdn.modrinth.com/data/hsPB5xMD/versions/iYkItip9/immersive-hotbar-1.1.2-26.2.jar",
-      "Sha256": "0d743efc885d845954589424d0eab96d35b6abb5a8d162998040222354675816",
-      "Size": 89883,
-      "Side": "client",
-      "ProjectId": "hsPB5xMD",
-      "VersionId": "iYkItip9",
-      "Title": "Immersive Hotbar",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/hsPB5xMD/49a1d507980ca08381ae2742db4d674d1e6238c9_96.webp",
-      "ClientSupport": "required",
-      "ServerSupport": "unsupported",
-      "RequiredProjectIds": [
-        "P7dR8mSH",
-        "1eAoo2KR"
       ]
     },
     {
