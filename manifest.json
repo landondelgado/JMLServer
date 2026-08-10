@@ -1,6 +1,6 @@
 {
   "PackName": "Landon SMP",
-  "Version": "2026.08.10.044936",
+  "Version": "2026.08.10.044955",
   "MinecraftVersion": "26.2",
   "ModLoader": "fabric",
   "FabricLoaderVersion": "",
@@ -1043,23 +1043,6 @@
       "RequiredProjectIds": []
     },
     {
-      "Path": "mods/yet_another_config_lib_v3-3.9.6\u002B26.2-fabric.jar",
-      "Url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/cnfPzuFU/yet_another_config_lib_v3-3.9.6%2B26.2-fabric.jar",
-      "Sha256": "829396c3b3e7d1801ae0e9e2921d0454c5a3078afdb6c6dda6b3d1819dfa0e3f",
-      "Size": 1121529,
-      "Side": "client",
-      "ProjectId": "1eAoo2KR",
-      "VersionId": "cnfPzuFU",
-      "Title": "YetAnotherConfigLib (YACL)",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/1eAoo2KR/08c0cd32515e260f4bb20bbc0696510041523f9a_96.webp",
-      "ClientSupport": "optional",
-      "ServerSupport": "optional",
-      "RequiredProjectIds": [
-        "P7dR8mSH"
-      ]
-    },
-    {
       "Path": "mods/eg_particle_interactions-0.10.1\u002B26.2-fabric.jar",
       "Url": "https://cdn.modrinth.com/data/xFCYuAs8/versions/klUU9ITa/eg_particle_interactions-0.10.1%2B26.2-fabric.jar",
       "Sha256": "8bb034e5ad70f9f680f88e76ae7ab483c6f9eb895079f4019d5684372e7037ab",
@@ -1072,6 +1055,23 @@
       "IconUrl": "https://cdn.modrinth.com/data/xFCYuAs8/e2e36e1660365d4405c2268f3800f6500b8350cf_96.webp",
       "ClientSupport": "required",
       "ServerSupport": "unsupported",
+      "RequiredProjectIds": [
+        "P7dR8mSH"
+      ]
+    },
+    {
+      "Path": "mods/mru-1.0.31\u002B26.2-fabric.jar",
+      "Url": "https://cdn.modrinth.com/data/SNVQ2c0g/versions/v9RR5djf/mru-1.0.31%2B26.2-fabric.jar",
+      "Sha256": "57f0769704ef5c51f91a023e7de6d0fc161ed32e64de2f27b6ad5a5c8fc82e76",
+      "Size": 119736,
+      "Side": "client",
+      "ProjectId": "SNVQ2c0g",
+      "VersionId": "v9RR5djf",
+      "Title": "MRU",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/SNVQ2c0g/82339bfc8a0a3a6a3c376f5c29555a378379cfa0_96.webp",
+      "ClientSupport": "optional",
+      "ServerSupport": "optional",
       "RequiredProjectIds": [
         "P7dR8mSH"
       ]
@@ -1092,20 +1092,38 @@
       "RequiredProjectIds": []
     },
     {
-      "Path": "mods/mru-1.0.31\u002B26.2-fabric.jar",
-      "Url": "https://cdn.modrinth.com/data/SNVQ2c0g/versions/v9RR5djf/mru-1.0.31%2B26.2-fabric.jar",
-      "Sha256": "57f0769704ef5c51f91a023e7de6d0fc161ed32e64de2f27b6ad5a5c8fc82e76",
-      "Size": 119736,
+      "Path": "mods/yet_another_config_lib_v3-3.9.6\u002B26.2-fabric.jar",
+      "Url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/cnfPzuFU/yet_another_config_lib_v3-3.9.6%2B26.2-fabric.jar",
+      "Sha256": "829396c3b3e7d1801ae0e9e2921d0454c5a3078afdb6c6dda6b3d1819dfa0e3f",
+      "Size": 1121529,
       "Side": "client",
-      "ProjectId": "SNVQ2c0g",
-      "VersionId": "v9RR5djf",
-      "Title": "MRU",
+      "ProjectId": "1eAoo2KR",
+      "VersionId": "cnfPzuFU",
+      "Title": "YetAnotherConfigLib (YACL)",
       "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/SNVQ2c0g/82339bfc8a0a3a6a3c376f5c29555a378379cfa0_96.webp",
+      "IconUrl": "https://cdn.modrinth.com/data/1eAoo2KR/08c0cd32515e260f4bb20bbc0696510041523f9a_96.webp",
       "ClientSupport": "optional",
       "ServerSupport": "optional",
       "RequiredProjectIds": [
         "P7dR8mSH"
+      ]
+    },
+    {
+      "Path": "mods/immersive-hotbar-1.1.2-26.2.jar",
+      "Url": "https://cdn.modrinth.com/data/hsPB5xMD/versions/iYkItip9/immersive-hotbar-1.1.2-26.2.jar",
+      "Sha256": "0d743efc885d845954589424d0eab96d35b6abb5a8d162998040222354675816",
+      "Size": 89883,
+      "Side": "client",
+      "ProjectId": "hsPB5xMD",
+      "VersionId": "iYkItip9",
+      "Title": "Immersive Hotbar",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/hsPB5xMD/49a1d507980ca08381ae2742db4d674d1e6238c9_96.webp",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": [
+        "P7dR8mSH",
+        "1eAoo2KR"
       ]
     }
   ]
