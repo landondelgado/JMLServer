@@ -1,6 +1,6 @@
 {
   "PackName": "Landon SMP",
-  "Version": "2026.08.10.044955",
+  "Version": "2026.08.12.012722",
   "MinecraftVersion": "26.2",
   "ModLoader": "fabric",
   "FabricLoaderVersion": "",
@@ -63,21 +63,6 @@
       "Title": "Complementary Shaders - Unbound",
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/R6NEzAwj/c85ce4049aac76360d2cd24fd9a7003de01ef312_96.webp",
-      "ClientSupport": "required",
-      "ServerSupport": "unsupported",
-      "RequiredProjectIds": []
-    },
-    {
-      "Path": "resourcepacks/xali\u0027s enchanted book v1.0.0.zip",
-      "Url": "https://cdn.modrinth.com/data/ZpBKASR2/versions/3I3axi22/xali%27s%20enchanted%20book%20v1.0.0.zip",
-      "Sha256": "48d8ce7cb630bae276ac99a890426eb6191b53565931c0790a1093455aad29e3",
-      "Size": 234677,
-      "Side": "client",
-      "ProjectId": "ZpBKASR2",
-      "VersionId": "3I3axi22",
-      "Title": "xali\u0027s Enchanted Books",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/ZpBKASR2/6c2d9ce61b9356e67ec6decdad8e828e77718132.png",
       "ClientSupport": "required",
       "ServerSupport": "unsupported",
       "RequiredProjectIds": []
@@ -1125,6 +1110,21 @@
         "P7dR8mSH",
         "1eAoo2KR"
       ]
+    },
+    {
+      "Path": "resourcepacks/Re-covered.zip",
+      "Url": "https://cdn.modrinth.com/data/6gN7YVi7/versions/rKH59r8y/Re-covered.zip",
+      "Sha256": "8d7a0e5260a98132ac6107620d4fd806a16a533bfdb96efb36154a9f2336a125",
+      "Size": 102224,
+      "Side": "client",
+      "ProjectId": "6gN7YVi7",
+      "VersionId": "rKH59r8y",
+      "Title": "Enchanted Books: Re-covered",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/6gN7YVi7/108492802aefe83903042a8f6ffb9872bd85212a.png",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": []
     }
   ]
 }
