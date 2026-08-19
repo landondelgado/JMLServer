@@ -1,6 +1,6 @@
 {
   "PackName": "Landon SMP",
-  "Version": "2026.08.19.002038",
+  "Version": "2026.08.19.003014",
   "MinecraftVersion": "26.2",
   "ModLoader": "fabric",
   "FabricLoaderVersion": "",
@@ -1190,6 +1190,51 @@
         "P7dR8mSH",
         "LIqveQm1"
       ]
+    },
+    {
+      "Path": "resourcepacks/\u00A76Immersive\u00A78_\u00A76Interfaces\u00A78.zip",
+      "Url": "https://cdn.modrinth.com/data/3sV1gvyJ/versions/rhXvPOmr/%C2%A76Immersive%C2%A78_%C2%A76Interfaces%C2%A78.zip",
+      "Sha256": "91e8303b22d921074619252b9b66b9fc2127c97aa7a6d487f39056900c091547",
+      "Size": 1197001,
+      "Side": "client",
+      "ProjectId": "3sV1gvyJ",
+      "VersionId": "rhXvPOmr",
+      "Title": "Immersive Interfaces",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/3sV1gvyJ/94e543bad6d9a3745deb5354703d2babe066badd.png",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": []
+    },
+    {
+      "Path": "resourcepacks/Recolourful Containers 3.1.3 (1.19.4\u002B).zip",
+      "Url": "https://cdn.modrinth.com/data/lewweaHO/versions/Req8KKc8/Recolourful%20Containers%203.1.3%20%281.19.4%2B%29.zip",
+      "Sha256": "fe14f85cf5c551fb1d0f122d7fa07a4b371186f15e23b467a409999658974948",
+      "Size": 2104807,
+      "Side": "client",
+      "ProjectId": "lewweaHO",
+      "VersionId": "Req8KKc8",
+      "Title": "Recolourful Containers GUI \u002B HUD",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/lewweaHO/1d7b77d200481c0a4a3e2ae2cfafecdbc762de10_96.webp",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": []
+    },
+    {
+      "Path": "resourcepacks/Recolourful Containers DARK 3.1.3 (1.19.4\u002B).zip",
+      "Url": "https://cdn.modrinth.com/data/sQCUH0Mr/versions/RHDuyTyw/Recolourful%20Containers%20DARK%203.1.3%20%281.19.4%2B%29.zip",
+      "Sha256": "cd4878ce5fa00e61e02f326ce2751026be30fc8e79d65041986d8b66cdade89d",
+      "Size": 2215671,
+      "Side": "client",
+      "ProjectId": "sQCUH0Mr",
+      "VersionId": "RHDuyTyw",
+      "Title": "Recolourful Containers GUI \u002B HUD (DARK)",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/sQCUH0Mr/ea7fb8092c2d318e5388159d9dffc3091f636f66.png",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": []
     }
   ]
 }
