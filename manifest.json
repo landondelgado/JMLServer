@@ -1,6 +1,6 @@
 {
   "PackName": "Landon SMP",
-  "Version": "2026.08.12.012722",
+  "Version": "2026.08.19.002038",
   "MinecraftVersion": "26.2",
   "ModLoader": "fabric",
   "FabricLoaderVersion": "",
@@ -1062,21 +1062,6 @@
       ]
     },
     {
-      "Path": "mods/fabric-api-0.156.0\u002B26.2.jar",
-      "Url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/3gT0I5vt/fabric-api-0.156.0%2B26.2.jar",
-      "Sha256": "8de18d9f6a8a2a5b2120ef9e8bffb79cc9b75989c0c022c39c9dfc1bc3a29a99",
-      "Size": 2531175,
-      "Side": "client",
-      "ProjectId": "P7dR8mSH",
-      "VersionId": "3gT0I5vt",
-      "Title": "Fabric API",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/P7dR8mSH/icon.png",
-      "ClientSupport": "optional",
-      "ServerSupport": "optional",
-      "RequiredProjectIds": []
-    },
-    {
       "Path": "mods/yet_another_config_lib_v3-3.9.6\u002B26.2-fabric.jar",
       "Url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/cnfPzuFU/yet_another_config_lib_v3-3.9.6%2B26.2-fabric.jar",
       "Sha256": "829396c3b3e7d1801ae0e9e2921d0454c5a3078afdb6c6dda6b3d1819dfa0e3f",
@@ -1125,6 +1110,86 @@
       "ClientSupport": "required",
       "ServerSupport": "unsupported",
       "RequiredProjectIds": []
+    },
+    {
+      "Path": "mods/packed_packs-fabric-2.2.3\u002B26.2.jar",
+      "Url": "https://cdn.modrinth.com/data/8Pq6Exn2/versions/cLspRir0/packed_packs-fabric-2.2.3%2B26.2.jar",
+      "Sha256": "e196bf95af621e147dd0b0dd4260693eb91eb2d81a19defefd416bddb580c3dc",
+      "Size": 822666,
+      "Side": "client",
+      "ProjectId": "8Pq6Exn2",
+      "VersionId": "cLspRir0",
+      "Title": "Packed Packs",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/8Pq6Exn2/ddfa6a6bc6bc282160fa92b70df711fab6948d01.png",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": [
+        "P7dR8mSH"
+      ]
+    },
+    {
+      "Path": "mods/screenshot_viewer-1.3.6-fabric-mc26.2.jar",
+      "Url": "https://cdn.modrinth.com/data/laNoi025/versions/id6Yni9S/screenshot_viewer-1.3.6-fabric-mc26.2.jar",
+      "Sha256": "759beddf3bf3afad22997f247a21f639b057d17338a1414c67f313dd35ce9958",
+      "Size": 311885,
+      "Side": "client",
+      "ProjectId": "laNoi025",
+      "VersionId": "id6Yni9S",
+      "Title": "Screenshot Viewer",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/laNoi025/1bbd371a465710708ce253fad6f9f8e7c8e3e56e.png",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": []
+    },
+    {
+      "Path": "mods/fabric-api-0.158.0\u002B26.2.jar",
+      "Url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/NqwNSxwA/fabric-api-0.158.0%2B26.2.jar",
+      "Sha256": "a4510eb2e9d4057ff20f751e420d0618598813ab9695b6f793a53c2883808dac",
+      "Size": 2535765,
+      "Side": "client",
+      "ProjectId": "P7dR8mSH",
+      "VersionId": "NqwNSxwA",
+      "Title": "Fabric API",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/P7dR8mSH/icon.png",
+      "ClientSupport": "optional",
+      "ServerSupport": "optional",
+      "RequiredProjectIds": []
+    },
+    {
+      "Path": "mods/perspective_api-1.5.0-beta\u002Bfabric-26.2.jar",
+      "Url": "https://cdn.modrinth.com/data/LIqveQm1/versions/cuskoxpS/perspective_api-1.5.0-beta%2Bfabric-26.2.jar",
+      "Sha256": "152a24cd9357bbdab1dbca4a8a1f5728936b446aefe5695f9da0581db756fcb5",
+      "Size": 267036,
+      "Side": "client",
+      "ProjectId": "LIqveQm1",
+      "VersionId": "cuskoxpS",
+      "Title": "Perspective API",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/LIqveQm1/2ff022ae59f4591a7a75ca46f0f150ae8fa6cb94.gif",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": []
+    },
+    {
+      "Path": "mods/leawind_third_person-3.0.3-beta\u002Bfabric-26.2.jar",
+      "Url": "https://cdn.modrinth.com/data/S3D3QF0M/versions/Fpowpwas/leawind_third_person-3.0.3-beta%2Bfabric-26.2.jar",
+      "Sha256": "03cdc3d23e5712eb39ddd6131b168d859f08b25f6f628bf0bac5063ded99437a",
+      "Size": 255158,
+      "Side": "client",
+      "ProjectId": "S3D3QF0M",
+      "VersionId": "Fpowpwas",
+      "Title": "Leawind\u0027s Third Person",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/S3D3QF0M/0e9450941b1aa2086eaaec7f34ecb8260f813f88_96.webp",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": [
+        "P7dR8mSH",
+        "LIqveQm1"
+      ]
     }
   ]
 }
