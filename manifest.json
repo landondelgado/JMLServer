@@ -1,6 +1,6 @@
 {
   "PackName": "Landon SMP",
-  "Version": "2026.08.20.013147",
+  "Version": "2026.08.20.013635",
   "MinecraftVersion": "26.2",
   "ModLoader": "fabric",
   "FabricLoaderVersion": "",
@@ -1032,23 +1032,6 @@
       ]
     },
     {
-      "Path": "mods/yet_another_config_lib_v3-3.9.6\u002B26.2-fabric.jar",
-      "Url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/cnfPzuFU/yet_another_config_lib_v3-3.9.6%2B26.2-fabric.jar",
-      "Sha256": "829396c3b3e7d1801ae0e9e2921d0454c5a3078afdb6c6dda6b3d1819dfa0e3f",
-      "Size": 1121529,
-      "Side": "client",
-      "ProjectId": "1eAoo2KR",
-      "VersionId": "cnfPzuFU",
-      "Title": "YetAnotherConfigLib (YACL)",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/1eAoo2KR/08c0cd32515e260f4bb20bbc0696510041523f9a_96.webp",
-      "ClientSupport": "optional",
-      "ServerSupport": "optional",
-      "RequiredProjectIds": [
-        "P7dR8mSH"
-      ]
-    },
-    {
       "Path": "mods/immersive-hotbar-1.1.2-26.2.jar",
       "Url": "https://cdn.modrinth.com/data/hsPB5xMD/versions/iYkItip9/immersive-hotbar-1.1.2-26.2.jar",
       "Sha256": "0d743efc885d845954589424d0eab96d35b6abb5a8d162998040222354675816",
@@ -1111,21 +1094,6 @@
       "IconUrl": "https://cdn.modrinth.com/data/laNoi025/1bbd371a465710708ce253fad6f9f8e7c8e3e56e.png",
       "ClientSupport": "required",
       "ServerSupport": "unsupported",
-      "RequiredProjectIds": []
-    },
-    {
-      "Path": "mods/fabric-api-0.158.0\u002B26.2.jar",
-      "Url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/NqwNSxwA/fabric-api-0.158.0%2B26.2.jar",
-      "Sha256": "a4510eb2e9d4057ff20f751e420d0618598813ab9695b6f793a53c2883808dac",
-      "Size": 2535765,
-      "Side": "client",
-      "ProjectId": "P7dR8mSH",
-      "VersionId": "NqwNSxwA",
-      "Title": "Fabric API",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/P7dR8mSH/icon.png",
-      "ClientSupport": "optional",
-      "ServerSupport": "optional",
       "RequiredProjectIds": []
     },
     {
@@ -1251,6 +1219,56 @@
       "ServerSupport": "unsupported",
       "RequiredProjectIds": [
         "GcWjdA9I"
+      ]
+    },
+    {
+      "Path": "mods/fabric-api-0.158.0\u002B26.2.jar",
+      "Url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/NqwNSxwA/fabric-api-0.158.0%2B26.2.jar",
+      "Sha256": "a4510eb2e9d4057ff20f751e420d0618598813ab9695b6f793a53c2883808dac",
+      "Size": 2535765,
+      "Side": "client",
+      "ProjectId": "P7dR8mSH",
+      "VersionId": "NqwNSxwA",
+      "Title": "Fabric API",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/P7dR8mSH/icon.png",
+      "ClientSupport": "optional",
+      "ServerSupport": "optional",
+      "RequiredProjectIds": []
+    },
+    {
+      "Path": "mods/yet_another_config_lib_v3-3.9.6\u002B26.2-fabric.jar",
+      "Url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/cnfPzuFU/yet_another_config_lib_v3-3.9.6%2B26.2-fabric.jar",
+      "Sha256": "829396c3b3e7d1801ae0e9e2921d0454c5a3078afdb6c6dda6b3d1819dfa0e3f",
+      "Size": 1121529,
+      "Side": "client",
+      "ProjectId": "1eAoo2KR",
+      "VersionId": "cnfPzuFU",
+      "Title": "YetAnotherConfigLib (YACL)",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/1eAoo2KR/08c0cd32515e260f4bb20bbc0696510041523f9a_96.webp",
+      "ClientSupport": "optional",
+      "ServerSupport": "optional",
+      "RequiredProjectIds": [
+        "P7dR8mSH"
+      ]
+    },
+    {
+      "Path": "mods/controlify-3.4.1\u002Bmc26.2-universal.jar",
+      "Url": "https://cdn.modrinth.com/data/DOUdJVEm/versions/E2Rvo2Q0/controlify-3.4.1%2Bmc26.2-universal.jar",
+      "Sha256": "2040639e5a382226b09c0da311c8dfb109b2314031c5136d21dee1aa4cb2f0bb",
+      "Size": 6335401,
+      "Side": "client",
+      "ProjectId": "DOUdJVEm",
+      "VersionId": "E2Rvo2Q0",
+      "Title": "Controlify (Controller support)",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/DOUdJVEm/5a6c126c4c761ba3e8e9d3ef09a68e16ff60ff22_96.webp",
+      "ClientSupport": "required",
+      "ServerSupport": "optional",
+      "RequiredProjectIds": [
+        "1eAoo2KR",
+        "P7dR8mSH"
       ]
     }
   ]
