@@ -1,6 +1,6 @@
 {
   "PackName": "Landon SMP",
-  "Version": "2026.08.20.013053",
+  "Version": "2026.08.20.013147",
   "MinecraftVersion": "26.2",
   "ModLoader": "fabric",
   "FabricLoaderVersion": "",
@@ -78,21 +78,6 @@
       "Title": "xali\u0027s Potions",
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/yFn9hTiq/029f821072a85f4d71e8f9271e7615a1efaa0a75.png",
-      "ClientSupport": "required",
-      "ServerSupport": "unsupported",
-      "RequiredProjectIds": []
-    },
-    {
-      "Path": "mods/litematica-fabric-26.2-0.28.4.jar",
-      "Url": "https://cdn.modrinth.com/data/bEpr0Arc/versions/jzraAo7b/litematica-fabric-26.2-0.28.4.jar",
-      "Sha256": "268fa149cc493ac997d7c8ec3dc3a232d90797d5251dbe19909e7a54cd529ee3",
-      "Size": 1873068,
-      "Side": "client",
-      "ProjectId": "bEpr0Arc",
-      "VersionId": "jzraAo7b",
-      "Title": "Litematica",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/bEpr0Arc/25b5529d7a3b030ac136a6ce879d8ed2a1aa4a8d.png",
       "ClientSupport": "required",
       "ServerSupport": "unsupported",
       "RequiredProjectIds": []
@@ -1250,6 +1235,23 @@
       "ClientSupport": "required",
       "ServerSupport": "unsupported",
       "RequiredProjectIds": []
+    },
+    {
+      "Path": "mods/litematica-fabric-26.2-0.28.5.jar",
+      "Url": "https://cdn.modrinth.com/data/bEpr0Arc/versions/Fhq3KCI8/litematica-fabric-26.2-0.28.5.jar",
+      "Sha256": "e711f69b0899ab3c4afafd49e7b825aa7d5051ee5358c88fef36023c612ae91a",
+      "Size": 1921299,
+      "Side": "client",
+      "ProjectId": "bEpr0Arc",
+      "VersionId": "Fhq3KCI8",
+      "Title": "Litematica",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/bEpr0Arc/25b5529d7a3b030ac136a6ce879d8ed2a1aa4a8d.png",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": [
+        "GcWjdA9I"
+      ]
     }
   ]
 }
