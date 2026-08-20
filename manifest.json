@@ -1,6 +1,6 @@
 {
   "PackName": "Landon SMP",
-  "Version": "2026.08.19.003014",
+  "Version": "2026.08.20.012903",
   "MinecraftVersion": "26.2",
   "ModLoader": "fabric",
   "FabricLoaderVersion": "",
@@ -1234,6 +1234,21 @@
       "IconUrl": "https://cdn.modrinth.com/data/sQCUH0Mr/ea7fb8092c2d318e5388159d9dffc3091f636f66.png",
       "ClientSupport": "required",
       "ServerSupport": "unsupported",
+      "RequiredProjectIds": []
+    },
+    {
+      "Path": "mods/syncmatica-fabric-26.2-0.3.20.jar",
+      "Url": "https://cdn.modrinth.com/data/bfneejKo/versions/POv0nHxV/syncmatica-fabric-26.2-0.3.20.jar",
+      "Sha256": "2ff96998e1487514bed2845fd5256ad6e4f0308ea79146c4dbd34149c28b2c4e",
+      "Size": 609226,
+      "Side": "both",
+      "ProjectId": "bfneejKo",
+      "VersionId": "POv0nHxV",
+      "Title": "Syncmatica",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/bfneejKo/0792df2997b30cfa6d3e9e510d38b5c7f6ada442_96.webp",
+      "ClientSupport": "required",
+      "ServerSupport": "required",
       "RequiredProjectIds": []
     }
   ]
