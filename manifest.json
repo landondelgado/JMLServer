@@ -1,6 +1,6 @@
 {
   "PackName": "Landon SMP",
-  "Version": "2026.08.20.223424",
+  "Version": "2026.08.21.181842",
   "MinecraftVersion": "26.2",
   "ModLoader": "fabric",
   "FabricLoaderVersion": "",
@@ -1270,6 +1270,21 @@
         "1eAoo2KR",
         "P7dR8mSH"
       ]
+    },
+    {
+      "Path": "mods/Visible Traders-2.5.1-universal.jar",
+      "Url": "https://cdn.modrinth.com/data/AhllI99f/versions/TojbcxPs/Visible%20Traders-2.5.1-universal.jar",
+      "Sha256": "7dca74e3491869ab247339482a66fab09e49e38d558cdbe2ee70abd9b150ebb8",
+      "Size": 57415,
+      "Side": "client",
+      "ProjectId": "AhllI99f",
+      "VersionId": "TojbcxPs",
+      "Title": "Visible Traders",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/AhllI99f/dba9c9307ecf529c142fbf213a865a10888246e0_96.webp",
+      "ClientSupport": "required",
+      "ServerSupport": "required",
+      "RequiredProjectIds": []
     }
   ]
 }
