@@ -1,6 +1,6 @@
 {
   "PackName": "Landon SMP",
-  "Version": "2026.08.25.021657",
+  "Version": "2026.08.25.021827",
   "MinecraftVersion": "26.2",
   "ModLoader": "fabric",
   "FabricLoaderVersion": "",
@@ -1358,6 +1358,21 @@
       ]
     },
     {
+      "Path": "mods/sodium-fabric-0.9.0-beta.3\u002Bmc26.2r1.jar",
+      "Url": "https://cdn.modrinth.com/data/AANobbMI/versions/pBzGpoaN/sodium-fabric-0.9.0-beta.3%2Bmc26.2r1.jar",
+      "Sha256": "ec44dabdb61f0427e57ebb1e4367a0f90fe7d14198030ff19a49fffa6a24756d",
+      "Size": 1833233,
+      "Side": "client",
+      "ProjectId": "AANobbMI",
+      "VersionId": "pBzGpoaN",
+      "Title": "Sodium",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/AANobbMI/295862f4724dc3f78df3447ad6072b2dcd3ef0c9_96.webp",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": []
+    },
+    {
       "Path": "mods/fabric-api-0.158.0\u002B26.2.jar",
       "Url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/NqwNSxwA/fabric-api-0.158.0%2B26.2.jar",
       "Sha256": "a4510eb2e9d4057ff20f751e420d0618598813ab9695b6f793a53c2883808dac",
@@ -1389,21 +1404,6 @@
         "AANobbMI",
         "P7dR8mSH"
       ]
-    },
-    {
-      "Path": "mods/sodium-fabric-0.9.0-beta.3\u002Bmc26.2r1.jar",
-      "Url": "https://cdn.modrinth.com/data/AANobbMI/versions/pBzGpoaN/sodium-fabric-0.9.0-beta.3%2Bmc26.2r1.jar",
-      "Sha256": "ec44dabdb61f0427e57ebb1e4367a0f90fe7d14198030ff19a49fffa6a24756d",
-      "Size": 1833233,
-      "Side": "client",
-      "ProjectId": "AANobbMI",
-      "VersionId": "pBzGpoaN",
-      "Title": "Sodium",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/AANobbMI/295862f4724dc3f78df3447ad6072b2dcd3ef0c9_96.webp",
-      "ClientSupport": "required",
-      "ServerSupport": "unsupported",
-      "RequiredProjectIds": []
     }
   ]
 }
