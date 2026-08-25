@@ -1,6 +1,6 @@
 {
   "PackName": "Landon SMP",
-  "Version": "2026.08.25.021606",
+  "Version": "2026.08.25.021657",
   "MinecraftVersion": "26.2",
   "ModLoader": "fabric",
   "FabricLoaderVersion": "",
@@ -1404,23 +1404,6 @@
       "ClientSupport": "required",
       "ServerSupport": "unsupported",
       "RequiredProjectIds": []
-    },
-    {
-      "Path": "mods/bbe-fabric-1.3.8-beta.1\u002Bmc26.2.jar",
-      "Url": "https://cdn.modrinth.com/data/ONZm0H7Y/versions/Sr2VjbpG/bbe-fabric-1.3.8-beta.1%2Bmc26.2.jar",
-      "Sha256": "03252c944c314c767e759850199817b013788e4d09113834a15d09d91d669f5f",
-      "Size": 206826,
-      "Side": "client",
-      "ProjectId": "ONZm0H7Y",
-      "VersionId": "Sr2VjbpG",
-      "Title": "Better Block Entities",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/ONZm0H7Y/5ff4f3ad6948a0bf185f641c407878932bae3dcf.png",
-      "ClientSupport": "required",
-      "ServerSupport": "unsupported",
-      "RequiredProjectIds": [
-        "AANobbMI"
-      ]
     }
   ]
 }
