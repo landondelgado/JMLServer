@@ -1,6 +1,6 @@
 {
   "PackName": "Landon SMP",
-  "Version": "2026.08.25.015129",
+  "Version": "2026.08.25.021302",
   "MinecraftVersion": "26.2",
   "ModLoader": "fabric",
   "FabricLoaderVersion": "",
@@ -713,21 +713,6 @@
       "RequiredProjectIds": []
     },
     {
-      "Path": "mods/sodium-fabric-0.9.1\u002Bmc26.2.jar",
-      "Url": "https://cdn.modrinth.com/data/AANobbMI/versions/2Yom1N68/sodium-fabric-0.9.1%2Bmc26.2.jar",
-      "Sha256": "de406c7a0ca5e748dfbe44740278400882a44e3109e2584b243ec02d4003344b",
-      "Size": 1834384,
-      "Side": "client",
-      "ProjectId": "AANobbMI",
-      "VersionId": "2Yom1N68",
-      "Title": "Sodium",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/AANobbMI/295862f4724dc3f78df3447ad6072b2dcd3ef0c9_96.webp",
-      "ClientSupport": "required",
-      "ServerSupport": "unsupported",
-      "RequiredProjectIds": []
-    },
-    {
       "Path": "mods/voxy-0.2.18-beta.jar",
       "Url": "https://cdn.modrinth.com/data/fxxUqruK/versions/zZX86mbc/voxy-0.2.18-beta.jar",
       "Sha256": "dd9e10d2110879f07c1ce9bdf1945f3470b32e83977f094005ee8c642e8128d5",
@@ -1292,6 +1277,70 @@
       ]
     },
     {
+      "Path": "mods/servux-fabric-26.2-0.11.3.jar",
+      "Url": "https://cdn.modrinth.com/data/zQhsx8KF/versions/Er2wlain/servux-fabric-26.2-0.11.3.jar",
+      "Sha256": "260164b3a9933902226e473dd5928179541806f9f5dde84a7a4e86e02746d6eb",
+      "Size": 926401,
+      "Side": "server",
+      "ProjectId": "zQhsx8KF",
+      "VersionId": "Er2wlain",
+      "Title": "Servux",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/zQhsx8KF/57cebce8838ddc7b27b46eb98abd7f2fb0b87105_96.webp",
+      "ClientSupport": "unsupported",
+      "ServerSupport": "required",
+      "RequiredProjectIds": []
+    },
+    {
+      "Path": "mods/AccurateBlockPlacement-Reborn-1.4.5\u002Bmc-26.1-26.2.jar",
+      "Url": "https://cdn.modrinth.com/data/kzwxhsjp/versions/RjUsYEKZ/AccurateBlockPlacement-Reborn-1.4.5%2Bmc-26.1-26.2.jar",
+      "Sha256": "68ebb009687431b6e07e535c7f531cdfb41a3b37e548b063f9ba4e3bbd4c8a86",
+      "Size": 45864,
+      "Side": "client",
+      "ProjectId": "kzwxhsjp",
+      "VersionId": "RjUsYEKZ",
+      "Title": "Accurate Block Placement Reborn",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/kzwxhsjp/d625b497fc032d684c9c9d1826ee04fbef9f37d9_96.webp",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": [
+        "P7dR8mSH"
+      ]
+    },
+    {
+      "Path": "mods/sodium-fabric-0.9.0-beta.3\u002Bmc26.2r1.jar",
+      "Url": "https://cdn.modrinth.com/data/AANobbMI/versions/pBzGpoaN/sodium-fabric-0.9.0-beta.3%2Bmc26.2r1.jar",
+      "Sha256": "ec44dabdb61f0427e57ebb1e4367a0f90fe7d14198030ff19a49fffa6a24756d",
+      "Size": 1833233,
+      "Side": "client",
+      "ProjectId": "AANobbMI",
+      "VersionId": "pBzGpoaN",
+      "Title": "Sodium",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/AANobbMI/295862f4724dc3f78df3447ad6072b2dcd3ef0c9_96.webp",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": []
+    },
+    {
+      "Path": "mods/bbe-fabric-1.3.8-beta.1\u002Bmc26.2.jar",
+      "Url": "https://cdn.modrinth.com/data/ONZm0H7Y/versions/Sr2VjbpG/bbe-fabric-1.3.8-beta.1%2Bmc26.2.jar",
+      "Sha256": "03252c944c314c767e759850199817b013788e4d09113834a15d09d91d669f5f",
+      "Size": 206826,
+      "Side": "client",
+      "ProjectId": "ONZm0H7Y",
+      "VersionId": "Sr2VjbpG",
+      "Title": "Better Block Entities",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/ONZm0H7Y/5ff4f3ad6948a0bf185f641c407878932bae3dcf.png",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": [
+        "AANobbMI"
+      ]
+    },
+    {
       "Path": "mods/fabric-api-0.158.0\u002B26.2.jar",
       "Url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/NqwNSxwA/fabric-api-0.158.0%2B26.2.jar",
       "Sha256": "a4510eb2e9d4057ff20f751e420d0618598813ab9695b6f793a53c2883808dac",
@@ -1307,19 +1356,68 @@
       "RequiredProjectIds": []
     },
     {
-      "Path": "mods/servux-fabric-26.2-0.11.3.jar",
-      "Url": "https://cdn.modrinth.com/data/zQhsx8KF/versions/Er2wlain/servux-fabric-26.2-0.11.3.jar",
-      "Sha256": "260164b3a9933902226e473dd5928179541806f9f5dde84a7a4e86e02746d6eb",
-      "Size": 926401,
-      "Side": "server",
-      "ProjectId": "zQhsx8KF",
-      "VersionId": "Er2wlain",
-      "Title": "Servux",
+      "Path": "mods/Clumps-fabric-26.2-26.2.1.jar",
+      "Url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/dEMopoOJ/Clumps-fabric-26.2-26.2.1.jar",
+      "Sha256": "dc9544190abfb65a3c9ddc5dad1523c9dfc5a732344f528d908b950894398e8c",
+      "Size": 19950,
+      "Side": "client",
+      "ProjectId": "Wnxd13zP",
+      "VersionId": "dEMopoOJ",
+      "Title": "Clumps",
       "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/zQhsx8KF/57cebce8838ddc7b27b46eb98abd7f2fb0b87105_96.webp",
-      "ClientSupport": "unsupported",
+      "IconUrl": "https://cdn.modrinth.com/data/Wnxd13zP/6a965bb7974c3e759a53a1c89c35de4acd4cf86a_96.webp",
+      "ClientSupport": "optional",
+      "ServerSupport": "optional",
+      "RequiredProjectIds": [
+        "P7dR8mSH"
+      ]
+    },
+    {
+      "Path": "mods/ScalableLux-fabric-0.3.0-alpha.0.3-all.jar",
+      "Url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/EKLUURiy/ScalableLux-fabric-0.3.0-alpha.0.3-all.jar",
+      "Sha256": "8d76cf27589dcc8e16c34ba0709a9ee2134cfcd60b90862f8cbd204ea9b6c7c8",
+      "Size": 193030,
+      "Side": "server",
+      "ProjectId": "Ps1zyz6x",
+      "VersionId": "EKLUURiy",
+      "Title": "ScalableLux",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/Ps1zyz6x/27133942a1a58af1bb11b087957ea4cc14414dd3_96.webp",
+      "ClientSupport": "optional",
+      "ServerSupport": "optional",
+      "RequiredProjectIds": []
+    },
+    {
+      "Path": "mods/fabric-carpet-26.2-beta-5\u002Bv260609.jar",
+      "Url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/qnMPnVvL/fabric-carpet-26.2-beta-5%2Bv260609.jar",
+      "Sha256": "3136257c9e96a60cc56eb0037c3c003c9e989f25800ae94b80102279421f69e1",
+      "Size": 1535336,
+      "Side": "server",
+      "ProjectId": "TQTTVgYE",
+      "VersionId": "qnMPnVvL",
+      "Title": "Carpet",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/TQTTVgYE/3ad650635d067b6bfa09403cf5e70e0947a05c07_96.webp",
+      "ClientSupport": "optional",
       "ServerSupport": "required",
       "RequiredProjectIds": []
+    },
+    {
+      "Path": "mods/carpet-extra-26.2-26.2.jar",
+      "Url": "https://cdn.modrinth.com/data/VX3TgwQh/versions/Z5BJRYil/carpet-extra-26.2-26.2.jar",
+      "Sha256": "429e097edc91ef8cfc7b8c7ad97570ce7070cde4574218aca4324d681aa6223f",
+      "Size": 176632,
+      "Side": "server",
+      "ProjectId": "VX3TgwQh",
+      "VersionId": "Z5BJRYil",
+      "Title": "Carpet Extra",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/VX3TgwQh/318f589f55120a359c14c24480c9acc9b8ae6246.png",
+      "ClientSupport": "unsupported",
+      "ServerSupport": "required",
+      "RequiredProjectIds": [
+        "TQTTVgYE"
+      ]
     }
   ]
 }
