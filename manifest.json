@@ -1,6 +1,6 @@
 {
   "PackName": "Landon SMP",
-  "Version": "2026.08.25.012452",
+  "Version": "2026.08.25.012535",
   "MinecraftVersion": "26.2",
   "ModLoader": "fabric",
   "FabricLoaderVersion": "",
@@ -1240,21 +1240,6 @@
       "RequiredProjectIds": []
     },
     {
-      "Path": "mods/fabric-api-0.158.0\u002B26.2.jar",
-      "Url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/NqwNSxwA/fabric-api-0.158.0%2B26.2.jar",
-      "Sha256": "a4510eb2e9d4057ff20f751e420d0618598813ab9695b6f793a53c2883808dac",
-      "Size": 2535765,
-      "Side": "server",
-      "ProjectId": "P7dR8mSH",
-      "VersionId": "NqwNSxwA",
-      "Title": "Fabric API",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/P7dR8mSH/icon.png",
-      "ClientSupport": "optional",
-      "ServerSupport": "optional",
-      "RequiredProjectIds": []
-    },
-    {
       "Path": "mods/fastback-fabric-0.34.0\u002B26.2.0.jar",
       "Url": "https://cdn.modrinth.com/data/ZHKrK8Rp/versions/EVNH1CA6/fastback-fabric-0.34.0%2B26.2.0.jar",
       "Sha256": "e200fc784fbdca0fc1e363a1771bc6dc27bf828e459b9f8e7c482a50bd6e3245",
@@ -1320,6 +1305,21 @@
         "bEpr0Arc",
         "GcWjdA9I"
       ]
+    },
+    {
+      "Path": "mods/fabric-api-0.158.0\u002B26.2.jar",
+      "Url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/NqwNSxwA/fabric-api-0.158.0%2B26.2.jar",
+      "Sha256": "a4510eb2e9d4057ff20f751e420d0618598813ab9695b6f793a53c2883808dac",
+      "Size": 2535765,
+      "Side": "client",
+      "ProjectId": "P7dR8mSH",
+      "VersionId": "NqwNSxwA",
+      "Title": "Fabric API",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/P7dR8mSH/icon.png",
+      "ClientSupport": "optional",
+      "ServerSupport": "optional",
+      "RequiredProjectIds": []
     }
   ]
 }
