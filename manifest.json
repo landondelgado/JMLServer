@@ -1,6 +1,6 @@
 {
   "PackName": "Landon SMP",
-  "Version": "2026.08.25.012535",
+  "Version": "2026.08.25.015129",
   "MinecraftVersion": "26.2",
   "ModLoader": "fabric",
   "FabricLoaderVersion": "",
@@ -93,21 +93,6 @@
       "Title": "WorldEdit",
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/1u6JkXh5/30698991048ced77e60c4e8284007d3782f2e6a3_96.webp",
-      "ClientSupport": "unsupported",
-      "ServerSupport": "required",
-      "RequiredProjectIds": []
-    },
-    {
-      "Path": "mods/servux-fabric-26.2-0.11.2.jar",
-      "Url": "https://cdn.modrinth.com/data/zQhsx8KF/versions/qMld6z1t/servux-fabric-26.2-0.11.2.jar",
-      "Sha256": "cbe26334c0b5fe48d0989e7fa864d915ec6555c34a16889ee21e0d7ab37ec600",
-      "Size": 855179,
-      "Side": "server",
-      "ProjectId": "zQhsx8KF",
-      "VersionId": "qMld6z1t",
-      "Title": "Servux",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/zQhsx8KF/57cebce8838ddc7b27b46eb98abd7f2fb0b87105_96.webp",
       "ClientSupport": "unsupported",
       "ServerSupport": "required",
       "RequiredProjectIds": []
@@ -1319,6 +1304,21 @@
       "IconUrl": "https://cdn.modrinth.com/data/P7dR8mSH/icon.png",
       "ClientSupport": "optional",
       "ServerSupport": "optional",
+      "RequiredProjectIds": []
+    },
+    {
+      "Path": "mods/servux-fabric-26.2-0.11.3.jar",
+      "Url": "https://cdn.modrinth.com/data/zQhsx8KF/versions/Er2wlain/servux-fabric-26.2-0.11.3.jar",
+      "Sha256": "260164b3a9933902226e473dd5928179541806f9f5dde84a7a4e86e02746d6eb",
+      "Size": 926401,
+      "Side": "server",
+      "ProjectId": "zQhsx8KF",
+      "VersionId": "Er2wlain",
+      "Title": "Servux",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/zQhsx8KF/57cebce8838ddc7b27b46eb98abd7f2fb0b87105_96.webp",
+      "ClientSupport": "unsupported",
+      "ServerSupport": "required",
       "RequiredProjectIds": []
     }
   ]
