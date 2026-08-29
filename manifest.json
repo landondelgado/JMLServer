@@ -1,6 +1,6 @@
 {
   "PackName": "Landon SMP",
-  "Version": "2026.08.25.023131",
+  "Version": "2026.08.29.180905",
   "MinecraftVersion": "26.2",
   "ModLoader": "fabric",
   "FabricLoaderVersion": "",
@@ -1326,21 +1326,6 @@
       "RequiredProjectIds": []
     },
     {
-      "Path": "mods/fabric-carpet-26.2-beta-5\u002Bv260609.jar",
-      "Url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/qnMPnVvL/fabric-carpet-26.2-beta-5%2Bv260609.jar",
-      "Sha256": "3136257c9e96a60cc56eb0037c3c003c9e989f25800ae94b80102279421f69e1",
-      "Size": 1535336,
-      "Side": "server",
-      "ProjectId": "TQTTVgYE",
-      "VersionId": "qnMPnVvL",
-      "Title": "Carpet",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/TQTTVgYE/3ad650635d067b6bfa09403cf5e70e0947a05c07_96.webp",
-      "ClientSupport": "optional",
-      "ServerSupport": "required",
-      "RequiredProjectIds": []
-    },
-    {
       "Path": "mods/carpet-extra-26.2-26.2.jar",
       "Url": "https://cdn.modrinth.com/data/VX3TgwQh/versions/Z5BJRYil/carpet-extra-26.2-26.2.jar",
       "Sha256": "429e097edc91ef8cfc7b8c7ad97570ce7070cde4574218aca4324d681aa6223f",
@@ -1420,6 +1405,36 @@
       "IconUrl": "https://cdn.modrinth.com/data/AANobbMI/295862f4724dc3f78df3447ad6072b2dcd3ef0c9_96.webp",
       "ClientSupport": "required",
       "ServerSupport": "unsupported",
+      "RequiredProjectIds": []
+    },
+    {
+      "Path": "mods/fabric-carpet-26.2\u002Bv260616.jar",
+      "Url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/bGrLxJ8v/fabric-carpet-26.2%2Bv260616.jar",
+      "Sha256": "f6ada912af65c91536d4b0d80adf26cc438253252ddaf259f2c6617ae471311c",
+      "Size": 1536362,
+      "Side": "server",
+      "ProjectId": "TQTTVgYE",
+      "VersionId": "bGrLxJ8v",
+      "Title": "Carpet",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/TQTTVgYE/3ad650635d067b6bfa09403cf5e70e0947a05c07_96.webp",
+      "ClientSupport": "optional",
+      "ServerSupport": "required",
+      "RequiredProjectIds": []
+    },
+    {
+      "Path": "mods/calcmod-1.5.2\u002Bfabric.26.2.jar",
+      "Url": "https://cdn.modrinth.com/data/XoHTb2Ap/versions/qyk9ZGgC/calcmod-1.5.2%2Bfabric.26.2.jar",
+      "Sha256": "67ca81e088a87c90cc967ef343fa31e65ef2e484d2092c00225b008cfa9ecdaa",
+      "Size": 649936,
+      "Side": "client",
+      "ProjectId": "XoHTb2Ap",
+      "VersionId": "qyk9ZGgC",
+      "Title": "CalcMod",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/XoHTb2Ap/fe87f9fb4d48afbe539314b17e1be68ba242e58a.gif",
+      "ClientSupport": "optional",
+      "ServerSupport": "optional",
       "RequiredProjectIds": []
     }
   ]
