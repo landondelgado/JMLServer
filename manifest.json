@@ -1,6 +1,6 @@
 {
   "PackName": "Landon SMP",
-  "Version": "2026.08.29.180905",
+  "Version": "2026.08.29.215311",
   "MinecraftVersion": "26.2",
   "ModLoader": "fabric",
   "FabricLoaderVersion": "",
@@ -1212,56 +1212,6 @@
       ]
     },
     {
-      "Path": "mods/malilib-fabric-26.2-0.29.4.jar",
-      "Url": "https://cdn.modrinth.com/data/GcWjdA9I/versions/ZCq1iE1J/malilib-fabric-26.2-0.29.4.jar",
-      "Sha256": "a691f78959e19ac0e1224e5f3aec63c5fc705ba2b9b7c3a86367e569b95bf2c8",
-      "Size": 2024974,
-      "Side": "client",
-      "ProjectId": "GcWjdA9I",
-      "VersionId": "ZCq1iE1J",
-      "Title": "MaLiLib",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/GcWjdA9I/a530ae55df5e0c405f5cf1b3e4fd6163a398bdc3.png",
-      "ClientSupport": "required",
-      "ServerSupport": "unsupported",
-      "RequiredProjectIds": []
-    },
-    {
-      "Path": "mods/litematica-fabric-26.2-0.28.5.jar",
-      "Url": "https://cdn.modrinth.com/data/bEpr0Arc/versions/Fhq3KCI8/litematica-fabric-26.2-0.28.5.jar",
-      "Sha256": "e711f69b0899ab3c4afafd49e7b825aa7d5051ee5358c88fef36023c612ae91a",
-      "Size": 1921299,
-      "Side": "client",
-      "ProjectId": "bEpr0Arc",
-      "VersionId": "Fhq3KCI8",
-      "Title": "Litematica",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/bEpr0Arc/25b5529d7a3b030ac136a6ce879d8ed2a1aa4a8d.png",
-      "ClientSupport": "required",
-      "ServerSupport": "unsupported",
-      "RequiredProjectIds": [
-        "GcWjdA9I"
-      ]
-    },
-    {
-      "Path": "mods/techutils-0.7.2\u002B26.2.jar",
-      "Url": "https://cdn.modrinth.com/data/hNoAJSm7/versions/heGChvzg/techutils-0.7.2%2B26.2.jar",
-      "Sha256": "f82909c35d38326d8ae90a11b40c53973a183c594c1133f45862f8d211dd6f7f",
-      "Size": 226789,
-      "Side": "client",
-      "ProjectId": "hNoAJSm7",
-      "VersionId": "heGChvzg",
-      "Title": "Technical Utilities",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/hNoAJSm7/285fc69f9208b8fd73340730497bc3f92ae542bd_96.webp",
-      "ClientSupport": "required",
-      "ServerSupport": "unsupported",
-      "RequiredProjectIds": [
-        "bEpr0Arc",
-        "GcWjdA9I"
-      ]
-    },
-    {
       "Path": "mods/servux-fabric-26.2-0.11.3.jar",
       "Url": "https://cdn.modrinth.com/data/zQhsx8KF/versions/Er2wlain/servux-fabric-26.2-0.11.3.jar",
       "Sha256": "260164b3a9933902226e473dd5928179541806f9f5dde84a7a4e86e02746d6eb",
@@ -1436,6 +1386,56 @@
       "ClientSupport": "optional",
       "ServerSupport": "optional",
       "RequiredProjectIds": []
+    },
+    {
+      "Path": "mods/malilib-fabric-26.2-0.29.5.jar",
+      "Url": "https://cdn.modrinth.com/data/GcWjdA9I/versions/74gmDXEM/malilib-fabric-26.2-0.29.5.jar",
+      "Sha256": "12f0087330abe74d0113dc2e9b887b6c0d95b6ed00d198ae9997f4ba20c054a5",
+      "Size": 2032955,
+      "Side": "client",
+      "ProjectId": "GcWjdA9I",
+      "VersionId": "74gmDXEM",
+      "Title": "MaLiLib",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/GcWjdA9I/a530ae55df5e0c405f5cf1b3e4fd6163a398bdc3.png",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": []
+    },
+    {
+      "Path": "mods/litematica-fabric-26.2-0.28.6.jar",
+      "Url": "https://cdn.modrinth.com/data/bEpr0Arc/versions/awNX9q5c/litematica-fabric-26.2-0.28.6.jar",
+      "Sha256": "83926ee4dd73add49fa164e6ecea9c45577c19fd5d246ef85fd74995c7c9601e",
+      "Size": 1925805,
+      "Side": "client",
+      "ProjectId": "bEpr0Arc",
+      "VersionId": "awNX9q5c",
+      "Title": "Litematica",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/bEpr0Arc/25b5529d7a3b030ac136a6ce879d8ed2a1aa4a8d.png",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": [
+        "GcWjdA9I"
+      ]
+    },
+    {
+      "Path": "mods/techutils-0.7.2\u002B26.2.jar",
+      "Url": "https://cdn.modrinth.com/data/hNoAJSm7/versions/heGChvzg/techutils-0.7.2%2B26.2.jar",
+      "Sha256": "f82909c35d38326d8ae90a11b40c53973a183c594c1133f45862f8d211dd6f7f",
+      "Size": 226789,
+      "Side": "client",
+      "ProjectId": "hNoAJSm7",
+      "VersionId": "heGChvzg",
+      "Title": "Technical Utilities",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/hNoAJSm7/285fc69f9208b8fd73340730497bc3f92ae542bd_96.webp",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": [
+        "bEpr0Arc",
+        "GcWjdA9I"
+      ]
     }
   ]
 }
