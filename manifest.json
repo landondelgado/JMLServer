@@ -1,6 +1,6 @@
 {
   "PackName": "Landon SMP",
-  "Version": "2026.09.04.052500",
+  "Version": "2026.09.04.052626",
   "MinecraftVersion": "26.2",
   "ModLoader": "fabric",
   "FabricLoaderVersion": "",
@@ -1438,21 +1438,6 @@
       "RequiredProjectIds": []
     },
     {
-      "Path": "mods/fabric-api-0.159.0\u002B26.2.jar",
-      "Url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/BgeCGgGZ/fabric-api-0.159.0%2B26.2.jar",
-      "Sha256": "3f3a5d96e6a8f554a72e71fb507d6a979ca16d9190c305ceb1300f1d01e733ee",
-      "Size": 2535793,
-      "Side": "server",
-      "ProjectId": "P7dR8mSH",
-      "VersionId": "BgeCGgGZ",
-      "Title": "Fabric API",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/P7dR8mSH/icon.png",
-      "ClientSupport": "optional",
-      "ServerSupport": "optional",
-      "RequiredProjectIds": []
-    },
-    {
       "Path": "mods/proper-pet-tp-1.2.5.jar",
       "Url": "https://cdn.modrinth.com/data/KbPewBWv/versions/dPJwlGax/proper-pet-tp-1.2.5.jar",
       "Sha256": "37acf48d0aafa7e7f8f25eae746e82baf7f21e4c08a5c406d114d28469afd595",
@@ -1468,6 +1453,21 @@
       "RequiredProjectIds": [
         "P7dR8mSH"
       ]
+    },
+    {
+      "Path": "mods/fabric-api-0.159.0\u002B26.2.jar",
+      "Url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/BgeCGgGZ/fabric-api-0.159.0%2B26.2.jar",
+      "Sha256": "3f3a5d96e6a8f554a72e71fb507d6a979ca16d9190c305ceb1300f1d01e733ee",
+      "Size": 2535793,
+      "Side": "both",
+      "ProjectId": "P7dR8mSH",
+      "VersionId": "BgeCGgGZ",
+      "Title": "Fabric API",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/P7dR8mSH/icon.png",
+      "ClientSupport": "optional",
+      "ServerSupport": "optional",
+      "RequiredProjectIds": []
     }
   ]
 }
