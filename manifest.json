@@ -1,6 +1,6 @@
 {
   "PackName": "Landon SMP",
-  "Version": "2026.08.29.215729",
+  "Version": "2026.09.04.052500",
   "MinecraftVersion": "26.2",
   "ModLoader": "fabric",
   "FabricLoaderVersion": "",
@@ -80,21 +80,6 @@
       "IconUrl": "https://cdn.modrinth.com/data/yFn9hTiq/029f821072a85f4d71e8f9271e7615a1efaa0a75.png",
       "ClientSupport": "required",
       "ServerSupport": "unsupported",
-      "RequiredProjectIds": []
-    },
-    {
-      "Path": "mods/worldedit-mod-7.4.4.jar",
-      "Url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/j2w3GmPv/worldedit-mod-7.4.4.jar",
-      "Sha256": "5f257ffcaebf055d16171952cce5c2fea9d653a5c3b4f97f8139826068dd019b",
-      "Size": 5107529,
-      "Side": "server",
-      "ProjectId": "1u6JkXh5",
-      "VersionId": "j2w3GmPv",
-      "Title": "WorldEdit",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/1u6JkXh5/30698991048ced77e60c4e8284007d3782f2e6a3_96.webp",
-      "ClientSupport": "unsupported",
-      "ServerSupport": "required",
       "RequiredProjectIds": []
     },
     {
@@ -1310,21 +1295,6 @@
       ]
     },
     {
-      "Path": "mods/fabric-api-0.158.0\u002B26.2.jar",
-      "Url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/NqwNSxwA/fabric-api-0.158.0%2B26.2.jar",
-      "Sha256": "a4510eb2e9d4057ff20f751e420d0618598813ab9695b6f793a53c2883808dac",
-      "Size": 2535765,
-      "Side": "client",
-      "ProjectId": "P7dR8mSH",
-      "VersionId": "NqwNSxwA",
-      "Title": "Fabric API",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/P7dR8mSH/icon.png",
-      "ClientSupport": "optional",
-      "ServerSupport": "optional",
-      "RequiredProjectIds": []
-    },
-    {
       "Path": "mods/voxy-0.2.18-beta.jar",
       "Url": "https://cdn.modrinth.com/data/fxxUqruK/versions/zZX86mbc/voxy-0.2.18-beta.jar",
       "Sha256": "dd9e10d2110879f07c1ce9bdf1945f3470b32e83977f094005ee8c642e8128d5",
@@ -1436,6 +1406,68 @@
       "ClientSupport": "required",
       "ServerSupport": "unsupported",
       "RequiredProjectIds": []
+    },
+    {
+      "Path": "mods/worldedit-mod-7.4.4.jar",
+      "Url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/j2w3GmPv/worldedit-mod-7.4.4.jar",
+      "Sha256": "5f257ffcaebf055d16171952cce5c2fea9d653a5c3b4f97f8139826068dd019b",
+      "Size": 5107529,
+      "Side": "server",
+      "ProjectId": "1u6JkXh5",
+      "VersionId": "j2w3GmPv",
+      "Title": "WorldEdit",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/1u6JkXh5/30698991048ced77e60c4e8284007d3782f2e6a3_96.webp",
+      "ClientSupport": "unknown",
+      "ServerSupport": "unknown",
+      "RequiredProjectIds": []
+    },
+    {
+      "Path": "resourcepacks/tool-trims-v3.0.7-for-1.21.11\u002B.zip",
+      "Url": "https://cdn.modrinth.com/data/uXeEiQk1/versions/26fWzOv5/tool-trims-v3.0.7-for-1.21.11%2B.zip",
+      "Sha256": "0a5b8ac0fdb568345a18a50ade4997ca43823e8ae3799d64f8cce6d483dbd1fd",
+      "Size": 2296709,
+      "Side": "client",
+      "ProjectId": "uXeEiQk1",
+      "VersionId": "26fWzOv5",
+      "Title": "Tool Trims",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/uXeEiQk1/e0fd40280e8769c83dce9847ed8523e382a2e4e9_96.webp",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": []
+    },
+    {
+      "Path": "mods/fabric-api-0.159.0\u002B26.2.jar",
+      "Url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/BgeCGgGZ/fabric-api-0.159.0%2B26.2.jar",
+      "Sha256": "3f3a5d96e6a8f554a72e71fb507d6a979ca16d9190c305ceb1300f1d01e733ee",
+      "Size": 2535793,
+      "Side": "server",
+      "ProjectId": "P7dR8mSH",
+      "VersionId": "BgeCGgGZ",
+      "Title": "Fabric API",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/P7dR8mSH/icon.png",
+      "ClientSupport": "optional",
+      "ServerSupport": "optional",
+      "RequiredProjectIds": []
+    },
+    {
+      "Path": "mods/proper-pet-tp-1.2.5.jar",
+      "Url": "https://cdn.modrinth.com/data/KbPewBWv/versions/dPJwlGax/proper-pet-tp-1.2.5.jar",
+      "Sha256": "37acf48d0aafa7e7f8f25eae746e82baf7f21e4c08a5c406d114d28469afd595",
+      "Size": 39590,
+      "Side": "server",
+      "ProjectId": "KbPewBWv",
+      "VersionId": "dPJwlGax",
+      "Title": "Proper Pet Teleport",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/KbPewBWv/5838f022d4684b2e16374e5c05440be400cdf8b0_96.webp",
+      "ClientSupport": "unsupported",
+      "ServerSupport": "required",
+      "RequiredProjectIds": [
+        "P7dR8mSH"
+      ]
     }
   ]
 }
