@@ -1,6 +1,6 @@
 {
   "PackName": "Landon SMP",
-  "Version": "2026.09.06.043415",
+  "Version": "2026.09.06.043741",
   "MinecraftVersion": "26.2",
   "ModLoader": "fabric",
   "FabricLoaderVersion": "",
@@ -1522,21 +1522,19 @@
       "RequiredProjectIds": []
     },
     {
-      "Path": "mods/easy-sort-1.4.1.jar",
-      "Url": "https://cdn.modrinth.com/data/tNAlPFb9/versions/m1qbYyqi/easy-sort-1.4.1.jar",
-      "Sha256": "1cdc7b0e95a7f2c127763e2ec8e6de7560b8d4a69bdbe4a9f46a5279712219e7",
-      "Size": 74377,
+      "Path": "mods/lightweight-inventory-sorting-1.1.7\u002B26.2.jar",
+      "Url": "https://cdn.modrinth.com/data/JrrZfsph/versions/S5aBpz21/lightweight-inventory-sorting-1.1.7%2B26.2.jar",
+      "Sha256": "019eb4d674036feee530e16e9686d9e013c218c32fac5688f17bd55124f94784",
+      "Size": 58553,
       "Side": "client",
-      "ProjectId": "tNAlPFb9",
-      "VersionId": "m1qbYyqi",
-      "Title": "Easy Sort",
+      "ProjectId": "JrrZfsph",
+      "VersionId": "S5aBpz21",
+      "Title": "Lightweight Inventory Sorting",
       "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/tNAlPFb9/050a6f4f68d3c3b464f849ac3fae0fbf092429e9_96.webp",
+      "IconUrl": "https://cdn.modrinth.com/data/JrrZfsph/e49ffac9c2fd9e0f9e5f08da3223c9e1226fae8d.png",
       "ClientSupport": "required",
-      "ServerSupport": "required",
-      "RequiredProjectIds": [
-        "P7dR8mSH"
-      ]
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": []
     }
   ]
 }
