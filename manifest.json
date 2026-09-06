@@ -1,6 +1,6 @@
 {
   "PackName": "Landon SMP",
-  "Version": "2026.09.04.052626",
+  "Version": "2026.09.06.042321",
   "MinecraftVersion": "26.2",
   "ModLoader": "fabric",
   "FabricLoaderVersion": "",
@@ -350,21 +350,6 @@
       "IconUrl": "https://cdn.modrinth.com/data/VSNURh3q/3c2ce471054466712a44c8758a03e03bb868f93b_96.webp",
       "ClientSupport": "optional",
       "ServerSupport": "required",
-      "RequiredProjectIds": []
-    },
-    {
-      "Path": "mods/fabric-language-kotlin-1.13.13\u002Bkotlin.2.4.10.jar",
-      "Url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/bdhiINYC/fabric-language-kotlin-1.13.13%2Bkotlin.2.4.10.jar",
-      "Sha256": "34ccdacf13bb9351fe43ce61912c2e09b72364e43e787d36ba3d2d04dec75a52",
-      "Size": 8076363,
-      "Side": "client",
-      "ProjectId": "Ha28R6CL",
-      "VersionId": "bdhiINYC",
-      "Title": "Fabric Language Kotlin",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/Ha28R6CL/72c3d74aeb665e45aea93a945a01474cbce3b7da_96.webp",
-      "ClientSupport": "optional",
-      "ServerSupport": "optional",
       "RequiredProjectIds": []
     },
     {
@@ -1130,23 +1115,6 @@
       "RequiredProjectIds": []
     },
     {
-      "Path": "mods/yet_another_config_lib_v3-3.9.6\u002B26.2-fabric.jar",
-      "Url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/cnfPzuFU/yet_another_config_lib_v3-3.9.6%2B26.2-fabric.jar",
-      "Sha256": "829396c3b3e7d1801ae0e9e2921d0454c5a3078afdb6c6dda6b3d1819dfa0e3f",
-      "Size": 1121529,
-      "Side": "client",
-      "ProjectId": "1eAoo2KR",
-      "VersionId": "cnfPzuFU",
-      "Title": "YetAnotherConfigLib (YACL)",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/1eAoo2KR/08c0cd32515e260f4bb20bbc0696510041523f9a_96.webp",
-      "ClientSupport": "optional",
-      "ServerSupport": "optional",
-      "RequiredProjectIds": [
-        "P7dR8mSH"
-      ]
-    },
-    {
       "Path": "mods/controlify-3.4.1\u002Bmc26.2-universal.jar",
       "Url": "https://cdn.modrinth.com/data/DOUdJVEm/versions/E2Rvo2Q0/controlify-3.4.1%2Bmc26.2-universal.jar",
       "Sha256": "2040639e5a382226b09c0da311c8dfb109b2314031c5136d21dee1aa4cb2f0bb",
@@ -1455,11 +1423,62 @@
       ]
     },
     {
+      "Path": "mods/yet_another_config_lib_v3-3.9.6\u002B26.2-fabric.jar",
+      "Url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/cnfPzuFU/yet_another_config_lib_v3-3.9.6%2B26.2-fabric.jar",
+      "Sha256": "829396c3b3e7d1801ae0e9e2921d0454c5a3078afdb6c6dda6b3d1819dfa0e3f",
+      "Size": 1121529,
+      "Side": "client",
+      "ProjectId": "1eAoo2KR",
+      "VersionId": "cnfPzuFU",
+      "Title": "YetAnotherConfigLib (YACL)",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/1eAoo2KR/08c0cd32515e260f4bb20bbc0696510041523f9a_96.webp",
+      "ClientSupport": "optional",
+      "ServerSupport": "optional",
+      "RequiredProjectIds": [
+        "P7dR8mSH"
+      ]
+    },
+    {
+      "Path": "mods/zoomify-2.16.1\u002B26.2.jar",
+      "Url": "https://cdn.modrinth.com/data/w7ThoJFB/versions/QWTzJNJY/zoomify-2.16.1%2B26.2.jar",
+      "Sha256": "e014d36408e3d957bfce4d02d55d3703041902fa88bf96062694d69234b2d9e9",
+      "Size": 562176,
+      "Side": "client",
+      "ProjectId": "w7ThoJFB",
+      "VersionId": "QWTzJNJY",
+      "Title": "Zoomify (Zoom)",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/w7ThoJFB/e2de67a0bfb9e8aa2347982ab3ec5463f26cca31_96.webp",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": [
+        "1eAoo2KR",
+        "P7dR8mSH",
+        "Ha28R6CL"
+      ]
+    },
+    {
+      "Path": "mods/freecam-fabric-1.4.1\u002Bmc26.2.jar",
+      "Url": "https://cdn.modrinth.com/data/XeEZ3fK2/versions/r125dZ2j/freecam-fabric-1.4.1%2Bmc26.2.jar",
+      "Sha256": "ec94a9ee28780277486f1a778f8b97b11f0563f3bfe5183a368af789d745ded4",
+      "Size": 1370306,
+      "Side": "client",
+      "ProjectId": "XeEZ3fK2",
+      "VersionId": "r125dZ2j",
+      "Title": "Freecam",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/XeEZ3fK2/9529a900a2aa6ed56c1b3167f165bac91b3acd6e_96.webp",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": []
+    },
+    {
       "Path": "mods/fabric-api-0.159.0\u002B26.2.jar",
       "Url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/BgeCGgGZ/fabric-api-0.159.0%2B26.2.jar",
       "Sha256": "3f3a5d96e6a8f554a72e71fb507d6a979ca16d9190c305ceb1300f1d01e733ee",
       "Size": 2535793,
-      "Side": "both",
+      "Side": "client",
       "ProjectId": "P7dR8mSH",
       "VersionId": "BgeCGgGZ",
       "Title": "Fabric API",
@@ -1468,6 +1487,58 @@
       "ClientSupport": "optional",
       "ServerSupport": "optional",
       "RequiredProjectIds": []
+    },
+    {
+      "Path": "mods/fabric-language-kotlin-1.13.13\u002Bkotlin.2.4.10.jar",
+      "Url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/bdhiINYC/fabric-language-kotlin-1.13.13%2Bkotlin.2.4.10.jar",
+      "Sha256": "34ccdacf13bb9351fe43ce61912c2e09b72364e43e787d36ba3d2d04dec75a52",
+      "Size": 8076363,
+      "Side": "client",
+      "ProjectId": "Ha28R6CL",
+      "VersionId": "bdhiINYC",
+      "Title": "Fabric Language Kotlin",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/Ha28R6CL/72c3d74aeb665e45aea93a945a01474cbce3b7da_96.webp",
+      "ClientSupport": "optional",
+      "ServerSupport": "optional",
+      "RequiredProjectIds": []
+    },
+    {
+      "Path": "mods/libIPN-fabric-26.2-6.8.3.jar",
+      "Url": "https://cdn.modrinth.com/data/onSQdWhM/versions/SkvWSBFK/libIPN-fabric-26.2-6.8.3.jar",
+      "Sha256": "46ee9e464c41a5641e89835782f0bec5ba93efb9d0010d0fcc3fda22e472f976",
+      "Size": 637800,
+      "Side": "client",
+      "ProjectId": "onSQdWhM",
+      "VersionId": "SkvWSBFK",
+      "Title": "libIPN",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/onSQdWhM/feb2d62d9f150539bfd2a69d373866b1e643545c_96.webp",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": [
+        "P7dR8mSH",
+        "Ha28R6CL"
+      ]
+    },
+    {
+      "Path": "mods/InventoryProfilesNext-fabric-26.2-2.3.7.jar",
+      "Url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/SnUA305X/InventoryProfilesNext-fabric-26.2-2.3.7.jar",
+      "Sha256": "c4b4864d915bbe382510762a72404112dc0a627d5c18069621b74678aa7813da",
+      "Size": 1456192,
+      "Side": "client",
+      "ProjectId": "O7RBXm3n",
+      "VersionId": "SnUA305X",
+      "Title": "Inventory Profiles Next",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/O7RBXm3n/04cdecd37b4c7409f70d36fcdc85722ebf14aab8_96.webp",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": [
+        "onSQdWhM",
+        "Ha28R6CL",
+        "P7dR8mSH"
+      ]
     }
   ]
 }
