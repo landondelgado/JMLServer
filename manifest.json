@@ -1,6 +1,6 @@
 {
   "PackName": "Landon SMP",
-  "Version": "2026.09.06.042321",
+  "Version": "2026.09.06.043415",
   "MinecraftVersion": "26.2",
   "ModLoader": "fabric",
   "FabricLoaderVersion": "",
@@ -1474,21 +1474,6 @@
       "RequiredProjectIds": []
     },
     {
-      "Path": "mods/fabric-api-0.159.0\u002B26.2.jar",
-      "Url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/BgeCGgGZ/fabric-api-0.159.0%2B26.2.jar",
-      "Sha256": "3f3a5d96e6a8f554a72e71fb507d6a979ca16d9190c305ceb1300f1d01e733ee",
-      "Size": 2535793,
-      "Side": "client",
-      "ProjectId": "P7dR8mSH",
-      "VersionId": "BgeCGgGZ",
-      "Title": "Fabric API",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/P7dR8mSH/icon.png",
-      "ClientSupport": "optional",
-      "ServerSupport": "optional",
-      "RequiredProjectIds": []
-    },
-    {
       "Path": "mods/fabric-language-kotlin-1.13.13\u002Bkotlin.2.4.10.jar",
       "Url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/bdhiINYC/fabric-language-kotlin-1.13.13%2Bkotlin.2.4.10.jar",
       "Sha256": "34ccdacf13bb9351fe43ce61912c2e09b72364e43e787d36ba3d2d04dec75a52",
@@ -1522,21 +1507,34 @@
       ]
     },
     {
-      "Path": "mods/InventoryProfilesNext-fabric-26.2-2.3.7.jar",
-      "Url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/SnUA305X/InventoryProfilesNext-fabric-26.2-2.3.7.jar",
-      "Sha256": "c4b4864d915bbe382510762a72404112dc0a627d5c18069621b74678aa7813da",
-      "Size": 1456192,
+      "Path": "mods/fabric-api-0.159.0\u002B26.2.jar",
+      "Url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/BgeCGgGZ/fabric-api-0.159.0%2B26.2.jar",
+      "Sha256": "3f3a5d96e6a8f554a72e71fb507d6a979ca16d9190c305ceb1300f1d01e733ee",
+      "Size": 2535793,
       "Side": "client",
-      "ProjectId": "O7RBXm3n",
-      "VersionId": "SnUA305X",
-      "Title": "Inventory Profiles Next",
+      "ProjectId": "P7dR8mSH",
+      "VersionId": "BgeCGgGZ",
+      "Title": "Fabric API",
       "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/O7RBXm3n/04cdecd37b4c7409f70d36fcdc85722ebf14aab8_96.webp",
+      "IconUrl": "https://cdn.modrinth.com/data/P7dR8mSH/icon.png",
+      "ClientSupport": "optional",
+      "ServerSupport": "optional",
+      "RequiredProjectIds": []
+    },
+    {
+      "Path": "mods/easy-sort-1.4.1.jar",
+      "Url": "https://cdn.modrinth.com/data/tNAlPFb9/versions/m1qbYyqi/easy-sort-1.4.1.jar",
+      "Sha256": "1cdc7b0e95a7f2c127763e2ec8e6de7560b8d4a69bdbe4a9f46a5279712219e7",
+      "Size": 74377,
+      "Side": "client",
+      "ProjectId": "tNAlPFb9",
+      "VersionId": "m1qbYyqi",
+      "Title": "Easy Sort",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/tNAlPFb9/050a6f4f68d3c3b464f849ac3fae0fbf092429e9_96.webp",
       "ClientSupport": "required",
-      "ServerSupport": "unsupported",
+      "ServerSupport": "required",
       "RequiredProjectIds": [
-        "onSQdWhM",
-        "Ha28R6CL",
         "P7dR8mSH"
       ]
     }
