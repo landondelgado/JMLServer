@@ -1,6 +1,6 @@
 {
   "PackName": "Landon SMP",
-  "Version": "2026.09.06.043741",
+  "Version": "2026.09.06.043939",
   "MinecraftVersion": "26.2",
   "ModLoader": "fabric",
   "FabricLoaderVersion": "",
@@ -243,36 +243,6 @@
       "Title": "Rethinking Voxels",
       "Author": null,
       "IconUrl": "https://cdn.modrinth.com/data/kmwfVOoi/fc89eadad417dd376b14c3b31e1a2b87acaca034_96.webp",
-      "ClientSupport": "required",
-      "ServerSupport": "unsupported",
-      "RequiredProjectIds": []
-    },
-    {
-      "Path": "mods/placeholder-api-3.1.0-beta.1\u002B26.2.jar",
-      "Url": "https://cdn.modrinth.com/data/eXts2L7r/versions/NDqH16LT/placeholder-api-3.1.0-beta.1%2B26.2.jar",
-      "Sha256": "c2ca2b5c397a0c198a32e7af68d2d0a011bc2c7baeae5cffd3996efd65c5069e",
-      "Size": 254973,
-      "Side": "client",
-      "ProjectId": "eXts2L7r",
-      "VersionId": "NDqH16LT",
-      "Title": "Text Placeholder API",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/eXts2L7r/e9c9990896e6422bffc5f73d2c41b8f077348f83.png",
-      "ClientSupport": "optional",
-      "ServerSupport": "optional",
-      "RequiredProjectIds": []
-    },
-    {
-      "Path": "mods/modmenu-20.0.1.jar",
-      "Url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/njXb639R/modmenu-20.0.1.jar",
-      "Sha256": "81bfbca06012c57c74949072f2ffaad06360badee4d00dc59bfaeac80dd24bd8",
-      "Size": 614002,
-      "Side": "client",
-      "ProjectId": "mOgUt4GM",
-      "VersionId": "njXb639R",
-      "Title": "Mod Menu",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/mOgUt4GM/5a20ed1450a0e1e79a1fe04e61bb4e5878bf1d20.png",
       "ClientSupport": "required",
       "ServerSupport": "unsupported",
       "RequiredProjectIds": []
@@ -665,21 +635,6 @@
       "IconUrl": "https://cdn.modrinth.com/data/x1hIzbuY/930154d1ed3e855079c5f6ee63faeb9bcbe87cfd_96.webp",
       "ClientSupport": "required",
       "ServerSupport": "unsupported",
-      "RequiredProjectIds": []
-    },
-    {
-      "Path": "mods/cloth-config-26.2.155.jar",
-      "Url": "https://cdn.modrinth.com/data/9s6osm5g/versions/Nv3xnWXd/cloth-config-26.2.155.jar",
-      "Sha256": "def4be7639cd66704f7e304d658ea0f6bf490fb4a6eaa2dbf18ec2c3999d6349",
-      "Size": 1135186,
-      "Side": "both",
-      "ProjectId": "9s6osm5g",
-      "VersionId": "Nv3xnWXd",
-      "Title": "Cloth Config API",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/9s6osm5g/ed8a2316cbb6f4fc5f510e8e13a59a85cbbbff4d_96.webp",
-      "ClientSupport": "optional",
-      "ServerSupport": "optional",
       "RequiredProjectIds": []
     },
     {
@@ -1507,6 +1462,21 @@
       ]
     },
     {
+      "Path": "mods/cloth-config-26.2.155.jar",
+      "Url": "https://cdn.modrinth.com/data/9s6osm5g/versions/Nv3xnWXd/cloth-config-26.2.155.jar",
+      "Sha256": "def4be7639cd66704f7e304d658ea0f6bf490fb4a6eaa2dbf18ec2c3999d6349",
+      "Size": 1135186,
+      "Side": "client",
+      "ProjectId": "9s6osm5g",
+      "VersionId": "Nv3xnWXd",
+      "Title": "Cloth Config API",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/9s6osm5g/ed8a2316cbb6f4fc5f510e8e13a59a85cbbbff4d_96.webp",
+      "ClientSupport": "optional",
+      "ServerSupport": "optional",
+      "RequiredProjectIds": []
+    },
+    {
       "Path": "mods/fabric-api-0.159.0\u002B26.2.jar",
       "Url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/BgeCGgGZ/fabric-api-0.159.0%2B26.2.jar",
       "Sha256": "3f3a5d96e6a8f554a72e71fb507d6a979ca16d9190c305ceb1300f1d01e733ee",
@@ -1522,19 +1492,55 @@
       "RequiredProjectIds": []
     },
     {
-      "Path": "mods/lightweight-inventory-sorting-1.1.7\u002B26.2.jar",
-      "Url": "https://cdn.modrinth.com/data/JrrZfsph/versions/S5aBpz21/lightweight-inventory-sorting-1.1.7%2B26.2.jar",
-      "Sha256": "019eb4d674036feee530e16e9686d9e013c218c32fac5688f17bd55124f94784",
-      "Size": 58553,
+      "Path": "mods/placeholder-api-3.1.0-beta.1\u002B26.2.jar",
+      "Url": "https://cdn.modrinth.com/data/eXts2L7r/versions/NDqH16LT/placeholder-api-3.1.0-beta.1%2B26.2.jar",
+      "Sha256": "c2ca2b5c397a0c198a32e7af68d2d0a011bc2c7baeae5cffd3996efd65c5069e",
+      "Size": 254973,
       "Side": "client",
-      "ProjectId": "JrrZfsph",
-      "VersionId": "S5aBpz21",
-      "Title": "Lightweight Inventory Sorting",
+      "ProjectId": "eXts2L7r",
+      "VersionId": "NDqH16LT",
+      "Title": "Text Placeholder API",
       "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/JrrZfsph/e49ffac9c2fd9e0f9e5f08da3223c9e1226fae8d.png",
+      "IconUrl": "https://cdn.modrinth.com/data/eXts2L7r/e9c9990896e6422bffc5f73d2c41b8f077348f83.png",
+      "ClientSupport": "optional",
+      "ServerSupport": "optional",
+      "RequiredProjectIds": []
+    },
+    {
+      "Path": "mods/modmenu-20.0.1.jar",
+      "Url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/njXb639R/modmenu-20.0.1.jar",
+      "Sha256": "81bfbca06012c57c74949072f2ffaad06360badee4d00dc59bfaeac80dd24bd8",
+      "Size": 614002,
+      "Side": "client",
+      "ProjectId": "mOgUt4GM",
+      "VersionId": "njXb639R",
+      "Title": "Mod Menu",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/mOgUt4GM/5a20ed1450a0e1e79a1fe04e61bb4e5878bf1d20.png",
       "ClientSupport": "required",
       "ServerSupport": "unsupported",
-      "RequiredProjectIds": []
+      "RequiredProjectIds": [
+        "P7dR8mSH",
+        "eXts2L7r"
+      ]
+    },
+    {
+      "Path": "mods/clientsort-fabric-3.103.1\u002B26.2.jar",
+      "Url": "https://cdn.modrinth.com/data/K0AkAin6/versions/LihNJSox/clientsort-fabric-3.103.1%2B26.2.jar",
+      "Sha256": "8ce6c97e2aa8bc8527dfe84b16e3ec3bab4a3e6261f03a3cc910e84fc5056c8a",
+      "Size": 350271,
+      "Side": "client",
+      "ProjectId": "K0AkAin6",
+      "VersionId": "LihNJSox",
+      "Title": "Client Sort",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/K0AkAin6/7cf06458738334bd5d8cd77d086529d453f56ef6_96.webp",
+      "ClientSupport": "required",
+      "ServerSupport": "optional",
+      "RequiredProjectIds": [
+        "9s6osm5g",
+        "mOgUt4GM"
+      ]
     }
   ]
 }
