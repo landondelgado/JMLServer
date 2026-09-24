@@ -1,6 +1,6 @@
 {
   "PackName": "Landon SMP",
-  "Version": "2026.09.06.043939",
+  "Version": "2026.09.24.023120",
   "MinecraftVersion": "26.2",
   "ModLoader": "fabric",
   "FabricLoaderVersion": "",
@@ -1541,6 +1541,21 @@
         "9s6osm5g",
         "mOgUt4GM"
       ]
+    },
+    {
+      "Path": "resourcepacks/Appa Ghasts1.3.1.zip",
+      "Url": "https://cdn.modrinth.com/data/olobHVzX/versions/IuXZ6azF/Appa%20Ghasts1.3.1.zip",
+      "Sha256": "e28cb0e5c67adb3d81eaaff53b486fcb4461b8d1aaf44fe9084c67cf9ed6ca7b",
+      "Size": 1340003,
+      "Side": "client",
+      "ProjectId": "olobHVzX",
+      "VersionId": "IuXZ6azF",
+      "Title": "Appa Ghasts",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/olobHVzX/a60db7ac18438129d6017e32145fdf4843a73eca_96.webp",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": []
     }
   ]
 }
