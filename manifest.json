@@ -1,6 +1,6 @@
 {
   "PackName": "Landon SMP",
-  "Version": "2026.10.23.221257",
+  "Version": "2026.10.23.221957",
   "MinecraftVersion": "26.3",
   "ModLoader": "fabric",
   "FabricLoaderVersion": "0.20.1",
@@ -799,23 +799,6 @@
       "RequiredProjectIds": [
         "P7dR8mSH"
       ],
-      "Disabled": false,
-      "DisabledReason": null
-    },
-    {
-      "Path": "mods/fabric-api-0.165.0\u002B26.3.jar",
-      "Url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/EQKgpeKu/fabric-api-0.165.0%2B26.3.jar",
-      "Sha256": "18442e2ad466d6ef41c37dbb4cb68495e6ca6658b1f1ee9be76143d155ef2c88",
-      "Size": 1778588,
-      "Side": "server",
-      "ProjectId": "P7dR8mSH",
-      "VersionId": "EQKgpeKu",
-      "Title": "Fabric API",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/P7dR8mSH/icon.png",
-      "ClientSupport": "optional",
-      "ServerSupport": "optional",
-      "RequiredProjectIds": [],
       "Disabled": false,
       "DisabledReason": null
     },
@@ -1821,6 +1804,23 @@
         "mOgUt4GM",
         "9s6osm5g"
       ],
+      "Disabled": false,
+      "DisabledReason": null
+    },
+    {
+      "Path": "mods/fabric-api-0.165.0\u002B26.3.jar",
+      "Url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/EQKgpeKu/fabric-api-0.165.0%2B26.3.jar",
+      "Sha256": "18442e2ad466d6ef41c37dbb4cb68495e6ca6658b1f1ee9be76143d155ef2c88",
+      "Size": 1778588,
+      "Side": "client",
+      "ProjectId": "P7dR8mSH",
+      "VersionId": "EQKgpeKu",
+      "Title": "Fabric API",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/P7dR8mSH/icon.png",
+      "ClientSupport": "optional",
+      "ServerSupport": "optional",
+      "RequiredProjectIds": [],
       "Disabled": false,
       "DisabledReason": null
     }
