@@ -1,27 +1,12 @@
 {
   "PackName": "Landon SMP",
-  "Version": "2026.09.24.023120",
-  "MinecraftVersion": "26.2",
+  "Version": "2026.10.23.221257",
+  "MinecraftVersion": "26.3",
   "ModLoader": "fabric",
-  "FabricLoaderVersion": "",
+  "FabricLoaderVersion": "0.20.1",
   "NeoForgeVersion": "",
   "JavaVersion": 25,
   "Files": [
-    {
-      "Path": "mods/continuity-3.0.1\u002B26.2.jar",
-      "Url": "https://cdn.modrinth.com/data/1IjD5062/versions/mgUN5Xz2/continuity-3.0.1%2B26.2.jar",
-      "Sha256": "2094a52b98e247f664ef2ecdbb41d7dcad7779cc7a8fb87f0ed8a4f8196c0446",
-      "Size": 1040013,
-      "Side": "client",
-      "ProjectId": "1IjD5062",
-      "VersionId": "mgUN5Xz2",
-      "Title": "Continuity",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/1IjD5062/icon.png",
-      "ClientSupport": "required",
-      "ServerSupport": "unsupported",
-      "RequiredProjectIds": []
-    },
     {
       "Path": "shaderpacks/ComplementaryReimagined_r5.8.1.zip",
       "Url": "https://cdn.modrinth.com/data/HVnmMxH1/versions/yCCduG44/ComplementaryReimagined_r5.8.1.zip",
@@ -35,22 +20,9 @@
       "IconUrl": "https://cdn.modrinth.com/data/HVnmMxH1/79cb7c8123bbc54945305b2ebad6b8881efdf5f8_96.webp",
       "ClientSupport": "required",
       "ServerSupport": "unsupported",
-      "RequiredProjectIds": []
-    },
-    {
-      "Path": "mods/iris-fabric-1.11.2\u002Bmc26.2.jar",
-      "Url": "https://cdn.modrinth.com/data/YL57xq9U/versions/oaD6KQls/iris-fabric-1.11.2%2Bmc26.2.jar",
-      "Sha256": "df0e2ccddaea17b191eda32b21c979e131bc9d4ef4f831113b50b461fc4a3804",
-      "Size": 2820763,
-      "Side": "client",
-      "ProjectId": "YL57xq9U",
-      "VersionId": "oaD6KQls",
-      "Title": "Iris Shaders",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/YL57xq9U/18d0e7f076d3d6ed5bedd472b853909aac5da202_96.webp",
-      "ClientSupport": "required",
-      "ServerSupport": "unsupported",
-      "RequiredProjectIds": []
+      "RequiredProjectIds": [],
+      "Disabled": false,
+      "DisabledReason": null
     },
     {
       "Path": "shaderpacks/ComplementaryUnbound_r5.8.1.zip",
@@ -65,7 +37,9 @@
       "IconUrl": "https://cdn.modrinth.com/data/R6NEzAwj/c85ce4049aac76360d2cd24fd9a7003de01ef312_96.webp",
       "ClientSupport": "required",
       "ServerSupport": "unsupported",
-      "RequiredProjectIds": []
+      "RequiredProjectIds": [],
+      "Disabled": false,
+      "DisabledReason": null
     },
     {
       "Path": "resourcepacks/xali\u0027s potion v1.2.0.zip",
@@ -80,37 +54,9 @@
       "IconUrl": "https://cdn.modrinth.com/data/yFn9hTiq/029f821072a85f4d71e8f9271e7615a1efaa0a75.png",
       "ClientSupport": "required",
       "ServerSupport": "unsupported",
-      "RequiredProjectIds": []
-    },
-    {
-      "Path": "mods/punchy-2.6.2-fabric-26.2.jar",
-      "Url": "https://cdn.modrinth.com/data/8aoMKplv/versions/eaggJ0OG/punchy-2.6.2-fabric-26.2.jar",
-      "Sha256": "aa6b213eb21ff050ba567bfca421cf102777dabde3fffe79fc973987a197d4a3",
-      "Size": 1972363,
-      "Side": "client",
-      "ProjectId": "8aoMKplv",
-      "VersionId": "eaggJ0OG",
-      "Title": "Punchy!",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/8aoMKplv/a9171ec026d659ccad5c3dff6fdfc80259d63e09.gif",
-      "ClientSupport": "required",
-      "ServerSupport": "unsupported",
-      "RequiredProjectIds": []
-    },
-    {
-      "Path": "mods/atmospherics-2.6.6-mc-26.2.jar",
-      "Url": "https://cdn.modrinth.com/data/ft2cYBpB/versions/dKZiIjXj/atmospherics-2.6.6-mc-26.2.jar",
-      "Sha256": "778054e43290a2c40bb7743b4f7cc2c5a737df240117a4862df9cbaa429c3172",
-      "Size": 4088769,
-      "Side": "client",
-      "ProjectId": "ft2cYBpB",
-      "VersionId": "dKZiIjXj",
-      "Title": "ATMOSPHERICS",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/ft2cYBpB/167f7cb559efaa1c16102a4675a6a08b9bd709b5_96.webp",
-      "ClientSupport": "required",
-      "ServerSupport": "unsupported",
-      "RequiredProjectIds": []
+      "RequiredProjectIds": [],
+      "Disabled": false,
+      "DisabledReason": null
     },
     {
       "Path": "mods/afk-cinematics-1.0.5\u002B26.2.jar",
@@ -125,7 +71,9 @@
       "IconUrl": "https://cdn.modrinth.com/data/MjVuY1gY/ff90d330e1a307883a1df8e600232352c4c1b4e4_96.webp",
       "ClientSupport": "required",
       "ServerSupport": "unsupported",
-      "RequiredProjectIds": []
+      "RequiredProjectIds": [],
+      "Disabled": true,
+      "DisabledReason": "No full Fabric release for Minecraft 26.3."
     },
     {
       "Path": "resourcepacks/Enchantment Outlines.zip",
@@ -140,7 +88,9 @@
       "IconUrl": "https://cdn.modrinth.com/data/A32gwfe8/9f4bd3edfdb3df167c64757f66b828eba664a616_96.webp",
       "ClientSupport": "required",
       "ServerSupport": "unsupported",
-      "RequiredProjectIds": []
+      "RequiredProjectIds": [],
+      "Disabled": false,
+      "DisabledReason": null
     },
     {
       "Path": "resourcepacks/Fresh Buckets.zip",
@@ -155,7 +105,9 @@
       "IconUrl": "https://cdn.modrinth.com/data/Sb5mtr2w/f0a55a3be5fc766b249ffff78bccdfa2fd90e42b.gif",
       "ClientSupport": "required",
       "ServerSupport": "unsupported",
-      "RequiredProjectIds": []
+      "RequiredProjectIds": [],
+      "Disabled": false,
+      "DisabledReason": null
     },
     {
       "Path": "resourcepacks/\u00A77Better\u00A7bOres\u00A793D \u00A7f- 26.2\u00A70.zip",
@@ -170,22 +122,9 @@
       "IconUrl": "https://cdn.modrinth.com/data/9D4BBjDX/43e04a731f054f3d48f6c09e8848939e09377b06_96.webp",
       "ClientSupport": "required",
       "ServerSupport": "unsupported",
-      "RequiredProjectIds": []
-    },
-    {
-      "Path": "mods/SubtleEffects-fabric-26.2-1.14.3.jar",
-      "Url": "https://cdn.modrinth.com/data/4q8UOK1d/versions/1uvLyKlq/SubtleEffects-fabric-26.2-1.14.3.jar",
-      "Sha256": "c132d9138670c6c7821f233064db8e3a17c21f5b381fd31f723b1b3c9108f83a",
-      "Size": 3456317,
-      "Side": "client",
-      "ProjectId": "4q8UOK1d",
-      "VersionId": "1uvLyKlq",
-      "Title": "Subtle Effects",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/4q8UOK1d/8a5d3febe9a9badba435a3f66a49668d04ada01f_96.webp",
-      "ClientSupport": "required",
-      "ServerSupport": "optional",
-      "RequiredProjectIds": []
+      "RequiredProjectIds": [],
+      "Disabled": false,
+      "DisabledReason": null
     },
     {
       "Path": "mods/wakes-0.7.0\u002B26.2.jar",
@@ -200,7 +139,9 @@
       "IconUrl": "https://cdn.modrinth.com/data/dlNu0RQY/46be95a28f27da8a98e9721b6695703fcec2d7d8_96.webp",
       "ClientSupport": "required",
       "ServerSupport": "unsupported",
-      "RequiredProjectIds": []
+      "RequiredProjectIds": [],
+      "Disabled": true,
+      "DisabledReason": "No full Fabric release for Minecraft 26.3."
     },
     {
       "Path": "shaderpacks/photon_v1.3b.zip",
@@ -215,7 +156,9 @@
       "IconUrl": "https://cdn.modrinth.com/data/lLqFfGNs/39cb5f12e7dcc68d6cb666f225fcb2b801dd70fb_96.webp",
       "ClientSupport": "required",
       "ServerSupport": "unsupported",
-      "RequiredProjectIds": []
+      "RequiredProjectIds": [],
+      "Disabled": false,
+      "DisabledReason": null
     },
     {
       "Path": "shaderpacks/\u00A7r\u00A7lAstra\u00A74\u00A7lLex\u00A7r\u00A7l_By_LexBoosT_\u00A74\u00A7lV93.0\u00A7r\u00A7l.zip",
@@ -230,7 +173,9 @@
       "IconUrl": "https://cdn.modrinth.com/data/RphJSnEs/3e25ea407447bf2ff8ffa8926cd2db295307cf68_96.webp",
       "ClientSupport": "required",
       "ServerSupport": "unsupported",
-      "RequiredProjectIds": []
+      "RequiredProjectIds": [],
+      "Disabled": false,
+      "DisabledReason": null
     },
     {
       "Path": "shaderpacks/rethinking-voxels_r0.1-beta9.zip",
@@ -245,52 +190,9 @@
       "IconUrl": "https://cdn.modrinth.com/data/kmwfVOoi/fc89eadad417dd376b14c3b31e1a2b87acaca034_96.webp",
       "ClientSupport": "required",
       "ServerSupport": "unsupported",
-      "RequiredProjectIds": []
-    },
-    {
-      "Path": "mods/ImmediatelyFast-Fabric-1.16.2\u002B26.2.jar",
-      "Url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/uJHxuQxy/ImmediatelyFast-Fabric-1.16.2%2B26.2.jar",
-      "Sha256": "40da44194cd1dabdc5399c8e3c46253b6a568c2f4f9e2363a3b3a0069531d770",
-      "Size": 91422,
-      "Side": "client",
-      "ProjectId": "5ZwdcRci",
-      "VersionId": "uJHxuQxy",
-      "Title": "ImmediatelyFast",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/5ZwdcRci/e57b6b451425692ac17ad322d5e14bea686a383a_96.webp",
-      "ClientSupport": "required",
-      "ServerSupport": "unsupported",
-      "RequiredProjectIds": []
-    },
-    {
-      "Path": "mods/entityculling-fabric-1.10.5-mc26.2.jar",
-      "Url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/iiF6U3Ne/entityculling-fabric-1.10.5-mc26.2.jar",
-      "Sha256": "05a36decbb1bbb0f785d974068c0d9c191975e0d8d637e1eb1f2f6bb84eab05a",
-      "Size": 1583775,
-      "Side": "client",
-      "ProjectId": "NNAgCjsB",
-      "VersionId": "iiF6U3Ne",
-      "Title": "Entity Culling",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/NNAgCjsB/7873452d6cede4daed12da3d7d8c193ab88b4fd6_96.webp",
-      "ClientSupport": "required",
-      "ServerSupport": "unsupported",
-      "RequiredProjectIds": []
-    },
-    {
-      "Path": "mods/lithium-fabric-0.25.3\u002Bmc26.2.jar",
-      "Url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/f7vZ0VWU/lithium-fabric-0.25.3%2Bmc26.2.jar",
-      "Sha256": "fdde92e238e8075f89ad7f701f2a3d5854af88ba9a67657184a4407b104ac563",
-      "Size": 912850,
-      "Side": "client",
-      "ProjectId": "gvQqBUqZ",
-      "VersionId": "f7vZ0VWU",
-      "Title": "Lithium",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/gvQqBUqZ/bcc8686c13af0143adf4285d741256af824f70b7_96.webp",
-      "ClientSupport": "optional",
-      "ServerSupport": "optional",
-      "RequiredProjectIds": []
+      "RequiredProjectIds": [],
+      "Disabled": false,
+      "DisabledReason": null
     },
     {
       "Path": "mods/ferritecore-9.0.0-fabric.jar",
@@ -305,7 +207,9 @@
       "IconUrl": "https://cdn.modrinth.com/data/uXXizFIs/222a126f26f8f9ae1eb339f3b767677f18bff31f_96.webp",
       "ClientSupport": "optional",
       "ServerSupport": "optional",
-      "RequiredProjectIds": []
+      "RequiredProjectIds": [],
+      "Disabled": false,
+      "DisabledReason": null
     },
     {
       "Path": "mods/c2me-fabric-mc26.2-0.4.2-alpha.0.34.jar",
@@ -320,52 +224,9 @@
       "IconUrl": "https://cdn.modrinth.com/data/VSNURh3q/3c2ce471054466712a44c8758a03e03bb868f93b_96.webp",
       "ClientSupport": "optional",
       "ServerSupport": "required",
-      "RequiredProjectIds": []
-    },
-    {
-      "Path": "mods/fzzy_config-0.7.6\u002B26.2.jar",
-      "Url": "https://cdn.modrinth.com/data/hYykXjDp/versions/EQSFgLYw/fzzy_config-0.7.6%2B26.2.jar",
-      "Sha256": "bbd4bbab6f381e123db5031ed051a9ad2d1a5ad4fb6ccf64d983ba416745e551",
-      "Size": 2373321,
-      "Side": "client",
-      "ProjectId": "hYykXjDp",
-      "VersionId": "EQSFgLYw",
-      "Title": "Fzzy Config",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/hYykXjDp/11f469b1bf1f201a95c2e3ddc09ca47d85c3ed53.png",
-      "ClientSupport": "required",
-      "ServerSupport": "required",
-      "RequiredProjectIds": []
-    },
-    {
-      "Path": "mods/particle_core-0.3.3\u002B26.2.jar",
-      "Url": "https://cdn.modrinth.com/data/RSeLon5O/versions/VFv6uQKM/particle_core-0.3.3%2B26.2.jar",
-      "Sha256": "1f07d37347e1e9b8a54e65c5aea90c358b567ac34bed0624d66c401e2b736ef8",
-      "Size": 141246,
-      "Side": "client",
-      "ProjectId": "RSeLon5O",
-      "VersionId": "VFv6uQKM",
-      "Title": "Particle Core",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/RSeLon5O/147110a6a4457b2f287f68fc626771f0f8ef2cde_96.webp",
-      "ClientSupport": "required",
-      "ServerSupport": "unsupported",
-      "RequiredProjectIds": []
-    },
-    {
-      "Path": "mods/PresenceFootsteps-1.13.3\u002B26.2.jar",
-      "Url": "https://cdn.modrinth.com/data/rcTfTZr3/versions/8TkGmrgl/PresenceFootsteps-1.13.3%2B26.2.jar",
-      "Sha256": "f1f7e37ffc5a56cf7cc9833d8c6b48680340554d72498160df021c6fc354af13",
-      "Size": 5749193,
-      "Side": "client",
-      "ProjectId": "rcTfTZr3",
-      "VersionId": "8TkGmrgl",
-      "Title": "Presence Footsteps",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/rcTfTZr3/c08dc581f0bf3b729f86e962fa800463af86e9a2_96.webp",
-      "ClientSupport": "required",
-      "ServerSupport": "unsupported",
-      "RequiredProjectIds": []
+      "RequiredProjectIds": [],
+      "Disabled": true,
+      "DisabledReason": "No full Fabric release for Minecraft 26.3."
     },
     {
       "Path": "mods/eating-animation-fork-26.2\u002B3.0.0.jar",
@@ -380,7 +241,9 @@
       "IconUrl": "https://cdn.modrinth.com/data/6Z8trFQe/3728bc0dd14ce1ec84599f9dad43aa5fbcfbef2a.gif",
       "ClientSupport": "required",
       "ServerSupport": "unsupported",
-      "RequiredProjectIds": []
+      "RequiredProjectIds": [],
+      "Disabled": true,
+      "DisabledReason": "Modrinth project is unavailable (Modrinth project \u00276Z8trFQe\u0027 is unavailable: 404 Not Found)."
     },
     {
       "Path": "resourcepacks/FreshAnimations_v1.10.5.zip",
@@ -395,52 +258,9 @@
       "IconUrl": "https://cdn.modrinth.com/data/50dA9Sha/3132c10e9e3c73fde9799720fd3da5561071708c_96.webp",
       "ClientSupport": "required",
       "ServerSupport": "unsupported",
-      "RequiredProjectIds": []
-    },
-    {
-      "Path": "mods/entity_model_features-3.2.6-26.2-fabric.jar",
-      "Url": "https://cdn.modrinth.com/data/4I1XuqiY/versions/xQeW3qQB/entity_model_features-3.2.6-26.2-fabric.jar",
-      "Sha256": "876a3e4ffda021a6266df87208f2d9980322cf86223d4fe1e313ca996631f115",
-      "Size": 587342,
-      "Side": "client",
-      "ProjectId": "4I1XuqiY",
-      "VersionId": "xQeW3qQB",
-      "Title": "[EMF] Entity Model Features",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/4I1XuqiY/6e5bbd0d06b1741bfdab6c0cfab6de8fdaf0064c_96.webp",
-      "ClientSupport": "required",
-      "ServerSupport": "unsupported",
-      "RequiredProjectIds": []
-    },
-    {
-      "Path": "mods/entity_texture_features-7.1.1-26.2-fabric.jar",
-      "Url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/HLCBKYFD/entity_texture_features-7.1.1-26.2-fabric.jar",
-      "Sha256": "f469bc914302a13a5c767296623df60fb0cc3d4e4a02a77c56541a733ad36e3a",
-      "Size": 762131,
-      "Side": "client",
-      "ProjectId": "BVzZfTc1",
-      "VersionId": "HLCBKYFD",
-      "Title": "[ETF] Entity Texture Features",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/BVzZfTc1/af683d206d50b05258d865b0d6e4aa2f2cee12f2_96.webp",
-      "ClientSupport": "required",
-      "ServerSupport": "unsupported",
-      "RequiredProjectIds": []
-    },
-    {
-      "Path": "mods/EuphoriaPatcher-1.9.3-r5.8.1-fabric.jar",
-      "Url": "https://cdn.modrinth.com/data/4H6sumDB/versions/7GNWrkGL/EuphoriaPatcher-1.9.3-r5.8.1-fabric.jar",
-      "Sha256": "b42bd00c7ab6e044d21f845dedc58a4524e45643f3685bf1c2343098e74d662e",
-      "Size": 4296552,
-      "Side": "client",
-      "ProjectId": "4H6sumDB",
-      "VersionId": "7GNWrkGL",
-      "Title": "Euphoria Patches",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/4H6sumDB/437130f3f10997f720ff0b788cb24cde3b3b8541.png",
-      "ClientSupport": "required",
-      "ServerSupport": "unsupported",
-      "RequiredProjectIds": []
+      "RequiredProjectIds": [],
+      "Disabled": false,
+      "DisabledReason": null
     },
     {
       "Path": "resourcepacks/rainbows-foliage-polytone-edition-v1.9.zip",
@@ -455,7 +275,9 @@
       "IconUrl": "https://cdn.modrinth.com/data/bY2CaVIh/4640c82c26d72e6b2883f66a9c9bfe527545a69e_96.webp",
       "ClientSupport": "required",
       "ServerSupport": "unsupported",
-      "RequiredProjectIds": []
+      "RequiredProjectIds": [],
+      "Disabled": false,
+      "DisabledReason": null
     },
     {
       "Path": "mods/polytone-fabric-26.2-5.10.2.jar",
@@ -470,7 +292,9 @@
       "IconUrl": "https://cdn.modrinth.com/data/3qAYkBMB/828636188cd2427eb1158dd1e0bddd42d318ccbf_96.webp",
       "ClientSupport": "required",
       "ServerSupport": "unsupported",
-      "RequiredProjectIds": []
+      "RequiredProjectIds": [],
+      "Disabled": true,
+      "DisabledReason": "No full Fabric release for Minecraft 26.3."
     },
     {
       "Path": "resourcepacks/Os\u0027 Colorful Grasses (Short and Fluffy).zip",
@@ -485,7 +309,9 @@
       "IconUrl": "https://cdn.modrinth.com/data/O2zhH8n8/a502bfe9117c4f2b14dfdb8ee6f0e265375fbabf_96.webp",
       "ClientSupport": "required",
       "ServerSupport": "unsupported",
-      "RequiredProjectIds": []
+      "RequiredProjectIds": [],
+      "Disabled": false,
+      "DisabledReason": null
     },
     {
       "Path": "resourcepacks/MickeyJoesFlowersV5.zip",
@@ -500,22 +326,9 @@
       "IconUrl": "https://cdn.modrinth.com/data/JfivfXs9/fb3afaad3c0230f80db13971b47cefe7cac3fc0e_96.webp",
       "ClientSupport": "required",
       "ServerSupport": "unsupported",
-      "RequiredProjectIds": []
-    },
-    {
-      "Path": "mods/dense-flowers-0.3.0\u002Bmc26.2.jar",
-      "Url": "https://cdn.modrinth.com/data/Ud3A1Fat/versions/cp04JPSY/dense-flowers-0.3.0%2Bmc26.2.jar",
-      "Sha256": "25c7767cb272788e4edd8af90a1bdab2849a810cd9e701380cfe39fb98cfbe08",
-      "Size": 366227,
-      "Side": "client",
-      "ProjectId": "Ud3A1Fat",
-      "VersionId": "cp04JPSY",
-      "Title": "Dense Flowers",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/Ud3A1Fat/0665c89b0ac3cd47d9ac5be80484afaafb743cba_96.webp",
-      "ClientSupport": "required",
-      "ServerSupport": "unsupported",
-      "RequiredProjectIds": []
+      "RequiredProjectIds": [],
+      "Disabled": false,
+      "DisabledReason": null
     },
     {
       "Path": "resourcepacks/Fancy Crops v1.3.zip",
@@ -530,37 +343,9 @@
       "IconUrl": "https://cdn.modrinth.com/data/UGEVQ6t9/5c1e966b2b67c21750875d8517c994d975a729de_96.webp",
       "ClientSupport": "required",
       "ServerSupport": "unsupported",
-      "RequiredProjectIds": []
-    },
-    {
-      "Path": "mods/atmosfera-2.7.2\u002Bmc26.2.jar",
-      "Url": "https://cdn.modrinth.com/data/28G1xpgF/versions/tQCwekds/atmosfera-2.7.2%2Bmc26.2.jar",
-      "Sha256": "d9619275dc838bc4cd7ec26dd5204fba0cd9ade5dcad685617be09730bcb5fac",
-      "Size": 64187327,
-      "Side": "client",
-      "ProjectId": "28G1xpgF",
-      "VersionId": "tQCwekds",
-      "Title": "Atmosfera",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/28G1xpgF/960d74bc4b8c720751ea754631b593feee13e63c.png",
-      "ClientSupport": "required",
-      "ServerSupport": "unsupported",
-      "RequiredProjectIds": []
-    },
-    {
-      "Path": "mods/coolrain-1.4.0-26.2.jar",
-      "Url": "https://cdn.modrinth.com/data/iDyqnQLT/versions/zc88gNk3/coolrain-1.4.0-26.2.jar",
-      "Sha256": "b7ec31587d29e194f8aa4eea39b253a8e2a3ef86965c20f605604d5b9755f50b",
-      "Size": 4139861,
-      "Side": "client",
-      "ProjectId": "iDyqnQLT",
-      "VersionId": "zc88gNk3",
-      "Title": "Cool Rain",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/iDyqnQLT/a252e26685c30f1ae82a47b087b01fa6b968a6f1_96.webp",
-      "ClientSupport": "required",
-      "ServerSupport": "optional",
-      "RequiredProjectIds": []
+      "RequiredProjectIds": [],
+      "Disabled": false,
+      "DisabledReason": null
     },
     {
       "Path": "resourcepacks/Connected-Bricks 1.21.9\u002B v1.0.zip",
@@ -575,7 +360,9 @@
       "IconUrl": "https://cdn.modrinth.com/data/mnKF5Qd2/d983fc6a0e5388c7cce378168a80274f4860b3d7.gif",
       "ClientSupport": "required",
       "ServerSupport": "unsupported",
-      "RequiredProjectIds": []
+      "RequiredProjectIds": [],
+      "Disabled": false,
+      "DisabledReason": null
     },
     {
       "Path": "resourcepacks/Connected-Rocks 1.21.9\u002B v1.1.1.zip",
@@ -590,7 +377,9 @@
       "IconUrl": "https://cdn.modrinth.com/data/IE9kFeq9/39a549cf0c73d334d047726cc69c7e46220b979b.gif",
       "ClientSupport": "required",
       "ServerSupport": "unsupported",
-      "RequiredProjectIds": []
+      "RequiredProjectIds": [],
+      "Disabled": false,
+      "DisabledReason": null
     },
     {
       "Path": "resourcepacks/Connected-Paths 26.1 \u2013 26.1.2 v2.1.1.zip",
@@ -605,22 +394,9 @@
       "IconUrl": "https://cdn.modrinth.com/data/Nyfj98b5/95e484f46c21dfa112bd9801cba99cf73d64d0c0.gif",
       "ClientSupport": "required",
       "ServerSupport": "unsupported",
-      "RequiredProjectIds": []
-    },
-    {
-      "Path": "mods/ParticleEffects-1.5.0\u002B26.2\u002Bfabric.jar",
-      "Url": "https://cdn.modrinth.com/data/PLAGcSFJ/versions/PuwJAxCv/ParticleEffects-1.5.0%2B26.2%2Bfabric.jar",
-      "Sha256": "499d2b25275a56bc901e72c92c0f6796270a9566c81676de03939e2d93fcf833",
-      "Size": 318481,
-      "Side": "client",
-      "ProjectId": "PLAGcSFJ",
-      "VersionId": "PuwJAxCv",
-      "Title": "Particle Effects",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/PLAGcSFJ/a1c206381f51a0fb2bf5e5e38bb850392b31141b_96.webp",
-      "ClientSupport": "required",
-      "ServerSupport": "unsupported",
-      "RequiredProjectIds": []
+      "RequiredProjectIds": [],
+      "Disabled": false,
+      "DisabledReason": null
     },
     {
       "Path": "mods/fastquit-3.1.5\u002Bmc26.2.jar",
@@ -635,22 +411,12 @@
       "IconUrl": "https://cdn.modrinth.com/data/x1hIzbuY/930154d1ed3e855079c5f6ee63faeb9bcbe87cfd_96.webp",
       "ClientSupport": "required",
       "ServerSupport": "unsupported",
-      "RequiredProjectIds": []
-    },
-    {
-      "Path": "mods/VoxyServer-1.2.4-26.2.jar",
-      "Url": "https://cdn.modrinth.com/data/fNtGd1cx/versions/EsIPjK0A/VoxyServer-1.2.4-26.2.jar",
-      "Sha256": "2bb4997e07eff40ada9f9d7c69ced2b95ea00a077b49ad767ddfbbf66a2f8318",
-      "Size": 1684958,
-      "Side": "both",
-      "ProjectId": "fNtGd1cx",
-      "VersionId": "EsIPjK0A",
-      "Title": "Voxy Server",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/fNtGd1cx/93fb864b5e98bc72e5392899525f33c0395b4c67_96.webp",
-      "ClientSupport": "required",
-      "ServerSupport": "required",
-      "RequiredProjectIds": []
+      "RequiredProjectIds": [
+        "P7dR8mSH",
+        "9s6osm5g"
+      ],
+      "Disabled": false,
+      "DisabledReason": null
     },
     {
       "Path": "resourcepacks/Fresh Food.zip",
@@ -665,7 +431,9 @@
       "IconUrl": "https://cdn.modrinth.com/data/UoLAbzII/9917a8356dd28fb8fc95fcb05528ef22f73169c5.gif",
       "ClientSupport": "required",
       "ServerSupport": "unsupported",
-      "RequiredProjectIds": []
+      "RequiredProjectIds": [],
+      "Disabled": false,
+      "DisabledReason": null
     },
     {
       "Path": "resourcepacks/RAYs_3D_Rails_v3.1.zip",
@@ -680,7 +448,9 @@
       "IconUrl": "https://cdn.modrinth.com/data/jKa9Ievs/efc724e211d38ebf641226b9d1c64c276f76467e_96.webp",
       "ClientSupport": "required",
       "ServerSupport": "unsupported",
-      "RequiredProjectIds": []
+      "RequiredProjectIds": [],
+      "Disabled": false,
+      "DisabledReason": null
     },
     {
       "Path": "resourcepacks/RAYs_3D_Ladders_v2.0.zip",
@@ -695,7 +465,9 @@
       "IconUrl": "https://cdn.modrinth.com/data/Uupo7yGf/d6adb3b11a9c5946bfe88b84f70237b1c702dd60_96.webp",
       "ClientSupport": "required",
       "ServerSupport": "unsupported",
-      "RequiredProjectIds": []
+      "RequiredProjectIds": [],
+      "Disabled": false,
+      "DisabledReason": null
     },
     {
       "Path": "resourcepacks/Better Lanterns v1.3.2 - 26.2.zip",
@@ -710,7 +482,9 @@
       "IconUrl": "https://cdn.modrinth.com/data/PGGrfcvL/4ebbf6b953f8589cb27665a21d1f3c4e6d3fe1ca_96.webp",
       "ClientSupport": "required",
       "ServerSupport": "unsupported",
-      "RequiredProjectIds": []
+      "RequiredProjectIds": [],
+      "Disabled": false,
+      "DisabledReason": null
     },
     {
       "Path": "resourcepacks/DoorTweaks-v3.5.zip",
@@ -725,7 +499,9 @@
       "IconUrl": "https://cdn.modrinth.com/data/hYTZC3GD/c69e87e77f54c982d078d5b9072aa7d0e98005e4_96.webp",
       "ClientSupport": "required",
       "ServerSupport": "unsupported",
-      "RequiredProjectIds": []
+      "RequiredProjectIds": [],
+      "Disabled": false,
+      "DisabledReason": null
     },
     {
       "Path": "resourcepacks/FA\u002BPlayer-v1.1.zip",
@@ -740,127 +516,9 @@
       "IconUrl": "https://cdn.modrinth.com/data/TAIMVZCL/b3918b1dcedad8987cac3715ec95d00aaadc3a49_96.webp",
       "ClientSupport": "required",
       "ServerSupport": "unsupported",
-      "RequiredProjectIds": []
-    },
-    {
-      "Path": "mods/shulkerboxtooltip-fabric-5.4.0\u002B26.2.jar",
-      "Url": "https://cdn.modrinth.com/data/2M01OLQq/versions/IHUNStdu/shulkerboxtooltip-fabric-5.4.0%2B26.2.jar",
-      "Sha256": "f5c1e570e22511a40a762ef68642c9ae57ec8a85fcf9ea309f05622904eda36d",
-      "Size": 419105,
-      "Side": "client",
-      "ProjectId": "2M01OLQq",
-      "VersionId": "IHUNStdu",
-      "Title": "Shulker Box Tooltip",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/2M01OLQq/bb490716cf2590cf84100a495931c3d4743bce43_96.webp",
-      "ClientSupport": "required",
-      "ServerSupport": "optional",
-      "RequiredProjectIds": []
-    },
-    {
-      "Path": "mods/jamlib-fabric-2.3.1\u002B26.2.x.jar",
-      "Url": "https://cdn.modrinth.com/data/IYY9Siz8/versions/4KQpfS7o/jamlib-fabric-2.3.1%2B26.2.x.jar",
-      "Sha256": "57221f91b30e13d58b930f2061aeaa5f01509ed859c1617c291d0df41740da98",
-      "Size": 265092,
-      "Side": "server",
-      "ProjectId": "IYY9Siz8",
-      "VersionId": "4KQpfS7o",
-      "Title": "JamLib",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/IYY9Siz8/7585f4d35b18467c2d0d9c496e3b7cd4919c413a_96.webp",
-      "ClientSupport": "required",
-      "ServerSupport": "required",
-      "RequiredProjectIds": []
-    },
-    {
-      "Path": "mods/rightclickharvest-fabric-4.6.2\u002B26.2.x.jar",
-      "Url": "https://cdn.modrinth.com/data/Cnejf5xM/versions/MMi9Zx44/rightclickharvest-fabric-4.6.2%2B26.2.x.jar",
-      "Sha256": "65a13caf1844b22f01073cb180c83ff0f2a5e7d9897b243c579d667f96e51aa2",
-      "Size": 279140,
-      "Side": "server",
-      "ProjectId": "Cnejf5xM",
-      "VersionId": "MMi9Zx44",
-      "Title": "RightClickHarvest",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/Cnejf5xM/b6e535989217836c2adc49b06f4b3c8f429afda3_96.webp",
-      "ClientSupport": "unsupported",
-      "ServerSupport": "required",
-      "RequiredProjectIds": []
-    },
-    {
-      "Path": "mods/ForgeConfigAPIPort-v26.2.1-mc26.2.x-Fabric.jar",
-      "Url": "https://cdn.modrinth.com/data/ohNO6lps/versions/rSd3GiG8/ForgeConfigAPIPort-v26.2.1-mc26.2.x-Fabric.jar",
-      "Sha256": "1b4b17fc4150481447201152604688c74726d6631c9a626dd21f2c5e2b3df1ac",
-      "Size": 609550,
-      "Side": "client",
-      "ProjectId": "ohNO6lps",
-      "VersionId": "rSd3GiG8",
-      "Title": "Forge Config API Port",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/ohNO6lps/cb3b942cc18a66a0f35f802e004713f134e46cc2_96.webp",
-      "ClientSupport": "optional",
-      "ServerSupport": "optional",
-      "RequiredProjectIds": []
-    },
-    {
-      "Path": "mods/PuzzlesLib-v26.2.3-mc26.2.x-Fabric.jar",
-      "Url": "https://cdn.modrinth.com/data/QAGBst4M/versions/KU5rZUAR/PuzzlesLib-v26.2.3-mc26.2.x-Fabric.jar",
-      "Sha256": "746d90c6723fccce4fca076e7e87753354abc4670016e1c461120a3306ee9af1",
-      "Size": 1145463,
-      "Side": "client",
-      "ProjectId": "QAGBst4M",
-      "VersionId": "KU5rZUAR",
-      "Title": "Puzzles Lib",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/QAGBst4M/c78216c61f65b6ce82593e4e92e9c358402bb524_96.webp",
-      "ClientSupport": "optional",
-      "ServerSupport": "optional",
-      "RequiredProjectIds": []
-    },
-    {
-      "Path": "mods/PickUpNotifier-v26.2.0-mc26.2.x-Fabric.jar",
-      "Url": "https://cdn.modrinth.com/data/ZX66K16c/versions/DWaZDkc8/PickUpNotifier-v26.2.0-mc26.2.x-Fabric.jar",
-      "Sha256": "fb427e5917c7bdca071c18fed50a48d4bb7b734697f72c21ccc0dc225a858cb7",
-      "Size": 72584,
-      "Side": "client",
-      "ProjectId": "ZX66K16c",
-      "VersionId": "DWaZDkc8",
-      "Title": "Pick Up Notifier",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/ZX66K16c/769d7c843339981c1f8e5eec5ff983294a3671fb_96.webp",
-      "ClientSupport": "required",
-      "ServerSupport": "optional",
-      "RequiredProjectIds": []
-    },
-    {
-      "Path": "mods/MouseTweaks-fabric-mc26.2-2.31.jar",
-      "Url": "https://cdn.modrinth.com/data/aC3cM3Vq/versions/jOiTBIaB/MouseTweaks-fabric-mc26.2-2.31.jar",
-      "Sha256": "4592eff38a2e7af3487688e888a637a8cbd4767b46662df94d993a889102effe",
-      "Size": 75872,
-      "Side": "client",
-      "ProjectId": "aC3cM3Vq",
-      "VersionId": "jOiTBIaB",
-      "Title": "Mouse Tweaks",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/aC3cM3Vq/6c0eaa4e60a9c87f4766f222ff63286f09da32c0_96.webp",
-      "ClientSupport": "required",
-      "ServerSupport": "unsupported",
-      "RequiredProjectIds": []
-    },
-    {
-      "Path": "mods/sounds-2.5.1\u002Bedge\u002B26.2-fabric.jar",
-      "Url": "https://cdn.modrinth.com/data/ZouiUX7t/versions/kv2RxMQu/sounds-2.5.1%2Bedge%2B26.2-fabric.jar",
-      "Sha256": "1d1aa6d959c3ac9b04d675f1452241dc9517e0958dbd759b79f500a50c1b825f",
-      "Size": 8140184,
-      "Side": "client",
-      "ProjectId": "ZouiUX7t",
-      "VersionId": "kv2RxMQu",
-      "Title": "Sounds",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/ZouiUX7t/b6ae84ea14654245f58856722473afeddf72360c_96.webp",
-      "ClientSupport": "required",
-      "ServerSupport": "unsupported",
-      "RequiredProjectIds": []
+      "RequiredProjectIds": [],
+      "Disabled": false,
+      "DisabledReason": null
     },
     {
       "Path": "mods/sound-physics-remastered-fabric-1.5.1\u002B26.2.jar",
@@ -875,59 +533,9 @@
       "IconUrl": "https://cdn.modrinth.com/data/qyVF9oeo/798fbfae58ec95ad51f3e1d522b43227306c326c.png",
       "ClientSupport": "required",
       "ServerSupport": "optional",
-      "RequiredProjectIds": []
-    },
-    {
-      "Path": "mods/eg_particle_interactions-0.10.1\u002B26.2-fabric.jar",
-      "Url": "https://cdn.modrinth.com/data/xFCYuAs8/versions/klUU9ITa/eg_particle_interactions-0.10.1%2B26.2-fabric.jar",
-      "Sha256": "8bb034e5ad70f9f680f88e76ae7ab483c6f9eb895079f4019d5684372e7037ab",
-      "Size": 946083,
-      "Side": "client",
-      "ProjectId": "xFCYuAs8",
-      "VersionId": "klUU9ITa",
-      "Title": "Particle Interactions",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/xFCYuAs8/e2e36e1660365d4405c2268f3800f6500b8350cf_96.webp",
-      "ClientSupport": "required",
-      "ServerSupport": "unsupported",
-      "RequiredProjectIds": [
-        "P7dR8mSH"
-      ]
-    },
-    {
-      "Path": "mods/mru-1.0.31\u002B26.2-fabric.jar",
-      "Url": "https://cdn.modrinth.com/data/SNVQ2c0g/versions/v9RR5djf/mru-1.0.31%2B26.2-fabric.jar",
-      "Sha256": "57f0769704ef5c51f91a023e7de6d0fc161ed32e64de2f27b6ad5a5c8fc82e76",
-      "Size": 119736,
-      "Side": "client",
-      "ProjectId": "SNVQ2c0g",
-      "VersionId": "v9RR5djf",
-      "Title": "MRU",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/SNVQ2c0g/82339bfc8a0a3a6a3c376f5c29555a378379cfa0_96.webp",
-      "ClientSupport": "optional",
-      "ServerSupport": "optional",
-      "RequiredProjectIds": [
-        "P7dR8mSH"
-      ]
-    },
-    {
-      "Path": "mods/immersive-hotbar-1.1.2-26.2.jar",
-      "Url": "https://cdn.modrinth.com/data/hsPB5xMD/versions/iYkItip9/immersive-hotbar-1.1.2-26.2.jar",
-      "Sha256": "0d743efc885d845954589424d0eab96d35b6abb5a8d162998040222354675816",
-      "Size": 89883,
-      "Side": "client",
-      "ProjectId": "hsPB5xMD",
-      "VersionId": "iYkItip9",
-      "Title": "Immersive Hotbar",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/hsPB5xMD/49a1d507980ca08381ae2742db4d674d1e6238c9_96.webp",
-      "ClientSupport": "required",
-      "ServerSupport": "unsupported",
-      "RequiredProjectIds": [
-        "P7dR8mSH",
-        "1eAoo2KR"
-      ]
+      "RequiredProjectIds": [],
+      "Disabled": true,
+      "DisabledReason": "No full Fabric release for Minecraft 26.3."
     },
     {
       "Path": "resourcepacks/Re-covered.zip",
@@ -942,24 +550,9 @@
       "IconUrl": "https://cdn.modrinth.com/data/6gN7YVi7/108492802aefe83903042a8f6ffb9872bd85212a.png",
       "ClientSupport": "required",
       "ServerSupport": "unsupported",
-      "RequiredProjectIds": []
-    },
-    {
-      "Path": "mods/packed_packs-fabric-2.2.3\u002B26.2.jar",
-      "Url": "https://cdn.modrinth.com/data/8Pq6Exn2/versions/cLspRir0/packed_packs-fabric-2.2.3%2B26.2.jar",
-      "Sha256": "e196bf95af621e147dd0b0dd4260693eb91eb2d81a19defefd416bddb580c3dc",
-      "Size": 822666,
-      "Side": "client",
-      "ProjectId": "8Pq6Exn2",
-      "VersionId": "cLspRir0",
-      "Title": "Packed Packs",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/8Pq6Exn2/ddfa6a6bc6bc282160fa92b70df711fab6948d01.png",
-      "ClientSupport": "required",
-      "ServerSupport": "unsupported",
-      "RequiredProjectIds": [
-        "P7dR8mSH"
-      ]
+      "RequiredProjectIds": [],
+      "Disabled": false,
+      "DisabledReason": null
     },
     {
       "Path": "mods/screenshot_viewer-1.3.6-fabric-mc26.2.jar",
@@ -974,7 +567,9 @@
       "IconUrl": "https://cdn.modrinth.com/data/laNoi025/1bbd371a465710708ce253fad6f9f8e7c8e3e56e.png",
       "ClientSupport": "required",
       "ServerSupport": "unsupported",
-      "RequiredProjectIds": []
+      "RequiredProjectIds": [],
+      "Disabled": true,
+      "DisabledReason": "No full Fabric release for Minecraft 26.3."
     },
     {
       "Path": "mods/perspective_api-1.5.0-beta\u002Bfabric-26.2.jar",
@@ -989,7 +584,9 @@
       "IconUrl": "https://cdn.modrinth.com/data/LIqveQm1/2ff022ae59f4591a7a75ca46f0f150ae8fa6cb94.gif",
       "ClientSupport": "required",
       "ServerSupport": "unsupported",
-      "RequiredProjectIds": []
+      "RequiredProjectIds": [],
+      "Disabled": true,
+      "DisabledReason": "No full Fabric release for Minecraft 26.3."
     },
     {
       "Path": "mods/leawind_third_person-3.0.3-beta\u002Bfabric-26.2.jar",
@@ -1007,7 +604,9 @@
       "RequiredProjectIds": [
         "P7dR8mSH",
         "LIqveQm1"
-      ]
+      ],
+      "Disabled": true,
+      "DisabledReason": "No full Fabric release for Minecraft 26.3."
     },
     {
       "Path": "resourcepacks/\u00A76Immersive\u00A78_\u00A76Interfaces\u00A78.zip",
@@ -1022,7 +621,9 @@
       "IconUrl": "https://cdn.modrinth.com/data/3sV1gvyJ/94e543bad6d9a3745deb5354703d2babe066badd.png",
       "ClientSupport": "required",
       "ServerSupport": "unsupported",
-      "RequiredProjectIds": []
+      "RequiredProjectIds": [],
+      "Disabled": false,
+      "DisabledReason": null
     },
     {
       "Path": "resourcepacks/Recolourful Containers 3.1.3 (1.19.4\u002B).zip",
@@ -1037,7 +638,9 @@
       "IconUrl": "https://cdn.modrinth.com/data/lewweaHO/1d7b77d200481c0a4a3e2ae2cfafecdbc762de10_96.webp",
       "ClientSupport": "required",
       "ServerSupport": "unsupported",
-      "RequiredProjectIds": []
+      "RequiredProjectIds": [],
+      "Disabled": false,
+      "DisabledReason": null
     },
     {
       "Path": "resourcepacks/Recolourful Containers DARK 3.1.3 (1.19.4\u002B).zip",
@@ -1052,40 +655,9 @@
       "IconUrl": "https://cdn.modrinth.com/data/sQCUH0Mr/ea7fb8092c2d318e5388159d9dffc3091f636f66.png",
       "ClientSupport": "required",
       "ServerSupport": "unsupported",
-      "RequiredProjectIds": []
-    },
-    {
-      "Path": "mods/syncmatica-fabric-26.2-0.3.20.jar",
-      "Url": "https://cdn.modrinth.com/data/bfneejKo/versions/POv0nHxV/syncmatica-fabric-26.2-0.3.20.jar",
-      "Sha256": "2ff96998e1487514bed2845fd5256ad6e4f0308ea79146c4dbd34149c28b2c4e",
-      "Size": 609226,
-      "Side": "both",
-      "ProjectId": "bfneejKo",
-      "VersionId": "POv0nHxV",
-      "Title": "Syncmatica",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/bfneejKo/0792df2997b30cfa6d3e9e510d38b5c7f6ada442_96.webp",
-      "ClientSupport": "required",
-      "ServerSupport": "required",
-      "RequiredProjectIds": []
-    },
-    {
-      "Path": "mods/controlify-3.4.1\u002Bmc26.2-universal.jar",
-      "Url": "https://cdn.modrinth.com/data/DOUdJVEm/versions/E2Rvo2Q0/controlify-3.4.1%2Bmc26.2-universal.jar",
-      "Sha256": "2040639e5a382226b09c0da311c8dfb109b2314031c5136d21dee1aa4cb2f0bb",
-      "Size": 6335401,
-      "Side": "client",
-      "ProjectId": "DOUdJVEm",
-      "VersionId": "E2Rvo2Q0",
-      "Title": "Controlify (Controller support)",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/DOUdJVEm/5a6c126c4c761ba3e8e9d3ef09a68e16ff60ff22_96.webp",
-      "ClientSupport": "required",
-      "ServerSupport": "optional",
-      "RequiredProjectIds": [
-        "1eAoo2KR",
-        "P7dR8mSH"
-      ]
+      "RequiredProjectIds": [],
+      "Disabled": false,
+      "DisabledReason": null
     },
     {
       "Path": "mods/Visible Traders-2.5.1-universal.jar",
@@ -1100,73 +672,9 @@
       "IconUrl": "https://cdn.modrinth.com/data/AhllI99f/dba9c9307ecf529c142fbf213a865a10888246e0_96.webp",
       "ClientSupport": "required",
       "ServerSupport": "required",
-      "RequiredProjectIds": []
-    },
-    {
-      "Path": "mods/fastback-fabric-0.34.0\u002B26.2.0.jar",
-      "Url": "https://cdn.modrinth.com/data/ZHKrK8Rp/versions/EVNH1CA6/fastback-fabric-0.34.0%2B26.2.0.jar",
-      "Sha256": "e200fc784fbdca0fc1e363a1771bc6dc27bf828e459b9f8e7c482a50bd6e3245",
-      "Size": 5597760,
-      "Side": "server",
-      "ProjectId": "ZHKrK8Rp",
-      "VersionId": "EVNH1CA6",
-      "Title": "Fast Backups",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/ZHKrK8Rp/a7e5015060e1715be5bdfc19953749a657ed7b9c_96.webp",
-      "ClientSupport": "unsupported",
-      "ServerSupport": "required",
-      "RequiredProjectIds": [
-        "P7dR8mSH"
-      ]
-    },
-    {
-      "Path": "mods/servux-fabric-26.2-0.11.3.jar",
-      "Url": "https://cdn.modrinth.com/data/zQhsx8KF/versions/Er2wlain/servux-fabric-26.2-0.11.3.jar",
-      "Sha256": "260164b3a9933902226e473dd5928179541806f9f5dde84a7a4e86e02746d6eb",
-      "Size": 926401,
-      "Side": "server",
-      "ProjectId": "zQhsx8KF",
-      "VersionId": "Er2wlain",
-      "Title": "Servux",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/zQhsx8KF/57cebce8838ddc7b27b46eb98abd7f2fb0b87105_96.webp",
-      "ClientSupport": "unsupported",
-      "ServerSupport": "required",
-      "RequiredProjectIds": []
-    },
-    {
-      "Path": "mods/AccurateBlockPlacement-Reborn-1.4.5\u002Bmc-26.1-26.2.jar",
-      "Url": "https://cdn.modrinth.com/data/kzwxhsjp/versions/RjUsYEKZ/AccurateBlockPlacement-Reborn-1.4.5%2Bmc-26.1-26.2.jar",
-      "Sha256": "68ebb009687431b6e07e535c7f531cdfb41a3b37e548b063f9ba4e3bbd4c8a86",
-      "Size": 45864,
-      "Side": "client",
-      "ProjectId": "kzwxhsjp",
-      "VersionId": "RjUsYEKZ",
-      "Title": "Accurate Block Placement Reborn",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/kzwxhsjp/d625b497fc032d684c9c9d1826ee04fbef9f37d9_96.webp",
-      "ClientSupport": "required",
-      "ServerSupport": "unsupported",
-      "RequiredProjectIds": [
-        "P7dR8mSH"
-      ]
-    },
-    {
-      "Path": "mods/Clumps-fabric-26.2-26.2.1.jar",
-      "Url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/dEMopoOJ/Clumps-fabric-26.2-26.2.1.jar",
-      "Sha256": "dc9544190abfb65a3c9ddc5dad1523c9dfc5a732344f528d908b950894398e8c",
-      "Size": 19950,
-      "Side": "client",
-      "ProjectId": "Wnxd13zP",
-      "VersionId": "dEMopoOJ",
-      "Title": "Clumps",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/Wnxd13zP/6a965bb7974c3e759a53a1c89c35de4acd4cf86a_96.webp",
-      "ClientSupport": "optional",
-      "ServerSupport": "optional",
-      "RequiredProjectIds": [
-        "P7dR8mSH"
-      ]
+      "RequiredProjectIds": [],
+      "Disabled": false,
+      "DisabledReason": null
     },
     {
       "Path": "mods/ScalableLux-fabric-0.3.0-alpha.0.3-all.jar",
@@ -1181,7 +689,9 @@
       "IconUrl": "https://cdn.modrinth.com/data/Ps1zyz6x/27133942a1a58af1bb11b087957ea4cc14414dd3_96.webp",
       "ClientSupport": "optional",
       "ServerSupport": "optional",
-      "RequiredProjectIds": []
+      "RequiredProjectIds": [],
+      "Disabled": true,
+      "DisabledReason": "No full Fabric release for Minecraft 26.3."
     },
     {
       "Path": "mods/carpet-extra-26.2-26.2.jar",
@@ -1198,24 +708,9 @@
       "ServerSupport": "required",
       "RequiredProjectIds": [
         "TQTTVgYE"
-      ]
-    },
-    {
-      "Path": "mods/bbe-fabric-1.3.8-beta.1\u002Bmc26.2.jar",
-      "Url": "https://cdn.modrinth.com/data/ONZm0H7Y/versions/Sr2VjbpG/bbe-fabric-1.3.8-beta.1%2Bmc26.2.jar",
-      "Sha256": "03252c944c314c767e759850199817b013788e4d09113834a15d09d91d669f5f",
-      "Size": 206826,
-      "Side": "client",
-      "ProjectId": "ONZm0H7Y",
-      "VersionId": "Sr2VjbpG",
-      "Title": "Better Block Entities",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/ONZm0H7Y/5ff4f3ad6948a0bf185f641c407878932bae3dcf.png",
-      "ClientSupport": "required",
-      "ServerSupport": "unsupported",
-      "RequiredProjectIds": [
-        "AANobbMI"
-      ]
+      ],
+      "Disabled": true,
+      "DisabledReason": "No full Fabric release for Minecraft 26.3."
     },
     {
       "Path": "mods/voxy-0.2.18-beta.jar",
@@ -1233,117 +728,9 @@
       "RequiredProjectIds": [
         "AANobbMI",
         "P7dR8mSH"
-      ]
-    },
-    {
-      "Path": "mods/sodium-fabric-0.9.1\u002Bmc26.2.jar",
-      "Url": "https://cdn.modrinth.com/data/AANobbMI/versions/2Yom1N68/sodium-fabric-0.9.1%2Bmc26.2.jar",
-      "Sha256": "de406c7a0ca5e748dfbe44740278400882a44e3109e2584b243ec02d4003344b",
-      "Size": 1834384,
-      "Side": "client",
-      "ProjectId": "AANobbMI",
-      "VersionId": "2Yom1N68",
-      "Title": "Sodium",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/AANobbMI/295862f4724dc3f78df3447ad6072b2dcd3ef0c9_96.webp",
-      "ClientSupport": "required",
-      "ServerSupport": "unsupported",
-      "RequiredProjectIds": []
-    },
-    {
-      "Path": "mods/fabric-carpet-26.2\u002Bv260616.jar",
-      "Url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/bGrLxJ8v/fabric-carpet-26.2%2Bv260616.jar",
-      "Sha256": "f6ada912af65c91536d4b0d80adf26cc438253252ddaf259f2c6617ae471311c",
-      "Size": 1536362,
-      "Side": "server",
-      "ProjectId": "TQTTVgYE",
-      "VersionId": "bGrLxJ8v",
-      "Title": "Carpet",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/TQTTVgYE/3ad650635d067b6bfa09403cf5e70e0947a05c07_96.webp",
-      "ClientSupport": "optional",
-      "ServerSupport": "required",
-      "RequiredProjectIds": []
-    },
-    {
-      "Path": "mods/calcmod-1.5.2\u002Bfabric.26.2.jar",
-      "Url": "https://cdn.modrinth.com/data/XoHTb2Ap/versions/qyk9ZGgC/calcmod-1.5.2%2Bfabric.26.2.jar",
-      "Sha256": "67ca81e088a87c90cc967ef343fa31e65ef2e484d2092c00225b008cfa9ecdaa",
-      "Size": 649936,
-      "Side": "client",
-      "ProjectId": "XoHTb2Ap",
-      "VersionId": "qyk9ZGgC",
-      "Title": "CalcMod",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/XoHTb2Ap/fe87f9fb4d48afbe539314b17e1be68ba242e58a.gif",
-      "ClientSupport": "optional",
-      "ServerSupport": "optional",
-      "RequiredProjectIds": []
-    },
-    {
-      "Path": "mods/techutils-0.7.2\u002B26.2.jar",
-      "Url": "https://cdn.modrinth.com/data/hNoAJSm7/versions/heGChvzg/techutils-0.7.2%2B26.2.jar",
-      "Sha256": "f82909c35d38326d8ae90a11b40c53973a183c594c1133f45862f8d211dd6f7f",
-      "Size": 226789,
-      "Side": "client",
-      "ProjectId": "hNoAJSm7",
-      "VersionId": "heGChvzg",
-      "Title": "Technical Utilities",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/hNoAJSm7/285fc69f9208b8fd73340730497bc3f92ae542bd_96.webp",
-      "ClientSupport": "required",
-      "ServerSupport": "unsupported",
-      "RequiredProjectIds": [
-        "bEpr0Arc",
-        "GcWjdA9I"
-      ]
-    },
-    {
-      "Path": "mods/litematica-fabric-26.2-0.28.5.jar",
-      "Url": "https://cdn.modrinth.com/data/bEpr0Arc/versions/Fhq3KCI8/litematica-fabric-26.2-0.28.5.jar",
-      "Sha256": "e711f69b0899ab3c4afafd49e7b825aa7d5051ee5358c88fef36023c612ae91a",
-      "Size": 1921299,
-      "Side": "client",
-      "ProjectId": "bEpr0Arc",
-      "VersionId": "Fhq3KCI8",
-      "Title": "Litematica",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/bEpr0Arc/25b5529d7a3b030ac136a6ce879d8ed2a1aa4a8d.png",
-      "ClientSupport": "required",
-      "ServerSupport": "unsupported",
-      "RequiredProjectIds": [
-        "GcWjdA9I"
-      ]
-    },
-    {
-      "Path": "mods/malilib-fabric-26.2-0.29.4.jar",
-      "Url": "https://cdn.modrinth.com/data/GcWjdA9I/versions/ZCq1iE1J/malilib-fabric-26.2-0.29.4.jar",
-      "Sha256": "a691f78959e19ac0e1224e5f3aec63c5fc705ba2b9b7c3a86367e569b95bf2c8",
-      "Size": 2024974,
-      "Side": "client",
-      "ProjectId": "GcWjdA9I",
-      "VersionId": "ZCq1iE1J",
-      "Title": "MaLiLib",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/GcWjdA9I/a530ae55df5e0c405f5cf1b3e4fd6163a398bdc3.png",
-      "ClientSupport": "required",
-      "ServerSupport": "unsupported",
-      "RequiredProjectIds": []
-    },
-    {
-      "Path": "mods/worldedit-mod-7.4.4.jar",
-      "Url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/j2w3GmPv/worldedit-mod-7.4.4.jar",
-      "Sha256": "5f257ffcaebf055d16171952cce5c2fea9d653a5c3b4f97f8139826068dd019b",
-      "Size": 5107529,
-      "Side": "server",
-      "ProjectId": "1u6JkXh5",
-      "VersionId": "j2w3GmPv",
-      "Title": "WorldEdit",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/1u6JkXh5/30698991048ced77e60c4e8284007d3782f2e6a3_96.webp",
-      "ClientSupport": "unknown",
-      "ServerSupport": "unknown",
-      "RequiredProjectIds": []
+      ],
+      "Disabled": true,
+      "DisabledReason": "No full Fabric release for Minecraft 26.3."
     },
     {
       "Path": "resourcepacks/tool-trims-v3.0.7-for-1.21.11\u002B.zip",
@@ -1358,189 +745,9 @@
       "IconUrl": "https://cdn.modrinth.com/data/uXeEiQk1/e0fd40280e8769c83dce9847ed8523e382a2e4e9_96.webp",
       "ClientSupport": "required",
       "ServerSupport": "unsupported",
-      "RequiredProjectIds": []
-    },
-    {
-      "Path": "mods/proper-pet-tp-1.2.5.jar",
-      "Url": "https://cdn.modrinth.com/data/KbPewBWv/versions/dPJwlGax/proper-pet-tp-1.2.5.jar",
-      "Sha256": "37acf48d0aafa7e7f8f25eae746e82baf7f21e4c08a5c406d114d28469afd595",
-      "Size": 39590,
-      "Side": "server",
-      "ProjectId": "KbPewBWv",
-      "VersionId": "dPJwlGax",
-      "Title": "Proper Pet Teleport",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/KbPewBWv/5838f022d4684b2e16374e5c05440be400cdf8b0_96.webp",
-      "ClientSupport": "unsupported",
-      "ServerSupport": "required",
-      "RequiredProjectIds": [
-        "P7dR8mSH"
-      ]
-    },
-    {
-      "Path": "mods/yet_another_config_lib_v3-3.9.6\u002B26.2-fabric.jar",
-      "Url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/cnfPzuFU/yet_another_config_lib_v3-3.9.6%2B26.2-fabric.jar",
-      "Sha256": "829396c3b3e7d1801ae0e9e2921d0454c5a3078afdb6c6dda6b3d1819dfa0e3f",
-      "Size": 1121529,
-      "Side": "client",
-      "ProjectId": "1eAoo2KR",
-      "VersionId": "cnfPzuFU",
-      "Title": "YetAnotherConfigLib (YACL)",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/1eAoo2KR/08c0cd32515e260f4bb20bbc0696510041523f9a_96.webp",
-      "ClientSupport": "optional",
-      "ServerSupport": "optional",
-      "RequiredProjectIds": [
-        "P7dR8mSH"
-      ]
-    },
-    {
-      "Path": "mods/zoomify-2.16.1\u002B26.2.jar",
-      "Url": "https://cdn.modrinth.com/data/w7ThoJFB/versions/QWTzJNJY/zoomify-2.16.1%2B26.2.jar",
-      "Sha256": "e014d36408e3d957bfce4d02d55d3703041902fa88bf96062694d69234b2d9e9",
-      "Size": 562176,
-      "Side": "client",
-      "ProjectId": "w7ThoJFB",
-      "VersionId": "QWTzJNJY",
-      "Title": "Zoomify (Zoom)",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/w7ThoJFB/e2de67a0bfb9e8aa2347982ab3ec5463f26cca31_96.webp",
-      "ClientSupport": "required",
-      "ServerSupport": "unsupported",
-      "RequiredProjectIds": [
-        "1eAoo2KR",
-        "P7dR8mSH",
-        "Ha28R6CL"
-      ]
-    },
-    {
-      "Path": "mods/freecam-fabric-1.4.1\u002Bmc26.2.jar",
-      "Url": "https://cdn.modrinth.com/data/XeEZ3fK2/versions/r125dZ2j/freecam-fabric-1.4.1%2Bmc26.2.jar",
-      "Sha256": "ec94a9ee28780277486f1a778f8b97b11f0563f3bfe5183a368af789d745ded4",
-      "Size": 1370306,
-      "Side": "client",
-      "ProjectId": "XeEZ3fK2",
-      "VersionId": "r125dZ2j",
-      "Title": "Freecam",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/XeEZ3fK2/9529a900a2aa6ed56c1b3167f165bac91b3acd6e_96.webp",
-      "ClientSupport": "required",
-      "ServerSupport": "unsupported",
-      "RequiredProjectIds": []
-    },
-    {
-      "Path": "mods/fabric-language-kotlin-1.13.13\u002Bkotlin.2.4.10.jar",
-      "Url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/bdhiINYC/fabric-language-kotlin-1.13.13%2Bkotlin.2.4.10.jar",
-      "Sha256": "34ccdacf13bb9351fe43ce61912c2e09b72364e43e787d36ba3d2d04dec75a52",
-      "Size": 8076363,
-      "Side": "client",
-      "ProjectId": "Ha28R6CL",
-      "VersionId": "bdhiINYC",
-      "Title": "Fabric Language Kotlin",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/Ha28R6CL/72c3d74aeb665e45aea93a945a01474cbce3b7da_96.webp",
-      "ClientSupport": "optional",
-      "ServerSupport": "optional",
-      "RequiredProjectIds": []
-    },
-    {
-      "Path": "mods/libIPN-fabric-26.2-6.8.3.jar",
-      "Url": "https://cdn.modrinth.com/data/onSQdWhM/versions/SkvWSBFK/libIPN-fabric-26.2-6.8.3.jar",
-      "Sha256": "46ee9e464c41a5641e89835782f0bec5ba93efb9d0010d0fcc3fda22e472f976",
-      "Size": 637800,
-      "Side": "client",
-      "ProjectId": "onSQdWhM",
-      "VersionId": "SkvWSBFK",
-      "Title": "libIPN",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/onSQdWhM/feb2d62d9f150539bfd2a69d373866b1e643545c_96.webp",
-      "ClientSupport": "required",
-      "ServerSupport": "unsupported",
-      "RequiredProjectIds": [
-        "P7dR8mSH",
-        "Ha28R6CL"
-      ]
-    },
-    {
-      "Path": "mods/cloth-config-26.2.155.jar",
-      "Url": "https://cdn.modrinth.com/data/9s6osm5g/versions/Nv3xnWXd/cloth-config-26.2.155.jar",
-      "Sha256": "def4be7639cd66704f7e304d658ea0f6bf490fb4a6eaa2dbf18ec2c3999d6349",
-      "Size": 1135186,
-      "Side": "client",
-      "ProjectId": "9s6osm5g",
-      "VersionId": "Nv3xnWXd",
-      "Title": "Cloth Config API",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/9s6osm5g/ed8a2316cbb6f4fc5f510e8e13a59a85cbbbff4d_96.webp",
-      "ClientSupport": "optional",
-      "ServerSupport": "optional",
-      "RequiredProjectIds": []
-    },
-    {
-      "Path": "mods/fabric-api-0.159.0\u002B26.2.jar",
-      "Url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/BgeCGgGZ/fabric-api-0.159.0%2B26.2.jar",
-      "Sha256": "3f3a5d96e6a8f554a72e71fb507d6a979ca16d9190c305ceb1300f1d01e733ee",
-      "Size": 2535793,
-      "Side": "client",
-      "ProjectId": "P7dR8mSH",
-      "VersionId": "BgeCGgGZ",
-      "Title": "Fabric API",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/P7dR8mSH/icon.png",
-      "ClientSupport": "optional",
-      "ServerSupport": "optional",
-      "RequiredProjectIds": []
-    },
-    {
-      "Path": "mods/placeholder-api-3.1.0-beta.1\u002B26.2.jar",
-      "Url": "https://cdn.modrinth.com/data/eXts2L7r/versions/NDqH16LT/placeholder-api-3.1.0-beta.1%2B26.2.jar",
-      "Sha256": "c2ca2b5c397a0c198a32e7af68d2d0a011bc2c7baeae5cffd3996efd65c5069e",
-      "Size": 254973,
-      "Side": "client",
-      "ProjectId": "eXts2L7r",
-      "VersionId": "NDqH16LT",
-      "Title": "Text Placeholder API",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/eXts2L7r/e9c9990896e6422bffc5f73d2c41b8f077348f83.png",
-      "ClientSupport": "optional",
-      "ServerSupport": "optional",
-      "RequiredProjectIds": []
-    },
-    {
-      "Path": "mods/modmenu-20.0.1.jar",
-      "Url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/njXb639R/modmenu-20.0.1.jar",
-      "Sha256": "81bfbca06012c57c74949072f2ffaad06360badee4d00dc59bfaeac80dd24bd8",
-      "Size": 614002,
-      "Side": "client",
-      "ProjectId": "mOgUt4GM",
-      "VersionId": "njXb639R",
-      "Title": "Mod Menu",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/mOgUt4GM/5a20ed1450a0e1e79a1fe04e61bb4e5878bf1d20.png",
-      "ClientSupport": "required",
-      "ServerSupport": "unsupported",
-      "RequiredProjectIds": [
-        "P7dR8mSH",
-        "eXts2L7r"
-      ]
-    },
-    {
-      "Path": "mods/clientsort-fabric-3.103.1\u002B26.2.jar",
-      "Url": "https://cdn.modrinth.com/data/K0AkAin6/versions/LihNJSox/clientsort-fabric-3.103.1%2B26.2.jar",
-      "Sha256": "8ce6c97e2aa8bc8527dfe84b16e3ec3bab4a3e6261f03a3cc910e84fc5056c8a",
-      "Size": 350271,
-      "Side": "client",
-      "ProjectId": "K0AkAin6",
-      "VersionId": "LihNJSox",
-      "Title": "Client Sort",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/K0AkAin6/7cf06458738334bd5d8cd77d086529d453f56ef6_96.webp",
-      "ClientSupport": "required",
-      "ServerSupport": "optional",
-      "RequiredProjectIds": [
-        "9s6osm5g",
-        "mOgUt4GM"
-      ]
+      "RequiredProjectIds": [],
+      "Disabled": false,
+      "DisabledReason": null
     },
     {
       "Path": "resourcepacks/Appa Ghasts1.3.1.zip",
@@ -1555,7 +762,1067 @@
       "IconUrl": "https://cdn.modrinth.com/data/olobHVzX/a60db7ac18438129d6017e32145fdf4843a73eca_96.webp",
       "ClientSupport": "required",
       "ServerSupport": "unsupported",
-      "RequiredProjectIds": []
+      "RequiredProjectIds": [],
+      "Disabled": false,
+      "DisabledReason": null
+    },
+    {
+      "Path": "mods/fabric-carpet-26.3\u002Bv260915.jar",
+      "Url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/yt9oDFOj/fabric-carpet-26.3%2Bv260915.jar",
+      "Sha256": "7c40b93e807ed914064176898037117097446c6cc76e6a80a856c8bf7f7659f9",
+      "Size": 1541420,
+      "Side": "server",
+      "ProjectId": "TQTTVgYE",
+      "VersionId": "yt9oDFOj",
+      "Title": "Carpet",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/TQTTVgYE/3ad650635d067b6bfa09403cf5e70e0947a05c07_96.webp",
+      "ClientSupport": "optional",
+      "ServerSupport": "required",
+      "RequiredProjectIds": [],
+      "Disabled": false,
+      "DisabledReason": null
+    },
+    {
+      "Path": "mods/proper-pet-tp-1.2.6.jar",
+      "Url": "https://cdn.modrinth.com/data/KbPewBWv/versions/L2hHTHyp/proper-pet-tp-1.2.6.jar",
+      "Sha256": "72a94b8a7e896b9019e02c207ed71b9d06ab3485c259e42de12f2e22a54341af",
+      "Size": 39592,
+      "Side": "server",
+      "ProjectId": "KbPewBWv",
+      "VersionId": "L2hHTHyp",
+      "Title": "Proper Pet Teleport",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/KbPewBWv/5838f022d4684b2e16374e5c05440be400cdf8b0_96.webp",
+      "ClientSupport": "unsupported",
+      "ServerSupport": "required",
+      "RequiredProjectIds": [
+        "P7dR8mSH"
+      ],
+      "Disabled": false,
+      "DisabledReason": null
+    },
+    {
+      "Path": "mods/fabric-api-0.165.0\u002B26.3.jar",
+      "Url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/EQKgpeKu/fabric-api-0.165.0%2B26.3.jar",
+      "Sha256": "18442e2ad466d6ef41c37dbb4cb68495e6ca6658b1f1ee9be76143d155ef2c88",
+      "Size": 1778588,
+      "Side": "server",
+      "ProjectId": "P7dR8mSH",
+      "VersionId": "EQKgpeKu",
+      "Title": "Fabric API",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/P7dR8mSH/icon.png",
+      "ClientSupport": "optional",
+      "ServerSupport": "optional",
+      "RequiredProjectIds": [],
+      "Disabled": false,
+      "DisabledReason": null
+    },
+    {
+      "Path": "mods/jamlib-fabric-2.3.1\u002B26.3.x.jar",
+      "Url": "https://cdn.modrinth.com/data/IYY9Siz8/versions/EbhilCj8/jamlib-fabric-2.3.1%2B26.3.x.jar",
+      "Sha256": "008da4bad204ae00d89a6de81e72e04b85f74d1c57132097f2f8b70d871ffd94",
+      "Size": 265050,
+      "Side": "server",
+      "ProjectId": "IYY9Siz8",
+      "VersionId": "EbhilCj8",
+      "Title": "JamLib",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/IYY9Siz8/7585f4d35b18467c2d0d9c496e3b7cd4919c413a_96.webp",
+      "ClientSupport": "required",
+      "ServerSupport": "required",
+      "RequiredProjectIds": [
+        "P7dR8mSH"
+      ],
+      "Disabled": false,
+      "DisabledReason": null
+    },
+    {
+      "Path": "mods/rightclickharvest-fabric-4.6.2\u002B26.3.x.jar",
+      "Url": "https://cdn.modrinth.com/data/Cnejf5xM/versions/MTui9kST/rightclickharvest-fabric-4.6.2%2B26.3.x.jar",
+      "Sha256": "27d20ed4c41e4eb0fae82b6d7164ba739b8330b028da078ffbc580052538e4bb",
+      "Size": 280022,
+      "Side": "server",
+      "ProjectId": "Cnejf5xM",
+      "VersionId": "MTui9kST",
+      "Title": "RightClickHarvest",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/Cnejf5xM/b6e535989217836c2adc49b06f4b3c8f429afda3_96.webp",
+      "ClientSupport": "unsupported",
+      "ServerSupport": "required",
+      "RequiredProjectIds": [
+        "IYY9Siz8",
+        "P7dR8mSH"
+      ],
+      "Disabled": false,
+      "DisabledReason": null
+    },
+    {
+      "Path": "mods/servux-fabric-26.3-0.12.2.jar",
+      "Url": "https://cdn.modrinth.com/data/zQhsx8KF/versions/azA4UG3T/servux-fabric-26.3-0.12.2.jar",
+      "Sha256": "ef7d39903ccd75550776bb58bb1ec2689fedc6a6a30205dc7f6246e63a993f97",
+      "Size": 935568,
+      "Side": "server",
+      "ProjectId": "zQhsx8KF",
+      "VersionId": "azA4UG3T",
+      "Title": "Servux",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/zQhsx8KF/57cebce8838ddc7b27b46eb98abd7f2fb0b87105_96.webp",
+      "ClientSupport": "unsupported",
+      "ServerSupport": "required",
+      "RequiredProjectIds": [],
+      "Disabled": false,
+      "DisabledReason": null
+    },
+    {
+      "Path": "mods/syncmatica-fabric-26.3-0.3.20.jar",
+      "Url": "https://cdn.modrinth.com/data/bfneejKo/versions/uT7TJ2Wp/syncmatica-fabric-26.3-0.3.20.jar",
+      "Sha256": "ec1f272c1f640d9d9c161f9969cfddafae94e705679b22c0f767a9ea256f20b4",
+      "Size": 633198,
+      "Side": "server",
+      "ProjectId": "bfneejKo",
+      "VersionId": "uT7TJ2Wp",
+      "Title": "Syncmatica",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/bfneejKo/0792df2997b30cfa6d3e9e510d38b5c7f6ada442_96.webp",
+      "ClientSupport": "required",
+      "ServerSupport": "required",
+      "RequiredProjectIds": [],
+      "Disabled": false,
+      "DisabledReason": null
+    },
+    {
+      "Path": "mods/voxy-server-side-fabric.jar",
+      "Url": "https://cdn.modrinth.com/data/84zcagOb/versions/T7UC95an/voxy-server-side-fabric.jar",
+      "Sha256": "b8275a14eae3efa0ac5988c7de6e7fcea1f2b8831234235ba4255ceb0278f1c2",
+      "Size": 9304289,
+      "Side": "server",
+      "ProjectId": "84zcagOb",
+      "VersionId": "T7UC95an",
+      "Title": "Voxy Server Side",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/84zcagOb/8f13eacb45ff56be05d77190237cd7d159cb136f.png",
+      "ClientSupport": "required",
+      "ServerSupport": "required",
+      "RequiredProjectIds": [],
+      "Disabled": false,
+      "DisabledReason": null
+    },
+    {
+      "Path": "mods/worldedit-mod-7.4.6.jar",
+      "Url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/ByRNkO83/worldedit-mod-7.4.6.jar",
+      "Sha256": "24f2338ac9d5e7205f15cdb4a118924c5d9cbd48ab0cabf8ba36b07b7d64c22b",
+      "Size": 5166790,
+      "Side": "server",
+      "ProjectId": "1u6JkXh5",
+      "VersionId": "ByRNkO83",
+      "Title": "WorldEdit",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/1u6JkXh5/30698991048ced77e60c4e8284007d3782f2e6a3_96.webp",
+      "ClientSupport": "unknown",
+      "ServerSupport": "unknown",
+      "RequiredProjectIds": [],
+      "Disabled": false,
+      "DisabledReason": null
+    },
+    {
+      "Path": "mods/continuity-3.0.1\u002B26.3.jar",
+      "Url": "https://cdn.modrinth.com/data/1IjD5062/versions/Jt2sCWTQ/continuity-3.0.1%2B26.3.jar",
+      "Sha256": "429fb0946118e86cce8ace8b57d07e1971088fb3f8115439bb0f2f12df14f511",
+      "Size": 1002033,
+      "Side": "client",
+      "ProjectId": "1IjD5062",
+      "VersionId": "Jt2sCWTQ",
+      "Title": "Continuity",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/1IjD5062/icon.png",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": [
+        "P7dR8mSH"
+      ],
+      "Disabled": false,
+      "DisabledReason": null
+    },
+    {
+      "Path": "mods/iris-fabric-1.11.7\u002Bmc26.3.jar",
+      "Url": "https://cdn.modrinth.com/data/YL57xq9U/versions/vTN4NRGW/iris-fabric-1.11.7%2Bmc26.3.jar",
+      "Sha256": "83ab4d3013dd56ac05ae503a2f596968911001c4ef3d82c59c5c79e64c34dd98",
+      "Size": 2850938,
+      "Side": "client",
+      "ProjectId": "YL57xq9U",
+      "VersionId": "vTN4NRGW",
+      "Title": "Iris Shaders",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/YL57xq9U/18d0e7f076d3d6ed5bedd472b853909aac5da202_96.webp",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": [
+        "AANobbMI"
+      ],
+      "Disabled": false,
+      "DisabledReason": null
+    },
+    {
+      "Path": "mods/punchy-2.8g-fabric-26.3.jar",
+      "Url": "https://cdn.modrinth.com/data/8aoMKplv/versions/Fi951GUL/punchy-2.8g-fabric-26.3.jar",
+      "Sha256": "dbfd037bd9551bc6b8662d240d01e155219ebadfffe4aeda6d693c05d1e2ef46",
+      "Size": 2657033,
+      "Side": "client",
+      "ProjectId": "8aoMKplv",
+      "VersionId": "Fi951GUL",
+      "Title": "Punchy!",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/8aoMKplv/a9171ec026d659ccad5c3dff6fdfc80259d63e09.gif",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": [],
+      "Disabled": false,
+      "DisabledReason": null
+    },
+    {
+      "Path": "mods/atmospherics-2.6.8-mc-26.3.jar",
+      "Url": "https://cdn.modrinth.com/data/ft2cYBpB/versions/nptxMreF/atmospherics-2.6.8-mc-26.3.jar",
+      "Sha256": "f213bec769f133e5878b764dd32ddb7f47c1379f60649bc615517a785a6cba47",
+      "Size": 2479297,
+      "Side": "client",
+      "ProjectId": "ft2cYBpB",
+      "VersionId": "nptxMreF",
+      "Title": "ATMOSPHERICS",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/ft2cYBpB/f1c83677c61dfa796bf912c19856e7b72f1d12b9_96.webp",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": [],
+      "Disabled": false,
+      "DisabledReason": null
+    },
+    {
+      "Path": "mods/SubtleEffects-fabric-26.3-1.15.1-hotfix.1.jar",
+      "Url": "https://cdn.modrinth.com/data/4q8UOK1d/versions/kxxX36ei/SubtleEffects-fabric-26.3-1.15.1-hotfix.1.jar",
+      "Sha256": "8e6755f56af481edd3bc768fe2ec89cff624635bf755de6ec6b3572bdaf23aae",
+      "Size": 3513791,
+      "Side": "client",
+      "ProjectId": "4q8UOK1d",
+      "VersionId": "kxxX36ei",
+      "Title": "Subtle Effects",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/4q8UOK1d/8a5d3febe9a9badba435a3f66a49668d04ada01f_96.webp",
+      "ClientSupport": "required",
+      "ServerSupport": "optional",
+      "RequiredProjectIds": [
+        "hYykXjDp",
+        "P7dR8mSH"
+      ],
+      "Disabled": false,
+      "DisabledReason": null
+    },
+    {
+      "Path": "mods/ImmediatelyFast-Fabric-1.17.1\u002B26.3.jar",
+      "Url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/3MP9UR23/ImmediatelyFast-Fabric-1.17.1%2B26.3.jar",
+      "Sha256": "4b346661cd0811d98a6df8c9faeb8fafd9326ab88248430e8bec845ef1ff6dca",
+      "Size": 99586,
+      "Side": "client",
+      "ProjectId": "5ZwdcRci",
+      "VersionId": "3MP9UR23",
+      "Title": "ImmediatelyFast",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/5ZwdcRci/e57b6b451425692ac17ad322d5e14bea686a383a_96.webp",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": [],
+      "Disabled": false,
+      "DisabledReason": null
+    },
+    {
+      "Path": "mods/entityculling-fabric-1.11.3-mc26.3.jar",
+      "Url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/X1g3VhTx/entityculling-fabric-1.11.3-mc26.3.jar",
+      "Sha256": "d2f80514ee3382b1fa7afda4df762df50743226e3cd320b829ee507357aeafbc",
+      "Size": 1508547,
+      "Side": "client",
+      "ProjectId": "NNAgCjsB",
+      "VersionId": "X1g3VhTx",
+      "Title": "Entity Culling",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/NNAgCjsB/7873452d6cede4daed12da3d7d8c193ab88b4fd6_96.webp",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": [
+        "P7dR8mSH"
+      ],
+      "Disabled": false,
+      "DisabledReason": null
+    },
+    {
+      "Path": "mods/lithium-fabric-0.26.2\u002Bmc26.3.jar",
+      "Url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/xS0Q8LSi/lithium-fabric-0.26.2%2Bmc26.3.jar",
+      "Sha256": "0be5b17ef9f6e9244cd07b24b227553a73aec0cf93158cf28099f3094c167f1b",
+      "Size": 914543,
+      "Side": "client",
+      "ProjectId": "gvQqBUqZ",
+      "VersionId": "xS0Q8LSi",
+      "Title": "Lithium",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/gvQqBUqZ/bcc8686c13af0143adf4285d741256af824f70b7_96.webp",
+      "ClientSupport": "optional",
+      "ServerSupport": "optional",
+      "RequiredProjectIds": [],
+      "Disabled": false,
+      "DisabledReason": null
+    },
+    {
+      "Path": "mods/fzzy_config-0.7.7\u002Bfix3\u002B26.3.jar",
+      "Url": "https://cdn.modrinth.com/data/hYykXjDp/versions/YkOumqzV/fzzy_config-0.7.7%2Bfix3%2B26.3.jar",
+      "Sha256": "3d98c61215ae5eb2fe08db5cac6b0da08dc1b6f0a9ac082a3a9ead8eed736b2a",
+      "Size": 2375413,
+      "Side": "client",
+      "ProjectId": "hYykXjDp",
+      "VersionId": "YkOumqzV",
+      "Title": "Fzzy Config",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/hYykXjDp/11f469b1bf1f201a95c2e3ddc09ca47d85c3ed53.png",
+      "ClientSupport": "required",
+      "ServerSupport": "required",
+      "RequiredProjectIds": [
+        "P7dR8mSH",
+        "Ha28R6CL"
+      ],
+      "Disabled": false,
+      "DisabledReason": null
+    },
+    {
+      "Path": "mods/particle_core-0.3.3\u002Bfix1\u002B26.2.jar",
+      "Url": "https://cdn.modrinth.com/data/RSeLon5O/versions/NPLw1nMG/particle_core-0.3.3%2Bfix1%2B26.2.jar",
+      "Sha256": "63faafcec078ea567a410f75fe449ae6895d29028686a144c18e5121c9552a6b",
+      "Size": 141191,
+      "Side": "client",
+      "ProjectId": "RSeLon5O",
+      "VersionId": "NPLw1nMG",
+      "Title": "Particle Core",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/RSeLon5O/147110a6a4457b2f287f68fc626771f0f8ef2cde_96.webp",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": [
+        "Ha28R6CL",
+        "P7dR8mSH",
+        "hYykXjDp"
+      ],
+      "Disabled": false,
+      "DisabledReason": null
+    },
+    {
+      "Path": "mods/PresenceFootsteps-1.14.0\u002B26.3.jar",
+      "Url": "https://cdn.modrinth.com/data/rcTfTZr3/versions/UUNiN7Tm/PresenceFootsteps-1.14.0%2B26.3.jar",
+      "Sha256": "eefbce08d3da5b6fcf7b47fe336877298f9f4f98587d351375c7852e56658873",
+      "Size": 5760504,
+      "Side": "client",
+      "ProjectId": "rcTfTZr3",
+      "VersionId": "UUNiN7Tm",
+      "Title": "Presence Footsteps",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/rcTfTZr3/c08dc581f0bf3b729f86e962fa800463af86e9a2_96.webp",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": [
+        "P7dR8mSH"
+      ],
+      "Disabled": false,
+      "DisabledReason": null
+    },
+    {
+      "Path": "mods/entity_model_features-3.3.12-26.3-fabric.jar",
+      "Url": "https://cdn.modrinth.com/data/4I1XuqiY/versions/vF6qLXsA/entity_model_features-3.3.12-26.3-fabric.jar",
+      "Sha256": "4a8b04d26c94909a3ba9f08972fb475e7d39f715f666f99a294017baaa37cb69",
+      "Size": 665386,
+      "Side": "client",
+      "ProjectId": "4I1XuqiY",
+      "VersionId": "vF6qLXsA",
+      "Title": "[EMF] Entity Model Features",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/4I1XuqiY/6e5bbd0d06b1741bfdab6c0cfab6de8fdaf0064c_96.webp",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": [
+        "BVzZfTc1"
+      ],
+      "Disabled": false,
+      "DisabledReason": null
+    },
+    {
+      "Path": "mods/entity_texture_features-7.2.6-26.3-fabric.jar",
+      "Url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/OOEycXyN/entity_texture_features-7.2.6-26.3-fabric.jar",
+      "Sha256": "9ae73892099aa759e0cfc0ccb1fcba3986e27a7c743ad5832310ba8ca58f644a",
+      "Size": 793054,
+      "Side": "client",
+      "ProjectId": "BVzZfTc1",
+      "VersionId": "OOEycXyN",
+      "Title": "[ETF] Entity Texture Features",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/BVzZfTc1/af683d206d50b05258d865b0d6e4aa2f2cee12f2_96.webp",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": [],
+      "Disabled": false,
+      "DisabledReason": null
+    },
+    {
+      "Path": "mods/EuphoriaPatcher-1.10.5-r5.9.3-fabric.jar",
+      "Url": "https://cdn.modrinth.com/data/4H6sumDB/versions/YYczPGkW/EuphoriaPatcher-1.10.5-r5.9.3-fabric.jar",
+      "Sha256": "f6be638d63462d765004d08f912a105db981dc6a24ba2dd6b5e22b5fab416589",
+      "Size": 4602936,
+      "Side": "client",
+      "ProjectId": "4H6sumDB",
+      "VersionId": "YYczPGkW",
+      "Title": "Euphoria Patches",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/4H6sumDB/437130f3f10997f720ff0b788cb24cde3b3b8541.png",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": [],
+      "Disabled": false,
+      "DisabledReason": null
+    },
+    {
+      "Path": "mods/dense-flowers-0.3.1\u002Bmc26.2.jar",
+      "Url": "https://cdn.modrinth.com/data/Ud3A1Fat/versions/hAZimeFe/dense-flowers-0.3.1%2Bmc26.2.jar",
+      "Sha256": "a4f9904a517479c91e7e0db1e96b8fc3db4a38b09b4ce07ce0a377d8673f8840",
+      "Size": 358349,
+      "Side": "client",
+      "ProjectId": "Ud3A1Fat",
+      "VersionId": "hAZimeFe",
+      "Title": "Dense Flowers",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/Ud3A1Fat/0665c89b0ac3cd47d9ac5be80484afaafb743cba_96.webp",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": [
+        "AANobbMI",
+        "P7dR8mSH"
+      ],
+      "Disabled": false,
+      "DisabledReason": null
+    },
+    {
+      "Path": "mods/atmosfera-2.7.3\u002Bmc26.3.jar",
+      "Url": "https://cdn.modrinth.com/data/28G1xpgF/versions/Vr3B8x98/atmosfera-2.7.3%2Bmc26.3.jar",
+      "Sha256": "ac01c2640d9215bc1e7d803de889707134244825eb5b187980c0a259fa96f129",
+      "Size": 64187333,
+      "Side": "client",
+      "ProjectId": "28G1xpgF",
+      "VersionId": "Vr3B8x98",
+      "Title": "Atmosfera",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/28G1xpgF/960d74bc4b8c720751ea754631b593feee13e63c.png",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": [
+        "P7dR8mSH",
+        "9s6osm5g"
+      ],
+      "Disabled": false,
+      "DisabledReason": null
+    },
+    {
+      "Path": "mods/coolrain-1.4.0-26.3.jar",
+      "Url": "https://cdn.modrinth.com/data/iDyqnQLT/versions/K9R06E1l/coolrain-1.4.0-26.3.jar",
+      "Sha256": "dc0eedebaf731ce628f2d6b0257b9b86c7f767b7db2da3fdcaece2827eda9f78",
+      "Size": 4140002,
+      "Side": "client",
+      "ProjectId": "iDyqnQLT",
+      "VersionId": "K9R06E1l",
+      "Title": "Cool Rain",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/iDyqnQLT/a252e26685c30f1ae82a47b087b01fa6b968a6f1_96.webp",
+      "ClientSupport": "required",
+      "ServerSupport": "optional",
+      "RequiredProjectIds": [],
+      "Disabled": false,
+      "DisabledReason": null
+    },
+    {
+      "Path": "mods/ParticleEffects-1.6.0\u002B26.3\u002Bfabric.jar",
+      "Url": "https://cdn.modrinth.com/data/PLAGcSFJ/versions/QC0b0jJo/ParticleEffects-1.6.0%2B26.3%2Bfabric.jar",
+      "Sha256": "7d155ddea5bf0ef21f5122379f74dbb86ba6298b80a8c223907f22921b0d4c1c",
+      "Size": 314827,
+      "Side": "client",
+      "ProjectId": "PLAGcSFJ",
+      "VersionId": "QC0b0jJo",
+      "Title": "Particle Effects",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/PLAGcSFJ/a1c206381f51a0fb2bf5e5e38bb850392b31141b_96.webp",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": [
+        "P7dR8mSH"
+      ],
+      "Disabled": false,
+      "DisabledReason": null
+    },
+    {
+      "Path": "mods/VoxyServer-1.2.5-36.3.jar",
+      "Url": "https://cdn.modrinth.com/data/fNtGd1cx/versions/Rrtp8wi8/VoxyServer-1.2.5-36.3.jar",
+      "Sha256": "742eb3e03774f3c46540340d97398b57b29df820bf0f683c034b240b01dfc00d",
+      "Size": 1727821,
+      "Side": "both",
+      "ProjectId": "fNtGd1cx",
+      "VersionId": "Rrtp8wi8",
+      "Title": "Voxy Server",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/fNtGd1cx/93fb864b5e98bc72e5392899525f33c0395b4c67_96.webp",
+      "ClientSupport": "required",
+      "ServerSupport": "required",
+      "RequiredProjectIds": [],
+      "Disabled": true,
+      "DisabledReason": "Required dependency voxy is unavailable or disabled."
+    },
+    {
+      "Path": "mods/shulkerboxtooltip-fabric-5.4.2\u002B26.3.jar",
+      "Url": "https://cdn.modrinth.com/data/2M01OLQq/versions/Cj9VEeGt/shulkerboxtooltip-fabric-5.4.2%2B26.3.jar",
+      "Sha256": "5bf3c3a59315480122a910ed21ca77f59f42a85d4d31e75c3a4c70e711034601",
+      "Size": 422719,
+      "Side": "client",
+      "ProjectId": "2M01OLQq",
+      "VersionId": "Cj9VEeGt",
+      "Title": "Shulker Box Tooltip",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/2M01OLQq/bb490716cf2590cf84100a495931c3d4743bce43_96.webp",
+      "ClientSupport": "required",
+      "ServerSupport": "optional",
+      "RequiredProjectIds": [
+        "P7dR8mSH"
+      ],
+      "Disabled": false,
+      "DisabledReason": null
+    },
+    {
+      "Path": "mods/ForgeConfigAPIPort-v26.3.1-mc26.3.x-Fabric.jar",
+      "Url": "https://cdn.modrinth.com/data/ohNO6lps/versions/JpKvrr9J/ForgeConfigAPIPort-v26.3.1-mc26.3.x-Fabric.jar",
+      "Sha256": "95cc2bd7a943f910a54baf2f65acde301dcfb3d8aeff2c989c04c416d5a4a1cd",
+      "Size": 609574,
+      "Side": "client",
+      "ProjectId": "ohNO6lps",
+      "VersionId": "JpKvrr9J",
+      "Title": "Forge Config API Port",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/ohNO6lps/cb3b942cc18a66a0f35f802e004713f134e46cc2_96.webp",
+      "ClientSupport": "optional",
+      "ServerSupport": "optional",
+      "RequiredProjectIds": [
+        "P7dR8mSH"
+      ],
+      "Disabled": false,
+      "DisabledReason": null
+    },
+    {
+      "Path": "mods/puzzleslib-v26.3.15-mc26.3.x\u002Bfabric.jar",
+      "Url": "https://cdn.modrinth.com/data/QAGBst4M/versions/68hLXNWE/puzzleslib-v26.3.15-mc26.3.x%2Bfabric.jar",
+      "Sha256": "dc79d1970ebcf3ab017b4519656bf3200066b93e821ca4f591cff5e07c9202c1",
+      "Size": 1093312,
+      "Side": "client",
+      "ProjectId": "QAGBst4M",
+      "VersionId": "68hLXNWE",
+      "Title": "Puzzles Lib",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/QAGBst4M/c78216c61f65b6ce82593e4e92e9c358402bb524_96.webp",
+      "ClientSupport": "optional",
+      "ServerSupport": "optional",
+      "RequiredProjectIds": [
+        "ohNO6lps",
+        "P7dR8mSH"
+      ],
+      "Disabled": false,
+      "DisabledReason": null
+    },
+    {
+      "Path": "mods/pickupnotifier-v26.3.0-mc26.3.x\u002Bfabric.jar",
+      "Url": "https://cdn.modrinth.com/data/ZX66K16c/versions/veV20ScD/pickupnotifier-v26.3.0-mc26.3.x%2Bfabric.jar",
+      "Sha256": "832383ec1daf70575bf789ba15229b0542994e5055d7e078eb239a7778a8202b",
+      "Size": 72607,
+      "Side": "client",
+      "ProjectId": "ZX66K16c",
+      "VersionId": "veV20ScD",
+      "Title": "Pick Up Notifier",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/ZX66K16c/769d7c843339981c1f8e5eec5ff983294a3671fb_96.webp",
+      "ClientSupport": "required",
+      "ServerSupport": "optional",
+      "RequiredProjectIds": [
+        "QAGBst4M",
+        "ohNO6lps",
+        "P7dR8mSH"
+      ],
+      "Disabled": false,
+      "DisabledReason": null
+    },
+    {
+      "Path": "mods/MouseTweaks-fabric-mc26.3-2.31.jar",
+      "Url": "https://cdn.modrinth.com/data/aC3cM3Vq/versions/LeMuMhLv/MouseTweaks-fabric-mc26.3-2.31.jar",
+      "Sha256": "7fa35df568c870c45fd144dc9a54139459ded823615dda32bc09d9025831e655",
+      "Size": 74569,
+      "Side": "client",
+      "ProjectId": "aC3cM3Vq",
+      "VersionId": "LeMuMhLv",
+      "Title": "Mouse Tweaks",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/aC3cM3Vq/6c0eaa4e60a9c87f4766f222ff63286f09da32c0_96.webp",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": [],
+      "Disabled": false,
+      "DisabledReason": null
+    },
+    {
+      "Path": "mods/sounds-2.6.0\u002B26.3-fabric.jar",
+      "Url": "https://cdn.modrinth.com/data/ZouiUX7t/versions/QCFPBvDa/sounds-2.6.0%2B26.3-fabric.jar",
+      "Sha256": "f9ec9c0abfebbbbf255c827e23892fc38d02ed3ff60da2be002f4c87f5ae249e",
+      "Size": 8143246,
+      "Side": "client",
+      "ProjectId": "ZouiUX7t",
+      "VersionId": "QCFPBvDa",
+      "Title": "Sounds",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/ZouiUX7t/b6ae84ea14654245f58856722473afeddf72360c_96.webp",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": [
+        "SNVQ2c0g",
+        "1eAoo2KR",
+        "P7dR8mSH"
+      ],
+      "Disabled": false,
+      "DisabledReason": null
+    },
+    {
+      "Path": "mods/eg_particle_interactions-0.10.5\u002B26.3-fabric.jar",
+      "Url": "https://cdn.modrinth.com/data/xFCYuAs8/versions/wdwSEgcr/eg_particle_interactions-0.10.5%2B26.3-fabric.jar",
+      "Sha256": "32a500d1f07b857a55e1ff95376329c1100cc80ce45f9f349f3c7774051a2178",
+      "Size": 998540,
+      "Side": "client",
+      "ProjectId": "xFCYuAs8",
+      "VersionId": "wdwSEgcr",
+      "Title": "Particle Interactions",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/xFCYuAs8/0e7703bd98984c69352147bebbaf11b2e24f8070_96.webp",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": [],
+      "Disabled": false,
+      "DisabledReason": null
+    },
+    {
+      "Path": "mods/mru-1.0.44\u002B26.3-fabric.jar",
+      "Url": "https://cdn.modrinth.com/data/SNVQ2c0g/versions/fHDvIf3d/mru-1.0.44%2B26.3-fabric.jar",
+      "Sha256": "9cc8a03242c58d395c4368ed802bcfaee9301cd0d2d0cf69556f0252e2452bf6",
+      "Size": 158509,
+      "Side": "client",
+      "ProjectId": "SNVQ2c0g",
+      "VersionId": "fHDvIf3d",
+      "Title": "MRU",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/SNVQ2c0g/82339bfc8a0a3a6a3c376f5c29555a378379cfa0_96.webp",
+      "ClientSupport": "optional",
+      "ServerSupport": "optional",
+      "RequiredProjectIds": [
+        "P7dR8mSH"
+      ],
+      "Disabled": false,
+      "DisabledReason": null
+    },
+    {
+      "Path": "mods/immersive-hotbar-1.2.2-26.3.jar",
+      "Url": "https://cdn.modrinth.com/data/hsPB5xMD/versions/5p5svVAS/immersive-hotbar-1.2.2-26.3.jar",
+      "Sha256": "f748ccefbc2076d0b093525ce5b7e209f9a4a026978c19d77a401b13d7981bba",
+      "Size": 128475,
+      "Side": "client",
+      "ProjectId": "hsPB5xMD",
+      "VersionId": "5p5svVAS",
+      "Title": "Immersive Hotbar",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/hsPB5xMD/49a1d507980ca08381ae2742db4d674d1e6238c9_96.webp",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": [
+        "P7dR8mSH",
+        "1eAoo2KR"
+      ],
+      "Disabled": false,
+      "DisabledReason": null
+    },
+    {
+      "Path": "mods/packed_packs-fabric-2.3.1\u002B26.3.jar",
+      "Url": "https://cdn.modrinth.com/data/8Pq6Exn2/versions/ifCUN8CS/packed_packs-fabric-2.3.1%2B26.3.jar",
+      "Sha256": "7a5e953b9ce6a1131699f1500830e72060d96be4bd873ff5c554579750371b9b",
+      "Size": 994655,
+      "Side": "client",
+      "ProjectId": "8Pq6Exn2",
+      "VersionId": "ifCUN8CS",
+      "Title": "Packed Packs",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/8Pq6Exn2/ddfa6a6bc6bc282160fa92b70df711fab6948d01.png",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": [
+        "P7dR8mSH"
+      ],
+      "Disabled": false,
+      "DisabledReason": null
+    },
+    {
+      "Path": "mods/controlify-3.5.3\u002Bmc26.3-universal.jar",
+      "Url": "https://cdn.modrinth.com/data/DOUdJVEm/versions/fo76vL20/controlify-3.5.3%2Bmc26.3-universal.jar",
+      "Sha256": "bc759f557d122079bb9078741065935bf3aa9bfd5e60b414e242633c0dded86a",
+      "Size": 6410187,
+      "Side": "client",
+      "ProjectId": "DOUdJVEm",
+      "VersionId": "fo76vL20",
+      "Title": "Controlify (Controller support)",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/DOUdJVEm/5a6c126c4c761ba3e8e9d3ef09a68e16ff60ff22_96.webp",
+      "ClientSupport": "required",
+      "ServerSupport": "optional",
+      "RequiredProjectIds": [
+        "1eAoo2KR",
+        "P7dR8mSH"
+      ],
+      "Disabled": false,
+      "DisabledReason": null
+    },
+    {
+      "Path": "mods/fastback-fabric-0.35.0\u002B26.3.0.jar",
+      "Url": "https://cdn.modrinth.com/data/ZHKrK8Rp/versions/RvW6Ltl7/fastback-fabric-0.35.0%2B26.3.0.jar",
+      "Sha256": "c2c376bd601e0745c522a9af40e8811271f7be52975a9f65ebdb160becc8eead",
+      "Size": 5598532,
+      "Side": "server",
+      "ProjectId": "ZHKrK8Rp",
+      "VersionId": "RvW6Ltl7",
+      "Title": "Fast Backups",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/ZHKrK8Rp/a7e5015060e1715be5bdfc19953749a657ed7b9c_96.webp",
+      "ClientSupport": "unsupported",
+      "ServerSupport": "required",
+      "RequiredProjectIds": [
+        "P7dR8mSH"
+      ],
+      "Disabled": false,
+      "DisabledReason": null
+    },
+    {
+      "Path": "mods/AccurateBlockPlacement-Reborn-1.4.8\u002Bmc-26.3.jar",
+      "Url": "https://cdn.modrinth.com/data/kzwxhsjp/versions/bQR5qyoO/AccurateBlockPlacement-Reborn-1.4.8%2Bmc-26.3.jar",
+      "Sha256": "83dc62fb83cf6ff60f56bf4359004cce936a5c7a724d1aa38c0e8d95644e1efc",
+      "Size": 46748,
+      "Side": "client",
+      "ProjectId": "kzwxhsjp",
+      "VersionId": "bQR5qyoO",
+      "Title": "Accurate Block Placement Reborn",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/kzwxhsjp/d625b497fc032d684c9c9d1826ee04fbef9f37d9_96.webp",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": [
+        "P7dR8mSH"
+      ],
+      "Disabled": false,
+      "DisabledReason": null
+    },
+    {
+      "Path": "mods/Clumps-fabric-26.3-26.3.2.jar",
+      "Url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/J4I1wxJZ/Clumps-fabric-26.3-26.3.2.jar",
+      "Sha256": "8c72b1505a11ad93ed19b5a914eb6a036da92eb323d58da288bef36c19ed7624",
+      "Size": 20154,
+      "Side": "client",
+      "ProjectId": "Wnxd13zP",
+      "VersionId": "J4I1wxJZ",
+      "Title": "Clumps",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/Wnxd13zP/6a965bb7974c3e759a53a1c89c35de4acd4cf86a_96.webp",
+      "ClientSupport": "optional",
+      "ServerSupport": "optional",
+      "RequiredProjectIds": [
+        "P7dR8mSH"
+      ],
+      "Disabled": false,
+      "DisabledReason": null
+    },
+    {
+      "Path": "mods/bbe-fabric-1.4.0\u002Bmc26.3-mod.jar",
+      "Url": "https://cdn.modrinth.com/data/ONZm0H7Y/versions/FU2tstk7/bbe-fabric-1.4.0%2Bmc26.3-mod.jar",
+      "Sha256": "bbd7118e9a65c514a69646ee95e8c467154d593c37518d48f392379a51f514a8",
+      "Size": 207605,
+      "Side": "client",
+      "ProjectId": "ONZm0H7Y",
+      "VersionId": "FU2tstk7",
+      "Title": "Better Block Entities",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/ONZm0H7Y/5ff4f3ad6948a0bf185f641c407878932bae3dcf.png",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": [
+        "AANobbMI"
+      ],
+      "Disabled": false,
+      "DisabledReason": null
+    },
+    {
+      "Path": "mods/sodium-fabric-0.9.2\u002Bmc26.3.jar",
+      "Url": "https://cdn.modrinth.com/data/AANobbMI/versions/bAZQdGpg/sodium-fabric-0.9.2%2Bmc26.3.jar",
+      "Sha256": "87a5bb39f7e6e41106e77f122f82fc93f9d3bc0b6ebcb746b314172a446a287a",
+      "Size": 1908068,
+      "Side": "client",
+      "ProjectId": "AANobbMI",
+      "VersionId": "bAZQdGpg",
+      "Title": "Sodium",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/AANobbMI/295862f4724dc3f78df3447ad6072b2dcd3ef0c9_96.webp",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": [],
+      "Disabled": false,
+      "DisabledReason": null
+    },
+    {
+      "Path": "mods/calcmod-1.6.0\u002Bfabric.26.3.jar",
+      "Url": "https://cdn.modrinth.com/data/XoHTb2Ap/versions/9BJsVSBw/calcmod-1.6.0%2Bfabric.26.3.jar",
+      "Sha256": "d53b1e9dc8ec649a33d9ee45f0694a601566fba4de8b67e498a7c50ad6894592",
+      "Size": 659467,
+      "Side": "client",
+      "ProjectId": "XoHTb2Ap",
+      "VersionId": "9BJsVSBw",
+      "Title": "CalcMod",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/XoHTb2Ap/fe87f9fb4d48afbe539314b17e1be68ba242e58a.gif",
+      "ClientSupport": "optional",
+      "ServerSupport": "optional",
+      "RequiredProjectIds": [],
+      "Disabled": false,
+      "DisabledReason": null
+    },
+    {
+      "Path": "mods/techutils-0.8.3\u002B26.3.jar",
+      "Url": "https://cdn.modrinth.com/data/hNoAJSm7/versions/bImkVbWW/techutils-0.8.3%2B26.3.jar",
+      "Sha256": "48f59e7f07b362199a9e036ac4e4b7c1274338b237d0e240c6b849b343384d66",
+      "Size": 163840,
+      "Side": "client",
+      "ProjectId": "hNoAJSm7",
+      "VersionId": "bImkVbWW",
+      "Title": "Technical Utilities",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/hNoAJSm7/285fc69f9208b8fd73340730497bc3f92ae542bd_96.webp",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": [
+        "bEpr0Arc",
+        "GcWjdA9I"
+      ],
+      "Disabled": false,
+      "DisabledReason": null
+    },
+    {
+      "Path": "mods/litematica-fabric-26.3-0.29.1.jar",
+      "Url": "https://cdn.modrinth.com/data/bEpr0Arc/versions/ZqV316KY/litematica-fabric-26.3-0.29.1.jar",
+      "Sha256": "0138223fb9b8f971f5c3dc4a79021b33b73e0f145ed6f4c76df3732583e676da",
+      "Size": 1972556,
+      "Side": "client",
+      "ProjectId": "bEpr0Arc",
+      "VersionId": "ZqV316KY",
+      "Title": "Litematica",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/bEpr0Arc/25b5529d7a3b030ac136a6ce879d8ed2a1aa4a8d.png",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": [
+        "GcWjdA9I"
+      ],
+      "Disabled": false,
+      "DisabledReason": null
+    },
+    {
+      "Path": "mods/malilib-fabric-26.3-0.30.2.jar",
+      "Url": "https://cdn.modrinth.com/data/GcWjdA9I/versions/JX9bESec/malilib-fabric-26.3-0.30.2.jar",
+      "Sha256": "abd59f642abd891586bfec2cd1937771ded925081ebe3870d152ca96356b5119",
+      "Size": 2081094,
+      "Side": "client",
+      "ProjectId": "GcWjdA9I",
+      "VersionId": "JX9bESec",
+      "Title": "MaLiLib",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/GcWjdA9I/a530ae55df5e0c405f5cf1b3e4fd6163a398bdc3.png",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": [],
+      "Disabled": false,
+      "DisabledReason": null
+    },
+    {
+      "Path": "mods/yet_another_config_lib_v3-3.9.7\u002B26.3-fabric.jar",
+      "Url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/s9SjoFu1/yet_another_config_lib_v3-3.9.7%2B26.3-fabric.jar",
+      "Sha256": "c52d41d444522d9abba994cd4c4ee2e71a065d7c31010f92a9959b80ccb4b0f5",
+      "Size": 1125377,
+      "Side": "client",
+      "ProjectId": "1eAoo2KR",
+      "VersionId": "s9SjoFu1",
+      "Title": "YetAnotherConfigLib (YACL)",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/1eAoo2KR/08c0cd32515e260f4bb20bbc0696510041523f9a_96.webp",
+      "ClientSupport": "optional",
+      "ServerSupport": "optional",
+      "RequiredProjectIds": [
+        "P7dR8mSH"
+      ],
+      "Disabled": false,
+      "DisabledReason": null
+    },
+    {
+      "Path": "mods/zoomify-2.17.0\u002Bmc26.3-universal.jar",
+      "Url": "https://cdn.modrinth.com/data/w7ThoJFB/versions/RUBpNu00/zoomify-2.17.0%2Bmc26.3-universal.jar",
+      "Sha256": "134edcc2992d2f6c3793746101dec1aba3ef02f046024fd280afb09094593027",
+      "Size": 579146,
+      "Side": "client",
+      "ProjectId": "w7ThoJFB",
+      "VersionId": "RUBpNu00",
+      "Title": "Zoomify (Zoom)",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/w7ThoJFB/e2de67a0bfb9e8aa2347982ab3ec5463f26cca31_96.webp",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": [
+        "P7dR8mSH",
+        "Ha28R6CL",
+        "1vrSzlao",
+        "1eAoo2KR"
+      ],
+      "Disabled": true,
+      "DisabledReason": "Required dependency 1vrSzlao is unavailable or disabled."
+    },
+    {
+      "Path": "mods/freecam-fabric-1.5.1\u002Bmc26.3.jar",
+      "Url": "https://cdn.modrinth.com/data/XeEZ3fK2/versions/lwrkvqym/freecam-fabric-1.5.1%2Bmc26.3.jar",
+      "Sha256": "882f8001b4eadeaf327768d5813f426f731f8b656365f4b760bf7c67e182f003",
+      "Size": 2010574,
+      "Side": "client",
+      "ProjectId": "XeEZ3fK2",
+      "VersionId": "lwrkvqym",
+      "Title": "Freecam",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/XeEZ3fK2/9529a900a2aa6ed56c1b3167f165bac91b3acd6e_96.webp",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": [],
+      "Disabled": false,
+      "DisabledReason": null
+    },
+    {
+      "Path": "mods/fabric-language-kotlin-1.14.2\u002Bkotlin.2.4.21.jar",
+      "Url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/SKW1BTL3/fabric-language-kotlin-1.14.2%2Bkotlin.2.4.21.jar",
+      "Sha256": "fbdbf5286ab9d65fedb49e6e01c15e338ae303eb7b9d8c7423d0a9bcfe526ef9",
+      "Size": 8142878,
+      "Side": "client",
+      "ProjectId": "Ha28R6CL",
+      "VersionId": "SKW1BTL3",
+      "Title": "Fabric Language Kotlin",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/Ha28R6CL/72c3d74aeb665e45aea93a945a01474cbce3b7da_96.webp",
+      "ClientSupport": "optional",
+      "ServerSupport": "optional",
+      "RequiredProjectIds": [],
+      "Disabled": false,
+      "DisabledReason": null
+    },
+    {
+      "Path": "mods/libIPN-fabric-26.3-6.9.0.jar",
+      "Url": "https://cdn.modrinth.com/data/onSQdWhM/versions/aKBFonyQ/libIPN-fabric-26.3-6.9.0.jar",
+      "Sha256": "da8cee972731b25921897c55239793ac27729a57438bcf31a32a2e23036c3da0",
+      "Size": 640902,
+      "Side": "client",
+      "ProjectId": "onSQdWhM",
+      "VersionId": "aKBFonyQ",
+      "Title": "libIPN",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/onSQdWhM/feb2d62d9f150539bfd2a69d373866b1e643545c_96.webp",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": [
+        "Ha28R6CL",
+        "P7dR8mSH"
+      ],
+      "Disabled": false,
+      "DisabledReason": null
+    },
+    {
+      "Path": "mods/cloth-config-fabric-26.3.159.jar",
+      "Url": "https://cdn.modrinth.com/data/9s6osm5g/versions/fg2uyxOW/cloth-config-fabric-26.3.159.jar",
+      "Sha256": "1716b9964f90d2b885f9bd3887f8824b71b55c32a4123a5853486e722f7c2e4b",
+      "Size": 1135009,
+      "Side": "client",
+      "ProjectId": "9s6osm5g",
+      "VersionId": "fg2uyxOW",
+      "Title": "Cloth Config API",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/9s6osm5g/ed8a2316cbb6f4fc5f510e8e13a59a85cbbbff4d_96.webp",
+      "ClientSupport": "optional",
+      "ServerSupport": "optional",
+      "RequiredProjectIds": [],
+      "Disabled": false,
+      "DisabledReason": null
+    },
+    {
+      "Path": "mods/placeholder-api-3.2.0\u002B26.3.jar",
+      "Url": "https://cdn.modrinth.com/data/eXts2L7r/versions/lXytLqWj/placeholder-api-3.2.0%2B26.3.jar",
+      "Sha256": "d9a5351b42a8d79cfc2e7f2a471472f9e4dff3b13874c8d420dbb93600b91a85",
+      "Size": 254959,
+      "Side": "client",
+      "ProjectId": "eXts2L7r",
+      "VersionId": "lXytLqWj",
+      "Title": "Text Placeholder API",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/eXts2L7r/e9c9990896e6422bffc5f73d2c41b8f077348f83.png",
+      "ClientSupport": "optional",
+      "ServerSupport": "optional",
+      "RequiredProjectIds": [],
+      "Disabled": false,
+      "DisabledReason": null
+    },
+    {
+      "Path": "mods/modmenu-21.0.0.jar",
+      "Url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/kyy7dbrZ/modmenu-21.0.0.jar",
+      "Sha256": "837812c6c98d66141db7b5dcae668f27fb78d557e8f4c0c89912985fc26a5e6f",
+      "Size": 856779,
+      "Side": "client",
+      "ProjectId": "mOgUt4GM",
+      "VersionId": "kyy7dbrZ",
+      "Title": "Mod Menu",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/mOgUt4GM/5a20ed1450a0e1e79a1fe04e61bb4e5878bf1d20.png",
+      "ClientSupport": "required",
+      "ServerSupport": "unsupported",
+      "RequiredProjectIds": [
+        "eXts2L7r",
+        "P7dR8mSH"
+      ],
+      "Disabled": false,
+      "DisabledReason": null
+    },
+    {
+      "Path": "mods/clientsort-fabric-3.104.1\u002B26.3.jar",
+      "Url": "https://cdn.modrinth.com/data/K0AkAin6/versions/UWMryUad/clientsort-fabric-3.104.1%2B26.3.jar",
+      "Sha256": "37f812d25307bc011be64a4853e26d848b858599c5068244dd857c521d4078ce",
+      "Size": 356994,
+      "Side": "client",
+      "ProjectId": "K0AkAin6",
+      "VersionId": "UWMryUad",
+      "Title": "Client Sort",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/K0AkAin6/7cf06458738334bd5d8cd77d086529d453f56ef6_96.webp",
+      "ClientSupport": "required",
+      "ServerSupport": "optional",
+      "RequiredProjectIds": [
+        "mOgUt4GM",
+        "9s6osm5g"
+      ],
+      "Disabled": false,
+      "DisabledReason": null
     }
   ]
 }
