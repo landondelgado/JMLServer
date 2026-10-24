@@ -2,10 +2,10 @@
   "PackName": "Landon SMP",
   "ProfileId": "606267fa9b574f33a1e9934fbaaeae32",
   "ProfileName": "JML Main",
-  "Version": "2026.10.24.231500",
-  "MinecraftVersion": "26.2",
+  "Version": "2026.10.24.231844",
+  "MinecraftVersion": "26.3",
   "ModLoader": "fabric",
-  "FabricLoaderVersion": "",
+  "FabricLoaderVersion": "0.20.1",
   "NeoForgeVersion": "",
   "ForgeVersion": "",
   "QuiltLoaderVersion": "",
@@ -1306,8 +1306,8 @@
       "ClientSupport": "required",
       "ServerSupport": "required",
       "RequiredProjectIds": [
-        "Ha28R6CL",
-        "P7dR8mSH"
+        "P7dR8mSH",
+        "Ha28R6CL"
       ],
       "Disabled": false,
       "DisabledReason": null,
@@ -1615,9 +1615,9 @@
       "ClientSupport": "required",
       "ServerSupport": "optional",
       "RequiredProjectIds": [
+        "P7dR8mSH",
         "ohNO6lps",
-        "QAGBst4M",
-        "P7dR8mSH"
+        "QAGBst4M"
       ],
       "Disabled": false,
       "DisabledReason": null,
@@ -1664,8 +1664,8 @@
       "ServerSupport": "unsupported",
       "RequiredProjectIds": [
         "SNVQ2c0g",
-        "1eAoo2KR",
-        "P7dR8mSH"
+        "P7dR8mSH",
+        "1eAoo2KR"
       ],
       "Disabled": false,
       "DisabledReason": null,
@@ -1735,8 +1735,8 @@
       "ClientSupport": "required",
       "ServerSupport": "unsupported",
       "RequiredProjectIds": [
-        "1eAoo2KR",
-        "P7dR8mSH"
+        "P7dR8mSH",
+        "1eAoo2KR"
       ],
       "Disabled": false,
       "DisabledReason": null,
@@ -2044,9 +2044,9 @@
       "ClientSupport": "required",
       "ServerSupport": "unsupported",
       "RequiredProjectIds": [
-        "Ha28R6CL",
-        "P7dR8mSH",
         "1vrSzlao",
+        "P7dR8mSH",
+        "Ha28R6CL",
         "1eAoo2KR"
       ],
       "Disabled": true,
@@ -2209,8 +2209,8 @@
       "ClientSupport": "required",
       "ServerSupport": "optional",
       "RequiredProjectIds": [
-        "mOgUt4GM",
-        "9s6osm5g"
+        "9s6osm5g",
+        "mOgUt4GM"
       ],
       "Disabled": false,
       "DisabledReason": null,
@@ -2322,8 +2322,8 @@
       "ClientSupport": "optional",
       "ServerSupport": "optional",
       "RequiredProjectIds": [
-        "P7dR8mSH",
-        "ohNO6lps"
+        "ohNO6lps",
+        "P7dR8mSH"
       ],
       "Disabled": false,
       "DisabledReason": null,
