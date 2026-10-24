@@ -1,0 +1,2 @@
+# JML managed client payload must remain byte-exact.
+/files/** -text
