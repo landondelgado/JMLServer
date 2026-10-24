@@ -1,9 +1,9 @@
 {
   "PackName": "Landon SMP",
-  "Version": "2026.10.24.225029",
-  "MinecraftVersion": "26.2",
+  "Version": "2026.10.24.225145",
+  "MinecraftVersion": "26.3",
   "ModLoader": "fabric",
-  "FabricLoaderVersion": "",
+  "FabricLoaderVersion": "0.20.1",
   "NeoForgeVersion": "",
   "ForgeVersion": "",
   "QuiltLoaderVersion": "",
@@ -1084,28 +1084,6 @@
       "PackVersionId": ""
     },
     {
-      "Path": "mods/voxy-server-side-fabric.jar",
-      "Url": "https://cdn.modrinth.com/data/84zcagOb/versions/T7UC95an/voxy-server-side-fabric.jar",
-      "Sha256": "b8275a14eae3efa0ac5988c7de6e7fcea1f2b8831234235ba4255ceb0278f1c2",
-      "Size": 9304289,
-      "Side": "server",
-      "ProjectId": "84zcagOb",
-      "VersionId": "T7UC95an",
-      "Title": "Voxy Server Side",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/84zcagOb/8f13eacb45ff56be05d77190237cd7d159cb136f.png",
-      "ClientSupport": "required",
-      "ServerSupport": "required",
-      "RequiredProjectIds": [],
-      "Disabled": false,
-      "DisabledReason": null,
-      "Owner": "jml",
-      "ContentKind": "mod",
-      "Provider": "",
-      "PackProjectId": "",
-      "PackVersionId": ""
-    },
-    {
       "Path": "mods/worldedit-mod-7.4.6.jar",
       "Url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/ByRNkO83/worldedit-mod-7.4.6.jar",
       "Sha256": "24f2338ac9d5e7205f15cdb4a118924c5d9cbd48ab0cabf8ba36b07b7d64c22b",
@@ -1326,8 +1304,8 @@
       "ClientSupport": "required",
       "ServerSupport": "required",
       "RequiredProjectIds": [
-        "P7dR8mSH",
-        "Ha28R6CL"
+        "Ha28R6CL",
+        "P7dR8mSH"
       ],
       "Disabled": false,
       "DisabledReason": null,
@@ -1622,31 +1600,6 @@
       "PackVersionId": ""
     },
     {
-      "Path": "mods/puzzleslib-v26.3.15-mc26.3.x\u002Bfabric.jar",
-      "Url": "https://cdn.modrinth.com/data/QAGBst4M/versions/68hLXNWE/puzzleslib-v26.3.15-mc26.3.x%2Bfabric.jar",
-      "Sha256": "dc79d1970ebcf3ab017b4519656bf3200066b93e821ca4f591cff5e07c9202c1",
-      "Size": 1093312,
-      "Side": "client",
-      "ProjectId": "QAGBst4M",
-      "VersionId": "68hLXNWE",
-      "Title": "Puzzles Lib",
-      "Author": null,
-      "IconUrl": "https://cdn.modrinth.com/data/QAGBst4M/c78216c61f65b6ce82593e4e92e9c358402bb524_96.webp",
-      "ClientSupport": "optional",
-      "ServerSupport": "optional",
-      "RequiredProjectIds": [
-        "ohNO6lps",
-        "P7dR8mSH"
-      ],
-      "Disabled": false,
-      "DisabledReason": null,
-      "Owner": "jml",
-      "ContentKind": "mod",
-      "Provider": "",
-      "PackProjectId": "",
-      "PackVersionId": ""
-    },
-    {
       "Path": "mods/pickupnotifier-v26.3.0-mc26.3.x\u002Bfabric.jar",
       "Url": "https://cdn.modrinth.com/data/ZX66K16c/versions/veV20ScD/pickupnotifier-v26.3.0-mc26.3.x%2Bfabric.jar",
       "Sha256": "832383ec1daf70575bf789ba15229b0542994e5055d7e078eb239a7778a8202b",
@@ -1660,8 +1613,8 @@
       "ClientSupport": "required",
       "ServerSupport": "optional",
       "RequiredProjectIds": [
-        "QAGBst4M",
         "ohNO6lps",
+        "QAGBst4M",
         "P7dR8mSH"
       ],
       "Disabled": false,
@@ -1780,8 +1733,8 @@
       "ClientSupport": "required",
       "ServerSupport": "unsupported",
       "RequiredProjectIds": [
-        "P7dR8mSH",
-        "1eAoo2KR"
+        "1eAoo2KR",
+        "P7dR8mSH"
       ],
       "Disabled": false,
       "DisabledReason": null,
@@ -2089,8 +2042,8 @@
       "ClientSupport": "required",
       "ServerSupport": "unsupported",
       "RequiredProjectIds": [
-        "P7dR8mSH",
         "Ha28R6CL",
+        "P7dR8mSH",
         "1vrSzlao",
         "1eAoo2KR"
       ],
@@ -2323,6 +2276,53 @@
       "ClientSupport": "required",
       "ServerSupport": "unsupported",
       "RequiredProjectIds": [],
+      "Disabled": false,
+      "DisabledReason": null,
+      "Owner": "jml",
+      "ContentKind": "mod",
+      "Provider": "",
+      "PackProjectId": "",
+      "PackVersionId": ""
+    },
+    {
+      "Path": "mods/voxy-server-side-fabric.jar",
+      "Url": "https://cdn.modrinth.com/data/84zcagOb/versions/pelnHKPK/voxy-server-side-fabric.jar",
+      "Sha256": "3a81b998b24a26a4e6a46ecbe30024421cbf4dfd4da563ca2059d4df6a0c4aa8",
+      "Size": 9327732,
+      "Side": "server",
+      "ProjectId": "84zcagOb",
+      "VersionId": "pelnHKPK",
+      "Title": "Voxy Server Side",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/84zcagOb/8f13eacb45ff56be05d77190237cd7d159cb136f.png",
+      "ClientSupport": "required",
+      "ServerSupport": "required",
+      "RequiredProjectIds": [],
+      "Disabled": false,
+      "DisabledReason": null,
+      "Owner": "jml",
+      "ContentKind": "mod",
+      "Provider": "",
+      "PackProjectId": "",
+      "PackVersionId": ""
+    },
+    {
+      "Path": "mods/puzzleslib-v26.3.16-mc26.3.x\u002Bfabric.jar",
+      "Url": "https://cdn.modrinth.com/data/QAGBst4M/versions/vbwu116x/puzzleslib-v26.3.16-mc26.3.x%2Bfabric.jar",
+      "Sha256": "ab95b755fa186c3683d86b7961f7f8b69685f83f588f36c444a47ebaea937b4b",
+      "Size": 1094013,
+      "Side": "client",
+      "ProjectId": "QAGBst4M",
+      "VersionId": "vbwu116x",
+      "Title": "Puzzles Lib",
+      "Author": null,
+      "IconUrl": "https://cdn.modrinth.com/data/QAGBst4M/c78216c61f65b6ce82593e4e92e9c358402bb524_96.webp",
+      "ClientSupport": "optional",
+      "ServerSupport": "optional",
+      "RequiredProjectIds": [
+        "P7dR8mSH",
+        "ohNO6lps"
+      ],
       "Disabled": false,
       "DisabledReason": null,
       "Owner": "jml",
